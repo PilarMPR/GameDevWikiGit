@@ -1,0 +1,59 @@
+{
+  "agent_name": "gamedev-scout",
+  "inbox_dir": "D:/GameDevWiki/_inbox",
+  "seen_ledger": "D:/GameDevWiki/_agent/logs/seen_scout.json",
+
+  "feeds": [
+    "https://www.gamedeveloper.com/rss.xml",
+    "https://www.deconstructoroffun.com/blog?format=rss",
+    "https://howtomarketagame.com/feed/",
+    "https://lostgarden.com/feeds/posts/default"
+  ],
+
+  "interests": [
+    "what is fun game design theory player motivation",
+    "systems design emergence complexity in games",
+    "game feel juice feedback polish mechanics",
+    "free-to-play monetization design ethics economy",
+    "level design spatial theory environmental storytelling",
+    "party game design multiplayer chaos balance readability"
+  ],
+
+  "wishlist": [
+    {
+      "title": "A Theory of Fun for Game Design",
+      "author": "Raph Koster",
+      "known_sources": ["https://www.theoryoffun.com/"]
+    },
+    {
+      "title": "The Art of Game Design: A Book of Lenses",
+      "author": "Jesse Schell",
+      "known_sources": []
+    },
+    {
+      "title": "Game Feel: A Game Designer's Guide to Virtual Sensation",
+      "author": "Steve Swink",
+      "known_sources": []
+    },
+    {
+      "title": "Rules of Play: Game Design Fundamentals",
+      "author": "Salen & Zimmerman",
+      "known_sources": ["https://archive.org/details/rulesofplaygamed0000sale"]
+    },
+    {
+      "title": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "known_sources": []
+    },
+    {
+      "title": "Homo Ludens",
+      "author": "Johan Huizinga",
+      "known_sources": ["https://archive.org/details/homoludens0000huiz"]
+    },
+    {
+      "title": "Level Up! The Guide to Great Video Game Design",
+      "author": "Scott Rogers",
+      "known_sources": []
+    }
+  ]
+}

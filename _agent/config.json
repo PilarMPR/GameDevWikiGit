@@ -1,0 +1,24 @@
+{
+  "agent_name": "gamedevwiki",
+  "vault_path": "D:/GameDevWiki",
+  "model": "claude-sonnet-4-6",
+  "max_tokens": 2000,
+  "monthly_budget_usd": 22,
+  "pricing": {
+    "input_per_mtok": 3.0,
+    "output_per_mtok": 15.0
+  },
+  "log_retention_days": 30,
+  "watch_paths": {
+    "pages": {
+      "path": "D:/GameDevWiki/wiki",
+      "recursive": true,
+      "on_modified": true
+    }
+  },
+  "git_auto_commit": false,
+  "git_commit_prefix": "chore(gamedevwiki):",
+  "debounce_seconds": 3,
+  "wiki_root": "D:/GameDevWiki/wiki",
+  "out_dir": "D:/GameDevWiki/_agent/out"
+}

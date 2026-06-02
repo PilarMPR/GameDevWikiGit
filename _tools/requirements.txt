@@ -1,0 +1,3 @@
+# Deep-ingest tooling deps (install: python -m pip install -r _tools/requirements.txt)
+pypdf>=6
+cryptography>=40

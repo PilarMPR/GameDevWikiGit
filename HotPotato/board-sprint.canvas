@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"group-t1","type":"group","label":"🔴 Tier 1 — Antes del prototipo","x":-1400,"y":-100,"width":820,"height":900,"color":"1"},
+		{"id":"group-t2","type":"group","label":"🟡 Tier 2 — Antes de alpha","x":-480,"y":-100,"width":820,"height":900,"color":"3"},
+		{"id":"group-t3","type":"group","label":"🟢 Tier 3 — Puede esperar","x":440,"y":-100,"width":820,"height":900,"color":"4"},
+		{"id":"header","type":"text","text":"# Hot Potato — Preguntas Abiertas\nMover a **decisions.md** cuando estén resueltas.","x":-1400,"y":-220,"width":1660,"height":80},
+		{"id":"q1","type":"text","text":"**Q1 — Match duration**\n120s es el target del GDD. ¿Se confirma?\n\nAlternativas: 90s (más intenso) o 180s (más FAP events)\n\n*Testear en primer prototipo*","x":-1380,"y":-60,"width":360,"height":180,"color":"1"},
+		{"id":"q2","type":"text","text":"**Q2 — Anti-camp: ¿aplica a la Patata también?**\nEl sistema es genérico. ¿Tiene sentido penalizar a la Patata por esperar?\n\n*Si sí → revela posición a todos*","x":-1380,"y":160,"width":360,"height":180,"color":"1"},
+		{"id":"q3","type":"text","text":"**Q3 — Densidad de giftboxes**\n¿Cuántos spawnan simultáneamente?\n\nDemasiados = todos tienen ítems siempre\nPocos = sistema irrelevante","x":-1380,"y":380,"width":360,"height":160,"color":"1"},
+		{"id":"q4","type":"text","text":"**Q4 — Boomerang vs. Patata**\nLa Patata no tiene super jump ni dodgeball.\n¿Puede usar slide/caída como contramedida?\n\n*Riesgo: boomerang demasiado OP vs. Patata*","x":-1380,"y":580,"width":360,"height":180,"color":"1"},
+		{"id":"q5","type":"text","text":"**Q5 — Wave dash timing window**\nGDD sugiere LandingWindow ~0.25s.\n\nDemasiado permisivo = deja de ser skill\nDemasiado estricto = inaccessible","x":-1380,"y":800,"width":360,"height":160,"color":"1"},
+		{"id":"q6","type":"text","text":"**Q6 — Spawn inicial en mapa**\n¿Cuánto espacio tiene la holding area?\n¿Players interactúan durante slot machine?","x":-460,"y":-60,"width":360,"height":140,"color":"3"},
+		{"id":"q7","type":"text","text":"**Q7 — Patata cae fuera del mapa**\n¿Respawn? ¿Penalización? ¿El rol se transfiere?","x":-460,"y":120,"width":360,"height":120,"color":"3"},
+		{"id":"q8","type":"text","text":"**Q8 — Giftboxes visibles en minimapa?**\n¿O solo visibles directamente?\nImportante para decisión huir vs. coger ítem","x":-460,"y":280,"width":360,"height":140,"color":"3"},
+		{"id":"q9","type":"text","text":"**Q9 — ¿El Dummy engaña a la XRay?**\nLa XRay de la Patata detecta jugadores.\n¿Detecta también el Dummy? Si sí, el ítem no funciona como contramedida.","x":-460,"y":460,"width":360,"height":160,"color":"3"},
+		{"id":"q10","type":"text","text":"**Q10 — Patata Dive: range de activación**\n¿Cuánto range exacto? ¿Cuánto tiempo se mantiene el botón?","x":-460,"y":660,"width":360,"height":140,"color":"3"},
+		{"id":"q11","type":"text","text":"**Q11 — Infected: cooldown respawn Patata**\nEl GDD no define cuánto tiempo tras muerte antes de respawn","x":-460,"y":840,"width":360,"height":120,"color":"3"},
+		{"id":"q13","type":"text","text":"**Q13 — Art style y dirección visual**\nNo definida en el GDD. ¿Cartoon? ¿Referencias?","x":460,"y":-60,"width":360,"height":120,"color":"4"},
+		{"id":"q14","type":"text","text":"**Q14 — Nombre final del juego**\n'Hot Potato' es working title. ¿Se queda?","x":460,"y":100,"width":360,"height":100,"color":"4"},
+		{"id":"q15","type":"text","text":"**Q15 — 5º pilar de diseño**\nCandidatos:\n- 'Steam party' (local + online equal)\n- 'Cada derrota es un chiste'\n- 'Legible desde el sofá'","x":460,"y":240,"width":360,"height":180,"color":"4"},
+		{"id":"q17","type":"text","text":"**Q17 — ¿Cuántos mapas en lanzamiento?**\nGDD menciona Map_Forest como ejemplo.","x":460,"y":460,"width":360,"height":120,"color":"4"},
+		{"id":"q18","type":"text","text":"**Q18 — Matchmaking online**\n¿Solo lobby privado (invite code) o también matchmaking público?","x":460,"y":620,"width":360,"height":140,"color":"4"},
+		{"id":"decisions-file","type":"file","file":"HotPotato/decisions.md","x":1400,"y":-100,"width":440,"height":200},
+		{"id":"resolved-header","type":"text","text":"## ✅ Decisiones Tomadas\n*(mover aquí → registrar en decisions.md)*","x":1400,"y":-260,"width":480,"height":80},
+		{"id":"d1","type":"text","text":"✅ **La Patata es el chaser (tag game)**\nNo objeto físico — el ROL se transfiere.","x":1400,"y":140,"width":440,"height":100,"color":"4"},
+		{"id":"d2","type":"text","text":"✅ **FAP como victoria de runners**\nAcciones disruptivas → puntos.","x":1400,"y":280,"width":440,"height":100,"color":"4"},
+		{"id":"d3","type":"text","text":"✅ **Patata al final = pierde**\nForzada al último en podio con lloros.","x":1400,"y":420,"width":440,"height":100,"color":"4"},
+		{"id":"d4","type":"text","text":"✅ **Patata escala en 25s/40s**\nTier1: ×1.2 · Tier2: ×1.5 (provisional)","x":1400,"y":560,"width":440,"height":100,"color":"4"}
+	],
+	"edges":[]
+}

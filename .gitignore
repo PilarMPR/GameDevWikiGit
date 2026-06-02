@@ -1,0 +1,18 @@
+# Copyrighted sources — NEVER commit
+raw/
+*.pdf
+
+# Build scaffolding & temp
+_work/
+**/*.full.txt
+_agent/logs/
+
+# Heavy / machine-local DBs
+.smtcmp_json_db/
+.smtcmp_vector_db.tar.gz
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS
+.DS_Store
+Thumbs.db
