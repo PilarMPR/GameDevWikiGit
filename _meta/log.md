@@ -4,6 +4,12 @@ Append-only. Each entry records what moved, where it went, and any notes.
 
 ---
 
+## [2026-06-02] Legacy directories removed
+
+Deleted `HotPotato/` (15 files) and `wiki/` (127 files) from the repository. Both are fully superseded by the Alexandria structure — content lives in `40-HotPotato/`, `10-Library/`, `30-Analyses/`, and `_ARCHIVE/`. Commit `6a27933`, pushed to `origin/alexandria-rebuild`.
+
+---
+
 ## [2026-06-02] Phase 8–9 — Git Push & Final Report
 
 **Repository created:** https://github.com/wildalchemists/GameDevWiki (private)
