@@ -21,7 +21,7 @@ These are the layer above atomic notes and MOCs. Where atomic notes = one idea, 
 | [[Iteration, Playtesting & Production]] | Iteration process, prototyping, playtest types, data collection, facilitation, documentation | High |
 | [[Monetization, Retention & F2P]] | Revenue models, F2P arc, retention loops, pay-to-win vs. cosmetic, ethics | Medium |
 
-### Expanded Coverage (12 additional)
+### Expanded Coverage (batch 2 — 12 documents)
 
 | Document | Topics covered | HP relevance |
 |---|---|---|
@@ -37,6 +37,34 @@ These are the layer above atomic notes and MOCs. Where atomic notes = one idea, 
 | [[Educational Game Design]] | Games as teaching, edutainment trap, learning objectives vs. fun, transfer, B2B context, age-appropriate design | B2B Studio |
 | [[Game Analysis & Design Criticism]] | Fernández-Vara's 3-area framework, procedural rhetoric, three schemas, genre analysis, critical vocabulary | General |
 | [[Accessibility & Inclusive Design]] | Cognitive/motor/visual/auditory accessibility, difficulty modes, universal design, diverse representation | High |
+
+### Deep Coverage (batch 3 — 10 documents)
+
+| Document | Topics covered | HP relevance |
+|---|---|---|
+| [[Multiplayer & Social Design]] | Conflict architectures, party game patterns, competitive design, cooperative mechanics, social emergence, skill gap | Critical |
+| [[Onboarding & Tutorial Design]] | FTUE, progressive disclosure, forgetting curve, first-win, implicit vs. explicit tutorials, 90-second party rule | Critical |
+| [[Sound, Music & Audio Design]] | Audio as fastest feedback channel, music as indirect control, adaptive music, diegetic/non-diegetic, sound timing | Critical |
+| [[UI, Interface & Information Design]] | Diegetic vs. non-diegetic UI, HUD hierarchy, menus, information asymmetry, cognitive load in UI | High |
+| [[Visual & Aesthetic Design]] | Art direction, visual readability, color theory, lighting, animation principles, silhouette, accessibility | High |
+| [[Economy & Resource Design]] | Sinks/sources, resource types, economic loops, inflation/deflation, zero-sum vs. positive-sum, F2P currencies | High |
+| [[Puzzle & Challenge Design]] | Puzzle vs. game definition, Schell's 10 principles, Adams' challenge hierarchy, integrated vs. explicit puzzles | Medium |
+| [[Character Design & Player Projection]] | Projection vs. empathy, avatar design, NPC functions, character arcs, interpersonal circumplex | Medium |
+| [[The Philosophy & Theory of Play]] | Huizinga, Caillois, Suits' lusory attitude, meaningful play, three schemas, magic circle, procedural rhetoric | Medium |
+| [[Educational Game Design]] | Games as teaching, edutainment trap, learning objectives vs. fun, transfer, B2B context, age-appropriate design | B2B Studio |
+| [[Game Analysis & Design Criticism]] | Fernández-Vara's 3-area framework, procedural rhetoric, three schemas, genre analysis, critical vocabulary | General |
+| [[Accessibility & Inclusive Design]] | Cognitive/motor/visual/auditory accessibility, difficulty modes, universal design, diverse representation | High |
+
+| [[Game Genres & Platform Design]] | Genre as player contract, genre-specific mechanics, platform affordances, technology element | High |
+| [[Player Audience — Demographics, Psychographics & the 5 Domains]] | Adams' age groups, gender tendencies, VandenBerghe's 5 Domains, psychographics, player-centric design | Critical |
+| [[Formal Elements, Dramatic Structure & System Dynamics]] | Fullerton's 3 layers (formal/dramatic/dynamic), objects/properties/behaviors/relationships, system formalism | Critical |
+| [[Information Design & Knowledge Architecture]] | Hierarchy of knowers, perfect/imperfect/asymmetric information, revelation mechanics, information overload | High |
+| [[Scenes, Verbs & Expressive Design]] | Anthropy & Clark vocabulary (verbs, objects, scenes, context), games as argument, expressive constraints | High |
+| [[Formal Game Theory & Conflict Systems]] | Dominant strategies, Nash equilibrium, mixed strategies, zero-sum vs. non-zero-sum, degenerate strategies | High |
+| [[Play, Pleasure & Autotelic Experience]] | Autotelic activity, play typologies, pleasure models, Lazzaro's 4 keys, transformative vs. non-transformative | Medium |
+| [[Cheating, Ethics & Player Behavior]] | Player behavior taxonomy, exploits vs. emergent strategies, metagame, anti-social mechanics, designer ethics | High |
+| [[Production, Documentation & Professional Practice]] | Team roles, production pipeline, GDD structure, pitching, scope management, finishing discipline | High |
+| [[Cybernetics, Complexity & Emergent Systems]] | Complex adaptive systems, cybernetics, second-order effects, DDA, simulation and abstraction | High |
 
 ---
 
