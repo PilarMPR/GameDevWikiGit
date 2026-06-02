@@ -4,6 +4,41 @@ Append-only. Each entry records what moved, where it went, and any notes.
 
 ---
 
+## [2026-06-02] Phase 8–9 — Git Push & Final Report
+
+**Repository created:** https://github.com/wildalchemists/GameDevWiki (private)
+**Branch pushed:** `alexandria-rebuild`
+**Commits on this branch:**
+- `9c11d1f` — chore: pre-migration-snapshot (180 files, 128310 lines baseline)
+- `48e1139` — feat(structure): complete Alexandria rebuild migration (382 files, +23515 lines)
+- `16ff08d` — fix: add ## Connections to all entity notes (12 files)
+
+**Final acceptance checklist results:**
+- ✅ 0 PDFs in git
+- ✅ 0 `_work/` files in git
+- ✅ 178 atomic notes in `10-Library/notes/`
+- ✅ 17 source cards in `10-Library/sources/`
+- ✅ 0 notes missing `## Connections`
+- ✅ 115 notes tagged `hp: true`
+- ✅ 11 discipline MOCs + 5 bridge MOCs + home MOC
+- ✅ `40-HotPotato/_index.md` Dataview wired to `hp: true` notes
+- ✅ `decisions.md` first two entries have `**Basis:**` lines
+
+**Content preserved:** All 146 original .md files are in `_ARCHIVE/`. Zero deletions.
+
+**_ARCHIVE/ contents:**
+- `wiki-sources-original/` — original 17 source cards (pre-schema-3b)
+- `wiki-concepts-gen2/` — all gen-2 disciplined concept files (40 files, 11 discipline subdirs)
+- `chapters/` — original s005 ch.1–10 chapter files
+- `design-reference/` — original reference sheets including `schell-lenses-all.md`
+- `entities/` — original 9 entity files
+- `syntheses/` — 4 synthesis files (thesis, frameworks-comparison, applying-the-canon, hot-potato-design)
+- `analyses/` — 7 game teardowns
+- `genres/` — 2 genre analyses
+- `CLAUDE-original.md` — original operating manual
+
+---
+
 ## [2026-06-02] Phase 0 — Safety & Scaffold
 
 - `git init` at D:\GameDevWiki
