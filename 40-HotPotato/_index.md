@@ -2,6 +2,9 @@
 
 **Studio:** Wild Alchemists · **Genre:** Party tag game con parkour · **Motor:** UE5 · **Target:** Steam · **Players:** 2–8
 
+> 🖥️ **Command Center (live dashboard):** [HotPotato_CommandCenter](https://wildalchemists.github.io/HotPotato_CommandCenter/)
+> Health score · Financial projections · Sprint board · Bug tracker · Marketing · Launch countdown
+
 ---
 
 ## Concepto en una línea
