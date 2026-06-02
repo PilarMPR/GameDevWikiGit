@@ -9,6 +9,21 @@ The Library of Alexandria for game design. Every idea in the canon, one note at 
 
 ---
 
+## Syntheses — Working Knowledge (start here)
+
+Cross-source topic compendiums. Everything the canon says on a practical topic, in one place.
+
+- [[../05-Syntheses/Movement, Controls & Game Feel]] — feel, 3Cs, camera, input, polish
+- [[../05-Syntheses/Game Loops & Systems]] — loops, mechanics, emergence, MDA, feedback
+- [[../05-Syntheses/Player Psychology, Motivation & Flow]] — flow, fun theory, motivation, player types
+- [[../05-Syntheses/Game Balance]] — methods, transitive/intransitive, 12 balance types
+- [[../05-Syntheses/Level Design, Pacing & Indirect Control]] — spaces, interest curves, indirect control
+- [[../05-Syntheses/Narrative, World & Characters]] — story/game tension, world-building, characters
+- [[../05-Syntheses/Iteration, Playtesting & Production]] — process, prototyping, playtesting
+- [[../05-Syntheses/Monetization, Retention & F2P]] — revenue models, retention, ethics
+
+---
+
 ## Discipline Maps
 
 | Discipline | MOC | Start here |
