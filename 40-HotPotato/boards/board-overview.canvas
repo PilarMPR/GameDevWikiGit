@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"group-gdd","type":"group","x":-880,"y":-520,"width":1760,"height":1100,"color":"5","label":"GDD — Diseño Actual"},
+		{"id":"group-theory","type":"group","x":-880,"y":660,"width":1760,"height":460,"color":"6","label":"Wiki — Teoría de Referencia"},
+		{"id":"group-status","type":"group","x":980,"y":-520,"width":520,"height":500,"color":"4","label":"Estado del Proyecto"},
+		{"id":"overview","type":"file","file":"HotPotato/gdd-overview.md","x":-420,"y":-200,"width":480,"height":340},
+		{"id":"mechanics","type":"file","file":"HotPotato/gdd-mechanics.md","x":-860,"y":-500,"width":380,"height":280},
+		{"id":"systems","type":"file","file":"HotPotato/gdd-systems.md","x":100,"y":-500,"width":380,"height":280},
+		{"id":"movement","type":"file","file":"HotPotato/gdd-movement.md","x":-860,"y":100,"width":380,"height":280},
+		{"id":"ref-asymmetric","type":"file","file":"wiki/analyses/among-us.md","x":-860,"y":680,"width":380,"height":200},
+		{"id":"ref-party","type":"file","file":"wiki/genres/party-brawler.md","x":-380,"y":680,"width":340,"height":200},
+		{"id":"ref-mp","type":"file","file":"wiki/concepts/mechanics/multiplayer-systems.md","x":60,"y":680,"width":380,"height":200},
+		{"id":"ref-canon","type":"file","file":"wiki/syntheses/applying-the-canon.md","x":540,"y":680,"width":360,"height":200},
+		{"id":"gamemodes","type":"file","file":"HotPotato/gdd-gamemodes.md","x":100,"y":100,"width":380,"height":280},
+		{"id":"decisions","type":"file","file":"HotPotato/decisions.md","x":990,"y":-500,"width":480,"height":220},
+		{"id":"status-text","type":"text","text":"## Estado\n**Fase:** Pre-producción / Concepto\n**Motor:** UE5\n**Target:** Steam\n**Players:** 2–8\n\n**Próximo hito:**\nPrimer prototipo jugable\n(run + tag + FAP básico)","x":990,"y":-240,"width":480,"height":200,"color":"4"},
+		{"id":"concept-text","type":"text","text":"## Concepto\nUn jugador es **La Patata** (chaser).\nEl resto son **runners** que ganan **FAP**\ntrolelando a todos.\n\nEl que ES la Patata al acabar 120s **PIERDE**.\nEl runner con más FAP **GANA**.","x":990,"y":-10,"width":510,"height":180,"color":"1"},
+		{"id":"research","type":"file","file":"HotPotato/research.md","x":990,"y":200,"width":480,"height":220}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"overview","fromSide":"left","toNode":"mechanics","toSide":"right","label":"FAP + tagging"},
+		{"id":"e2","fromNode":"overview","fromSide":"right","toNode":"systems","toSide":"left","label":"match loop"},
+		{"id":"e3","fromNode":"mechanics","fromSide":"bottom","toNode":"movement","toSide":"top"},
+		{"id":"e4","fromNode":"systems","fromSide":"bottom","toNode":"gamemodes","toSide":"top"},
+		{"id":"e5","fromNode":"overview","fromSide":"right","toNode":"decisions","toSide":"left","label":"decisiones"},
+		{"id":"e6","fromNode":"ref-asymmetric","fromSide":"top","toNode":"mechanics","toSide":"bottom","label":"ref rol asimétrico"},
+		{"id":"e7","fromNode":"ref-mp","fromSide":"top","toNode":"systems","toSide":"bottom","label":"conflicto 1vN"},
+		{"id":"e8","fromNode":"ref-canon","fromSide":"top","toNode":"systems","toSide":"bottom","label":"MDA + loops"},
+		{"id":"e9","fromNode":"research","fromSide":"left","toNode":"overview","toSide":"right","label":"inspira"}
+	]
+}

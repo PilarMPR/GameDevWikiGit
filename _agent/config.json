@@ -1,6 +1,6 @@
 {
   "agent_name": "gamedevwiki",
-  "vault_path": "D:/GameDevWiki",
+  "vault_path": "${GAMEDEVWIKI_ROOT:-.}",
   "model": "claude-sonnet-4-6",
   "max_tokens": 2000,
   "monthly_budget_usd": 22,
@@ -11,7 +11,12 @@
   "log_retention_days": 30,
   "watch_paths": {
     "pages": {
-      "path": "D:/GameDevWiki/wiki",
+      "path": "${GAMEDEVWIKI_ROOT:-.}/10-Library/notes",
+      "recursive": true,
+      "on_modified": true
+    },
+    "feed": {
+      "path": "${GAMEDEVWIKI_ROOT:-.}/50-Feed",
       "recursive": true,
       "on_modified": true
     }
@@ -19,6 +24,9 @@
   "git_auto_commit": false,
   "git_commit_prefix": "chore(gamedevwiki):",
   "debounce_seconds": 3,
-  "wiki_root": "D:/GameDevWiki/wiki",
-  "out_dir": "D:/GameDevWiki/_agent/out"
+  "wiki_root": "${GAMEDEVWIKI_ROOT:-.}/10-Library",
+  "notes_root": "${GAMEDEVWIKI_ROOT:-.}/10-Library/notes",
+  "sources_root": "${GAMEDEVWIKI_ROOT:-.}/10-Library/sources",
+  "feed_root": "${GAMEDEVWIKI_ROOT:-.}/50-Feed",
+  "out_dir": "${GAMEDEVWIKI_ROOT:-.}/_agent/out"
 }

@@ -1,7 +1,7 @@
 {
   "agent_name": "gamedev-scout",
-  "inbox_dir": "D:/GameDevWiki/_inbox",
-  "seen_ledger": "D:/GameDevWiki/_agent/logs/seen_scout.json",
+  "inbox_dir": "${GAMEDEVWIKI_ROOT:-.}/50-Feed",
+  "seen_ledger": "${GAMEDEVWIKI_ROOT:-.}/_agent/logs/seen_scout.json",
 
   "feeds": [
     "https://www.gamedeveloper.com/rss.xml",

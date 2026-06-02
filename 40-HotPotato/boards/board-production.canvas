@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"header","type":"text","text":"# 🥔 Hot Potato — Production Dashboard\n**Sprint:** S01  ·  **Fase:** Pre-producción / Concepto  ·  **Hito siguiente:** M1 — Prototipo jugable","x":-2440,"y":-720,"width":3060,"height":80},
+
+		{"id":"group-sprint","type":"group","label":"🏃 Sprint S01 — Primer prototipo jugable","x":-2440,"y":-620,"width":2000,"height":980,"color":"5"},
+
+		{"id":"design","type":"text","text":"**🎨 Design**\n\n⬜  Resolver Q1: duración del match (120s vs 180s)\n⬜  Resolver Q2: anti-camp ¿aplica a Patata?\n⬜  Cerrar diseño FAP — multiplicadores definitivos\n⬜  Primer playtest interno (solo movimiento)","x":-2420,"y":-600,"width":940,"height":220,"color":"6"},
+
+		{"id":"code","type":"text","text":"**💻 Code**\n\n⬜  Movimiento: run, jump, slide\n⬜  Sistema de tag básico (transferencia de rol Patata)\n⬜  FAP counter UI placeholder","x":-2420,"y":-340,"width":940,"height":180,"color":"5"},
+
+		{"id":"art","type":"text","text":"**🖼️ Art**\n\n⬜  Referencias visuales — moodboard\n⬜  Rig placeholder (mannequin UE5)","x":-1420,"y":-600,"width":940,"height":160,"color":"3"},
+
+		{"id":"prod-tasks","type":"text","text":"**📋 Production**\n\n⬜  Crear repo GitHub\n⬜  Configurar Git LFS o Perforce para UE5","x":-1420,"y":-400,"width":940,"height":160,"color":"4"},
+
+		{"id":"group-milestones","type":"group","label":"🎯 Milestones","x":-360,"y":-620,"width":880,"height":820,"color":"4"},
+
+		{"id":"m0","type":"text","text":"**M0 — Concepto cerrado**\nGDD v1, decisiones core\n📅 2026-06-15  ·  🟦 En progreso","x":-340,"y":-600,"width":840,"height":100,"color":"3"},
+		{"id":"m1","type":"text","text":"**M1 — Prototipo jugable**\nRun + tag + FAP básico en UE5\n📅 TBD  ·  ⬜ Pendiente","x":-340,"y":-460,"width":840,"height":100},
+		{"id":"m2","type":"text","text":"**M2 — Prototipo completo**\nTodos los sistemas core funcionando\n📅 TBD  ·  ⬜ Pendiente","x":-340,"y":-320,"width":840,"height":100},
+		{"id":"m3","type":"text","text":"**M3 — Alpha**\nContenido mínimo, 1 mapa jugable\n📅 TBD  ·  ⬜ Pendiente","x":-340,"y":-180,"width":840,"height":100},
+		{"id":"m4","type":"text","text":"**M4 — Beta**\nContenido completo, balance, QA\n📅 TBD  ·  ⬜ Pendiente","x":-340,"y":-40,"width":840,"height":100},
+		{"id":"m5","type":"text","text":"**M5 — Launch 🚀**\nSteam Early Access / Full Release\n📅 2027  ·  ⬜ Pendiente","x":-340,"y":100,"width":840,"height":100,"color":"4"},
+
+		{"id":"group-files","type":"group","label":"📁 Archivos clave","x":580,"y":-620,"width":500,"height":820},
+
+		{"id":"file-prod","type":"file","file":"HotPotato/production.md","x":600,"y":-600,"width":460,"height":100},
+		{"id":"file-finance","type":"file","file":"HotPotato/finance.md","x":600,"y":-460,"width":460,"height":100},
+		{"id":"file-decisions","type":"file","file":"HotPotato/decisions.md","x":600,"y":-320,"width":460,"height":100},
+		{"id":"file-questions","type":"file","file":"HotPotato/open-questions.md","x":600,"y":-180,"width":460,"height":100},
+		{"id":"file-synthesis","type":"file","file":"wiki/syntheses/hot-potato-design.md","x":600,"y":-40,"width":460,"height":100},
+
+		{"id":"update-note","type":"text","text":"**💡 Actualizar este canvas**\n\nEn Smart Composer:\n→ prompt *\"Sync production canvas\"*\n\nEn Claude Code (terminal):\n→ *\"actualiza board-production.canvas\"*\n\nEl agente lee production.md y reescribe los nodos.","x":580,"y":120,"width":460,"height":180,"color":"1"}
+	],
+	"edges":[]
+}
