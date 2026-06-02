@@ -18,6 +18,11 @@ Game designer, entrepreneur, educator. Author of *Advanced Game Design: A System
 - **Four principal loops** — game model, player mental model, interactive loop (core loop), designer's loop (s001, ch.7).
 - **Engagement over fun** — games need not be "fun"; what matters is sustained engagement through the interactive loop (s001, ch.4).
 
+## Connections
+
+- [[game-as-system]] — his central thesis
+- [[sellers-four-principal-loops]] — his four loops model
+
 ## Sources authored
 
 - [[../sources/s001-advanced-game-design]]

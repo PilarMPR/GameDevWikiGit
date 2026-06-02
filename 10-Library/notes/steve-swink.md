@@ -18,6 +18,11 @@ Game designer. Author of *Game Feel: A Game Designer's Guide to Virtual Sensatio
 - **The 240ms boundary** — upper limit for real-time interaction feel.
 - **Polish** = audio/visual effects that sell interactions (screen shake, hit-stop, sound sync).
 
+## Connections
+
+- [[game-feel-definition]] — his central definition
+- [[feedback-system-design]] — polish = feedback
+
 ## Sources authored
 
 - [[../sources/s007-game-feel]]

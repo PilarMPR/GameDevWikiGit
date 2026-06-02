@@ -19,6 +19,11 @@ Game designer, entrepreneur, author. Known for Ultima Online, Star Wars Galaxies
 - **Games as teachers** — games are formal systems stripped of real-world noise, designed to teach patterns.
 - **Learnable middle = flow channel** — identical zone; different mechanistic vs. phenomenological framing.
 
+## Connections
+
+- [[fun-as-learning-koster]] — his central thesis
+- [[flow-channel-definition]] — his "learnable middle" ≡ flow channel
+
 ## Sources authored
 
 - [[../sources/s016-theory-of-fun]]

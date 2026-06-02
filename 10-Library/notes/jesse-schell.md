@@ -18,6 +18,12 @@ Game designer, professor at Carnegie Mellon ETC, founder of Schell Games. Author
 - **Elemental Tetrad** — Mechanics, Story, Aesthetics, Technology must reinforce each other (s005, ch.4).
 - **Rule of the Loop** — the more you iterate, the better the game (s005, ch.7).
 
+## Connections
+
+- [[lens-01-essential-experience]] — experience-first design is his central principle
+- [[schell-mechanic-taxonomy]] — his 6-category mechanic model
+- [[flow-channel-definition]] — his Lens #18 operationalization
+
 ## Sources authored
 
 - [[../sources/s005-art-of-game-design]]

@@ -18,6 +18,11 @@ Game designer, academic, author. Author of *Fundamentals of Game Design* (s006).
 - **Gameplay = hierarchy of challenges** — the structural backbone of player engagement (s006, ch.13).
 - **Core mechanics** — the rules and data that implement gameplay (s006, ch.14).
 
+## Connections
+
+- [[adams-mechanic-families]] — his 5-family taxonomy
+- [[progression-systems-definition]] — Adams' Progression Mechanics
+
 ## Sources authored
 
 - [[../sources/s006-fundamentals-of-game-design]]

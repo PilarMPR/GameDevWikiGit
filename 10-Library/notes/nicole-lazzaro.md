@@ -15,3 +15,8 @@ UX researcher and founder of XEODesign. Known for the "Four Keys to Fun" framewo
 
 - **Four Keys to Fun:** Hard Fun (fiero — challenge/mastery), Easy Fun (curiosity/exploration), Altered States (immersion), People Fun (social/amusement). Complementary to MDA's aesthetics taxonomy.
 - Her research informed many F2P design practices (session pacing, difficulty, social hooks).
+
+## Connections
+
+- [[mda-aesthetics-taxonomy]] — Four Keys are complementary to MDA's 8 aesthetics
+- [[bartle-four-types]] — both are player motivational taxonomies

@@ -18,6 +18,11 @@ Game designer, academic, director of USC Games, founder of USC Game Innovation L
 - **Iterative method** — conceptualize → prototype → playtest → evaluate → repeat. Physical prototypes first (s008).
 - **Playtesting is not QA** — it's learning: "can they play?" vs. "are they having the right experience?" are different activities (s008).
 
+## Connections
+
+- [[iterative-design-process]] — her playcentric method
+- [[formal-elements-synthesis]] — Fullerton's 8 formal elements are central to her work
+
 ## Sources authored
 
 - [[../sources/s008-game-design-workshop]]

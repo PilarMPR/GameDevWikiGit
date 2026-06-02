@@ -18,6 +18,11 @@ Game designers and academics. Co-authors of *Rules of Play: Game Design Fundamen
 - **Three schemas** — Rules (formal), Play (experiential), Culture (cultural) — all three must be analyzed for full understanding (s013).
 - **Magic circle** — the bounded space of play, where game rules apply and special meanings accrue (s013, ch.9).
 
+## Connections
+
+- [[meaningful-play-definition]] — their central design concept
+- [[magic-circle-definition]] — their formalization of Huizinga's concept
+
 ## Sources authored
 
 - [[../sources/s013-rules-of-play]]

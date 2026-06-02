@@ -17,6 +17,11 @@ Play theorists. Huizinga (*Homo Ludens*, 1938): play is older than culture itsel
 - **Caillois:** extended Huizinga with four play categories and the Paidia/Ludus spectrum (s013 via s004).
 - **Magic circle** — bounded space where special rules obtain; extended by Salen & Zimmerman as a design concept.
 
+## Connections
+
+- [[magic-circle-definition]] — Huizinga's origin concept
+- [[play-and-culture-huizinga]] — full treatment of Huizinga + Caillois
+
 ## Appears in
 
 - [[../sources/s004-homo-ludens]]
