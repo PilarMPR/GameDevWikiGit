@@ -29,12 +29,12 @@ Game UI closes Norman's gulfs: execution ("what can I do?") and evaluation ("wha
 
 ## Connections
 
-- [[norman-hcd-vocabulary]] — gulfs of execution and evaluation
-- [[feedback-system-design]] — UI elements are feedback delivery mechanisms
+- [norman-hcd-vocabulary](norman-hcd-vocabulary.md) — gulfs of execution and evaluation
+- [feedback-system-design](feedback-system-design.md) — UI elements are feedback delivery mechanisms
 - [[player-psychology-perception]] — perception and attention constraints on UI design
 
 ## Appears in
 
-- [[../sources/s014-the-gamers-brain]] · ch.3–6
-- [[../sources/s015-design-of-everyday-things]] · ch.2
-- [[../sources/s006-fundamentals-of-game-design]] · ch.12
+- [s014-the-gamers-brain](../sources/s014-the-gamers-brain.md) · ch.3–6
+- [s015-design-of-everyday-things](../sources/s015-design-of-everyday-things.md) · ch.2
+- [s006-fundamentals-of-game-design](../sources/s006-fundamentals-of-game-design.md) · ch.12

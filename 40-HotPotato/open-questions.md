@@ -1,6 +1,6 @@
 # Open Design Questions
 
-Lista viva de preguntas sin resolver. Las preguntas resueltas van a [[decisions]].
+Lista viva de preguntas sin resolver. Las preguntas resueltas van a [decisions](decisions.md).
 
 **Tiered por urgencia** — Tier 1 debe resolverse antes del primer prototipo jugable.
 
@@ -86,4 +86,4 @@ El GDD menciona `Map_Forest` como ejemplo. ¿Cuántos mapas se planean para el l
 
 ---
 
-*(Mover a [[decisions]] cuando estén resueltas)*
+*(Mover a [decisions](decisions.md) cuando estén resueltas)*

@@ -22,9 +22,9 @@ Campbell's monomyth: call → threshold crossing → trials → ordeal → trans
 
 ## Connections
 
-- [[story-narrative-approaches]] — hero's journey as narrative structure
-- [[interest-curves-schell]] — hero's journey maps to interest curve structure
+- [story-narrative-approaches](story-narrative-approaches.md) — hero's journey as narrative structure
+- [interest-curves-schell](interest-curves-schell.md) — hero's journey maps to interest curve structure
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.15
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.15

@@ -25,12 +25,12 @@ A game world contextualizes mechanics, houses narrative, motivates exploration, 
 
 ## Connections
 
-- [[story-narrative-approaches]] — world is the container for narrative
-- [[spatial-design-principles]] — world structure is implemented through spatial design
-- [[level-design-principles]] — environmental storytelling as level design tutorial tool
-- [[indirect-control-methods]] — world layout is a primary indirect control medium
+- [story-narrative-approaches](story-narrative-approaches.md) — world is the container for narrative
+- [spatial-design-principles](spatial-design-principles.md) — world structure is implemented through spatial design
+- [level-design-principles](level-design-principles.md) — environmental storytelling as level design tutorial tool
+- [indirect-control-methods](indirect-control-methods.md) — world layout is a primary indirect control medium
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.5, ch.17
-- [[../sources/s012-level-design]] · ch.13
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.5, ch.17
+- [s012-level-design](../sources/s012-level-design.md) · ch.13

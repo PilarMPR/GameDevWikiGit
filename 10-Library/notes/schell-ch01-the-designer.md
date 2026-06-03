@@ -25,10 +25,10 @@ Schell opens not with games but with the designer. Becoming a game designer is a
 
 ## Connections
 
-- [[iterative-design-process]] — "fail faster" ethos
-- [[design-vision-concept-document]] — listen to yourself to find the vision
-- [[playtesting-methods]] — listen to audience/playtesters
+- [iterative-design-process](iterative-design-process.md) — "fail faster" ethos
+- [design-vision-concept-document](design-vision-concept-document.md) — listen to yourself to find the vision
+- [playtesting-methods](playtesting-methods.md) — listen to audience/playtesters
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.1
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.1

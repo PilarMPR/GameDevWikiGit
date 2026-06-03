@@ -33,11 +33,11 @@ The camera is the player's window into the game world. Camera choice shapes spat
 
 ## Connections
 
-- [[game-feel-definition]] — camera is the second C in the 3Cs
-- [[spatial-design-principles]] — what the camera reveals shapes spatial navigation
+- [game-feel-definition](game-feel-definition.md) — camera is the second C in the 3Cs
+- [spatial-design-principles](spatial-design-principles.md) — what the camera reveals shapes spatial navigation
 - [[game-feel-3cs]] — Character + Camera + Controls as the feel system
 
 ## Appears in
 
-- [[../sources/s006-fundamentals-of-game-design]] · ch.12
-- [[../sources/s007-game-feel]] · simulated space component
+- [s006-fundamentals-of-game-design](../sources/s006-fundamentals-of-game-design.md) · ch.12
+- [s007-game-feel](../sources/s007-game-feel.md) · simulated space component

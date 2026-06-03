@@ -22,9 +22,9 @@ Everything in the game should support a single theme. Theme acts as a decision f
 
 ## Connections
 
-- [[schell-ch05-theme]] — full treatment
-- [[design-vision-concept-document]] — theme is the deepest form of vision
+- [schell-ch05-theme](schell-ch05-theme.md) — full treatment
+- [design-vision-concept-document](design-vision-concept-document.md) — theme is the deepest form of vision
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.5
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.5

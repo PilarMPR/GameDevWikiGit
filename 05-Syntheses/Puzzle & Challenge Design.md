@@ -213,4 +213,4 @@ Hot Potato is not a puzzle game, but challenge design principles apply:
 
 **Sources:** s005 (Schell) · s006 (Adams) · s016 (Koster) · s012 (Kremers)
 
-**See also:** [[../10-Library/notes/puzzle-design-principles]] · [[../10-Library/notes/flow-channel-definition]] · [[../10-Library/notes/fun-as-learning-koster]] · [[../00-Atlas/disciplines/Mechanics]]
+**See also:** [puzzle-design-principles](../10-Library/notes/puzzle-design-principles.md) · [flow-channel-definition](../10-Library/notes/flow-channel-definition.md) · [fun-as-learning-koster](../10-Library/notes/fun-as-learning-koster.md) · [Mechanics](../00-Atlas/disciplines/Mechanics.md)

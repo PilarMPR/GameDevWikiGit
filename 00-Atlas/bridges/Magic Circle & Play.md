@@ -32,11 +32,11 @@ The concept of play as a bounded, voluntary, rule-governed space has been refine
 
 ## Key notes
 
-- [[magic-circle-definition]] — the full concept across all sources
-- [[play-and-culture-huizinga]] — Huizinga + Caillois
-- [[meaningful-play-definition]] — what meaningful play requires within the circle
-- [[formal-elements-synthesis]] — formal elements define what's inside the circle
-- [[game-as-system]] — Sellers' system-boundary framing
+- [magic-circle-definition](../../10-Library/notes/magic-circle-definition.md) — the full concept across all sources
+- [play-and-culture-huizinga](../../10-Library/notes/play-and-culture-huizinga.md) — Huizinga + Caillois
+- [meaningful-play-definition](../../10-Library/notes/meaningful-play-definition.md) — what meaningful play requires within the circle
+- [formal-elements-synthesis](../../10-Library/notes/formal-elements-synthesis.md) — formal elements define what's inside the circle
+- [game-as-system](../../10-Library/notes/game-as-system.md) — Sellers' system-boundary framing
 
 ## Design implication
 
@@ -44,5 +44,5 @@ The magic circle is a design tool, not a metaphysical claim. Designers construct
 
 ## Discipline maps
 
-- [[../disciplines/Theory]]
-- [[../disciplines/Narrative]]
+- [Theory](../disciplines/Theory.md)
+- [Narrative](../disciplines/Narrative.md)

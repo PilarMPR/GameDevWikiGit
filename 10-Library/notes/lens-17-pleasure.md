@@ -22,10 +22,10 @@ List the specific pleasures your game delivers from LeBlanc's 8 aesthetics: Sens
 
 ## Connections
 
-- [[mda-aesthetics-taxonomy]] — LeBlanc's 8 aesthetics = the pleasure vocabulary
-- [[bartle-four-types]] — player types map to pleasure preferences
+- [mda-aesthetics-taxonomy](mda-aesthetics-taxonomy.md) — LeBlanc's 8 aesthetics = the pleasure vocabulary
+- [bartle-four-types](bartle-four-types.md) — player types map to pleasure preferences
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.8
-- [[../sources/s011-mda-framework]] · 8 aesthetics
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.8
+- [s011-mda-framework](../sources/s011-mda-framework.md) · 8 aesthetics

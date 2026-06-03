@@ -32,13 +32,13 @@ Three influential frameworks disagree on what "fun" means but converge on the sa
 
 ## Connections
 
-- [[fun-as-learning-koster]] — Koster's position in full
-- [[mda-aesthetics-taxonomy]] — MDA's position: 8 specific aesthetics
-- [[flow-channel-definition]] — the flow channel is what all three frameworks describe when they describe "working well"
-- [[player-motivation-maslow]] — motivation as the broader context
+- [fun-as-learning-koster](fun-as-learning-koster.md) — Koster's position in full
+- [mda-aesthetics-taxonomy](mda-aesthetics-taxonomy.md) — MDA's position: 8 specific aesthetics
+- [flow-channel-definition](flow-channel-definition.md) — the flow channel is what all three frameworks describe when they describe "working well"
+- [player-motivation-maslow](player-motivation-maslow.md) — motivation as the broader context
 
 ## Appears in
 
-- [[../sources/s001-advanced-game-design]] · ch.4
-- [[../sources/s016-theory-of-fun]] · throughout
-- [[../sources/s011-mda-framework]] · full paper
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.4
+- [s016-theory-of-fun](../sources/s016-theory-of-fun.md) · throughout
+- [s011-mda-framework](../sources/s011-mda-framework.md) · full paper

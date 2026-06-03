@@ -26,11 +26,11 @@ A **meaningful choice** is one where the number of options matches the player's 
 
 ## Connections
 
-- [[transitive-vs-intransitive-systems]] — intransitive design creates context-dependent meaningful choices
-- [[game-balance-overview]] — calibrating choices is a balance task
+- [transitive-vs-intransitive-systems](transitive-vs-intransitive-systems.md) — intransitive design creates context-dependent meaningful choices
+- [game-balance-overview](game-balance-overview.md) — calibrating choices is a balance task
 - [[game-balance-types-schell]] — this is Schell's Balance Type 3 (meaningful choices)
-- [[flow-channel-definition]] — meaningful choices keep the player in flow
+- [flow-channel-definition](flow-channel-definition.md) — meaningful choices keep the player in flow
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11 (Lenses #32–33)
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11 (Lenses #32–33)

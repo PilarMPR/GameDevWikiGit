@@ -22,9 +22,9 @@ Punishment well-designed increases enjoyment by creating stakes and making succe
 
 ## Connections
 
-- [[player-motivation-maslow]] — loss aversion in punishment design
-- [[flow-channel-definition]] — excessive punishment breaks the flow channel
+- [player-motivation-maslow](player-motivation-maslow.md) — loss aversion in punishment design
+- [flow-channel-definition](flow-channel-definition.md) — excessive punishment breaks the flow channel
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

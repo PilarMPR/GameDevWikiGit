@@ -25,12 +25,12 @@ A **transitive** system has an ordered power hierarchy: A > B > C > D. A **intra
 
 ## Connections
 
-- [[game-balance-overview]] — this is one of the core balance structures
-- [[game-balance-methods]] — mathematical modeling for transitive balance
-- [[emergence-from-simple-rules]] — intransitive triads produce emergent strategic depth
-- [[meaningful-choices-triangularity]] — triangularity requires a form of intransitive risk/reward
+- [game-balance-overview](game-balance-overview.md) — this is one of the core balance structures
+- [game-balance-methods](game-balance-methods.md) — mathematical modeling for transitive balance
+- [emergence-from-simple-rules](emergence-from-simple-rules.md) — intransitive triads produce emergent strategic depth
+- [meaningful-choices-triangularity](meaningful-choices-triangularity.md) — triangularity requires a form of intransitive risk/reward
 
 ## Appears in
 
-- [[../sources/s001-advanced-game-design]] · ch.9
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.9
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

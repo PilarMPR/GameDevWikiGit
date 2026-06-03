@@ -30,12 +30,12 @@ Sellers identifies four complementary approaches to achieving balance. None is s
 
 ## Connections
 
-- [[game-balance-overview]] — the definition and why balance matters
-- [[transitive-vs-intransitive-systems]] — structural balance through cyclic relationships
-- [[playtesting-methods]] — player-based balance method in practice
-- [[iterative-design-process]] — balance methodology embedded in iteration
+- [game-balance-overview](game-balance-overview.md) — the definition and why balance matters
+- [transitive-vs-intransitive-systems](transitive-vs-intransitive-systems.md) — structural balance through cyclic relationships
+- [playtesting-methods](playtesting-methods.md) — player-based balance method in practice
+- [iterative-design-process](iterative-design-process.md) — balance methodology embedded in iteration
 
 ## Appears in
 
-- [[../sources/s001-advanced-game-design]] · ch.9
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.9
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

@@ -34,12 +34,12 @@ Example decompositions (s011): *Quake* = Challenge + Sensation + Competition + F
 
 ## Connections
 
-- [[mda-framework-overview]] — where aesthetics sit in the three-layer model
-- [[mda-reading-direction]] — aesthetics are the target you design backward from
-- [[bartle-four-types]] — Bartle's motivational types map onto these aesthetics
-- [[fun-as-learning-koster]] — Koster's "fun = learning" focuses on Challenge aesthetic specifically
+- [mda-framework-overview](mda-framework-overview.md) — where aesthetics sit in the three-layer model
+- [mda-reading-direction](mda-reading-direction.md) — aesthetics are the target you design backward from
+- [bartle-four-types](bartle-four-types.md) — Bartle's motivational types map onto these aesthetics
+- [fun-as-learning-koster](fun-as-learning-koster.md) — Koster's "fun = learning" focuses on Challenge aesthetic specifically
 
 ## Appears in
 
-- [[../sources/s011-mda-framework]] · full paper
-- [[../sources/s005-art-of-game-design]] · multiple chapters (8 pleasures parallel)
+- [s011-mda-framework](../sources/s011-mda-framework.md) · full paper
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · multiple chapters (8 pleasures parallel)

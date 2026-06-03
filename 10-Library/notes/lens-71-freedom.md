@@ -22,9 +22,9 @@ Players want the *feeling* of freedom, not necessarily unlimited freedom. Approp
 
 ## Connections
 
-- [[indirect-control-methods]] — constraints as indirect control
-- [[meaningful-choices-triangularity]] — freedom = meaningful choices, not unlimited choices
+- [indirect-control-methods](indirect-control-methods.md) — constraints as indirect control
+- [meaningful-choices-triangularity](meaningful-choices-triangularity.md) — freedom = meaningful choices, not unlimited choices
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.16
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.16

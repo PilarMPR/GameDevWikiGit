@@ -27,11 +27,11 @@ Experiences happen in the brain — mostly subconscious. Four mental abilities m
 
 ## Connections
 
-- [[flow-channel-definition]] — this chapter is the canonical source for flow in the wiki
+- [flow-channel-definition](flow-channel-definition.md) — this chapter is the canonical source for flow in the wiki
 - [[player-psychology-perception]] — full treatment of perception and memory
-- [[player-motivation-maslow]] — Maslow applied to game needs
-- [[tense-and-release]] — the macro structure for climbing the flow channel
+- [player-motivation-maslow](player-motivation-maslow.md) — Maslow applied to game needs
+- [tense-and-release](tense-and-release.md) — the macro structure for climbing the flow channel
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.9 (Lenses #18–20)
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.9 (Lenses #18–20)

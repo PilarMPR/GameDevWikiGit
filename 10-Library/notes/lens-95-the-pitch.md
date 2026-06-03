@@ -22,8 +22,8 @@ The one-sentence pitch is the most compressed form of the design vision. A compe
 
 ## Connections
 
-- [[design-vision-concept-document]] — the high concept is the game's pitch
+- [design-vision-concept-document](design-vision-concept-document.md) — the high concept is the game's pitch
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.29
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.29

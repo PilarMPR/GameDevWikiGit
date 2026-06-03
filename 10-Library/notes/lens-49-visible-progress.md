@@ -22,9 +22,9 @@ Players must be able to see incremental progress toward their goal. A riddle dem
 
 ## Connections
 
-- [[puzzle-design-principles]] — Principle 3: give a sense of progress
-- [[progression-systems-definition]] — progress bars and level tracking
+- [puzzle-design-principles](puzzle-design-principles.md) — Principle 3: give a sense of progress
+- [progression-systems-definition](progression-systems-definition.md) — progress bars and level tracking
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.12
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.12

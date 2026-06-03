@@ -22,9 +22,9 @@ Puzzles must communicate their goal clearly from the start and invite players to
 
 ## Connections
 
-- [[puzzle-design-principles]] — Principle 1: make the goal easily understood
-- [[norman-hcd-vocabulary]] — affordances communicate what to do
+- [puzzle-design-principles](puzzle-design-principles.md) — Principle 1: make the goal easily understood
+- [norman-hcd-vocabulary](norman-hcd-vocabulary.md) — affordances communicate what to do
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.12
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.12

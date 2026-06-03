@@ -22,9 +22,9 @@ Think about the player in everything you do. Know their demographics and psychog
 
 ## Connections
 
-- [[bartle-four-types]] — player taxonomy for audience analysis
-- [[playtesting-methods]] — watching players play is the most direct expression of this lens
+- [bartle-four-types](bartle-four-types.md) — player taxonomy for audience analysis
+- [playtesting-methods](playtesting-methods.md) — watching players play is the most direct expression of this lens
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.8
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.8

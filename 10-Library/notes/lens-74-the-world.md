@@ -22,8 +22,8 @@ A consistent, interesting world invites exploration and builds emotional investm
 
 ## Connections
 
-- [[world-building-principles]] — full treatment
+- [world-building-principles](world-building-principles.md) — full treatment
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.17
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.17

@@ -168,9 +168,9 @@ This produced sustainable revenue from a free game while maintaining complete co
 
 ## Related analyses
 
-- [[smash-bros]] — party brawler social dynamics
-- [[jackbox]] — social party games with minimal mechanics
-- [[hades]] — emergence through structured run loops
+- [smash-bros](smash-bros.md) — party brawler social dynamics
+- [jackbox](jackbox.md) — social party games with minimal mechanics
+- [hades](hades.md) — emergence through structured run loops
 
 ## Sources
 

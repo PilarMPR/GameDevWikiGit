@@ -24,11 +24,11 @@ The designer reads a game **Mechanics → Dynamics → Aesthetics** (from the en
 
 ## Connections
 
-- [[mda-framework-overview]] — the three-layer framework this asymmetry lives within
-- [[mda-aesthetics-taxonomy]] — defining the target Aesthetics explicitly
-- [[mda-feedback-dynamics]] — Monopoly as a case study in Dynamics producing wrong Aesthetics
-- [[mechanics-definition]] — what lives in the Mechanics layer
+- [mda-framework-overview](mda-framework-overview.md) — the three-layer framework this asymmetry lives within
+- [mda-aesthetics-taxonomy](mda-aesthetics-taxonomy.md) — defining the target Aesthetics explicitly
+- [mda-feedback-dynamics](mda-feedback-dynamics.md) — Monopoly as a case study in Dynamics producing wrong Aesthetics
+- [mechanics-definition](mechanics-definition.md) — what lives in the Mechanics layer
 
 ## Appears in
 
-- [[../sources/s011-mda-framework]] · full paper
+- [s011-mda-framework](../sources/s011-mda-framework.md) · full paper

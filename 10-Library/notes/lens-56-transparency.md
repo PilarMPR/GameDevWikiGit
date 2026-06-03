@@ -22,9 +22,9 @@ Players should never be surprised by hidden interface behavior. Everything the p
 
 ## Connections
 
-- [[meaningful-play-definition]] — discernability requires transparency
-- [[norman-hcd-vocabulary]] — signifiers and conceptual models
+- [meaningful-play-definition](meaningful-play-definition.md) — discernability requires transparency
+- [norman-hcd-vocabulary](norman-hcd-vocabulary.md) — signifiers and conceptual models
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.13
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.13

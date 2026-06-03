@@ -22,9 +22,9 @@ Randomness creates uncertainty and variety. Well-designed chance feels fair (the
 
 ## Connections
 
-- [[transitive-vs-intransitive-systems]] — chance is one tool for creating non-dominant outcomes
-- [[game-balance-overview]] — skill vs. chance is one of Schell's 12 balance types
+- [transitive-vs-intransitive-systems](transitive-vs-intransitive-systems.md) — chance is one tool for creating non-dominant outcomes
+- [game-balance-overview](game-balance-overview.md) — skill vs. chance is one of Schell's 12 balance types
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.10
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.10

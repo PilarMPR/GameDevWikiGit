@@ -25,14 +25,14 @@ MDA decomposes a game into three causally linked layers: **Mechanics** (the rule
 
 ## Connections
 
-- [[mda-reading-direction]] — the most actionable design implication: designer and player read the layers in opposite directions
-- [[mda-aesthetics-taxonomy]] — the 8 aesthetics themselves
-- [[mda-games-as-artifacts]] — why games are artifacts and what that means for design
-- [[mechanics-definition]] — what lives in the Mechanics layer
-- [[game-loops-definition]] — game loops are the core of the Dynamics layer
-- [[schell-mechanic-taxonomy]] — Schell's breakdown of the Mechanics layer
+- [mda-reading-direction](mda-reading-direction.md) — the most actionable design implication: designer and player read the layers in opposite directions
+- [mda-aesthetics-taxonomy](mda-aesthetics-taxonomy.md) — the 8 aesthetics themselves
+- [mda-games-as-artifacts](mda-games-as-artifacts.md) — why games are artifacts and what that means for design
+- [mechanics-definition](mechanics-definition.md) — what lives in the Mechanics layer
+- [game-loops-definition](game-loops-definition.md) — game loops are the core of the Dynamics layer
+- [schell-mechanic-taxonomy](schell-mechanic-taxonomy.md) — Schell's breakdown of the Mechanics layer
 
 ## Appears in
 
-- [[../sources/s011-mda-framework]] · full paper
-- [[../sources/s005-art-of-game-design]] · lenses (parallel taxonomy)
+- [s011-mda-framework](../sources/s011-mda-framework.md) · full paper
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · lenses (parallel taxonomy)

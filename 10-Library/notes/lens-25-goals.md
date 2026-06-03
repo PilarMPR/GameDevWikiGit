@@ -22,9 +22,9 @@ Clear goals are a prerequisite for flow. Good goals are: concrete (you know when
 
 ## Connections
 
-- [[flow-channel-definition]] — clear goals are a prerequisite for flow
-- [[meaningful-play-definition]] — discernability requires knowing what you're trying to achieve
+- [flow-channel-definition](flow-channel-definition.md) — clear goals are a prerequisite for flow
+- [meaningful-play-definition](meaningful-play-definition.md) — discernability requires knowing what you're trying to achieve
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.10
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.10

@@ -27,11 +27,11 @@ Story and gameplay have different requirements: stories want predetermined meani
 
 ## Connections
 
-- [[indirect-control-methods]] — the six methods for keeping narrative and gameplay pointing the same direction
-- [[interest-curves-schell]] — interest curves apply to narrative arcs
-- [[meaningful-play-definition]] — player actions must have discernable, integrated narrative consequences
+- [indirect-control-methods](indirect-control-methods.md) — the six methods for keeping narrative and gameplay pointing the same direction
+- [interest-curves-schell](interest-curves-schell.md) — interest curves apply to narrative arcs
+- [meaningful-play-definition](meaningful-play-definition.md) — player actions must have discernable, integrated narrative consequences
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.15
-- [[../sources/s013-rules-of-play]] · embedded/emergent narrative
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.15
+- [s013-rules-of-play](../sources/s013-rules-of-play.md) · embedded/emergent narrative

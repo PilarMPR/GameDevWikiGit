@@ -20,9 +20,9 @@ Game designer. Author of *Game Feel: A Game Designer's Guide to Virtual Sensatio
 
 ## Connections
 
-- [[game-feel-definition]] — his central definition
-- [[feedback-system-design]] — polish = feedback
+- [game-feel-definition](game-feel-definition.md) — his central definition
+- [feedback-system-design](feedback-system-design.md) — polish = feedback
 
 ## Sources authored
 
-- [[../sources/s007-game-feel]]
+- [s007-game-feel](../sources/s007-game-feel.md)

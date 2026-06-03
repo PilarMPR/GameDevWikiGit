@@ -2,7 +2,7 @@
 
 Tracker de sprint activo + log de milestones. Las tareas completadas se mueven al log, no se borran.
 
-Ver también: [[decisions]] · [[open-questions]] · [[_index]]
+Ver también: [decisions](decisions.md) · [open-questions](open-questions.md) · [_index](_index.md)
 
 ---
 
@@ -72,7 +72,7 @@ Ver también: [[decisions]] · [[open-questions]] · [[_index]]
 
 ## Log de producción
 
-Append-only. Decisiones de producción (no de diseño — esas van en [[decisions]]).
+Append-only. Decisiones de producción (no de diseño — esas van en [decisions](decisions.md)).
 
 ### 2026-06-02 — Inicio del proyecto en GameDevWiki
 

@@ -26,15 +26,15 @@ The **flow channel** is the narrow band of challenge where skill and difficulty 
 
 ## Connections
 
-- [[fun-as-learning-koster]] — Koster's complementary theory of why flow = fun
-- [[tense-and-release]] — the macro structure for staying in the channel
-- [[game-balance-overview]] — balance is the practice that maintains flow
+- [fun-as-learning-koster](fun-as-learning-koster.md) — Koster's complementary theory of why flow = fun
+- [tense-and-release](tense-and-release.md) — the macro structure for staying in the channel
+- [game-balance-overview](game-balance-overview.md) — balance is the practice that maintains flow
 - [[player-psychology-motivation]] — flow operates within a motivational context
-- [[progression-systems-definition]] — progression systems must pace along the channel
+- [progression-systems-definition](progression-systems-definition.md) — progression systems must pace along the channel
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.9 (Lens #18)
-- [[../sources/s016-theory-of-fun]] · throughout
-- [[../sources/s001-advanced-game-design]] · ch.4, ch.7
-- [[../sources/s009-games-design-and-play]] · ch.2
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.9 (Lens #18)
+- [s016-theory-of-fun](../sources/s016-theory-of-fun.md) · throughout
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.4, ch.7
+- [s009-games-design-and-play](../sources/s009-games-design-and-play.md) · ch.2

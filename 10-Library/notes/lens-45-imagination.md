@@ -22,9 +22,9 @@ Players' imaginations fill in gaps — often better than explicit detail. Know w
 
 ## Connections
 
-- [[world-building-principles]] — imagination fills in unexplored world space
-- [[character-design-projection]] — players imagine themselves in the character
+- [world-building-principles](world-building-principles.md) — imagination fills in unexplored world space
+- [character-design-projection](character-design-projection.md) — players imagine themselves in the character
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

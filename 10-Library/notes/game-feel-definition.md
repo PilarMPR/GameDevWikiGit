@@ -31,9 +31,9 @@ updated: 2026-06-02
 - [[feedback-systems]] — polish layer and feedback are the third building block
 - [[game-feel-3cs]] — the product-level 3Cs model
 - [[player-psychology-perception]] — proprioception and kinesthetic self-extension
-- [[norman-hcd-vocabulary]] — affordances and feedback at the control interface level
+- [norman-hcd-vocabulary](norman-hcd-vocabulary.md) — affordances and feedback at the control interface level
 
 ## Appears in
 
-- [[../sources/s007-game-feel]] · throughout
-- [[../sources/s017-f2p-design-handbook]] · Part 1 (3Cs)
+- [s007-game-feel](../sources/s007-game-feel.md) · throughout
+- [s017-f2p-design-handbook](../sources/s017-f2p-design-handbook.md) · Part 1 (3Cs)

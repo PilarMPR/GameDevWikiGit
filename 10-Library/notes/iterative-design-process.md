@@ -26,14 +26,14 @@ Iterative design is the professional standard: design, build, test, refine — r
 
 ## Connections
 
-- [[playtesting-methods]] — the test phase of the cycle
-- [[sellers-four-principal-loops]] — the designer's loop is one of the four
-- [[game-as-system]] — the designer thinks in systems, not features
-- [[meaningful-play-definition]] — iteration verifies that play is meaningful
+- [playtesting-methods](playtesting-methods.md) — the test phase of the cycle
+- [sellers-four-principal-loops](sellers-four-principal-loops.md) — the designer's loop is one of the four
+- [game-as-system](game-as-system.md) — the designer thinks in systems, not features
+- [meaningful-play-definition](meaningful-play-definition.md) — iteration verifies that play is meaningful
 
 ## Appears in
 
-- [[../sources/s008-game-design-workshop]] · ch.1, ch.9
-- [[../sources/s005-art-of-game-design]] · ch.7 (Lenses #13–15)
-- [[../sources/s009-games-design-and-play]] · ch.1–2
-- [[../sources/s001-advanced-game-design]] · ch.5, ch.7
+- [s008-game-design-workshop](../sources/s008-game-design-workshop.md) · ch.1, ch.9
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.7 (Lenses #13–15)
+- [s009-games-design-and-play](../sources/s009-games-design-and-play.md) · ch.1–2
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.5, ch.7

@@ -22,9 +22,9 @@ updated: 2026-06-02
 
 ## Connections
 
-- [[player-motivation-maslow]] — reward schedules and the undermining effect
-- [[progression-systems-definition]] — rewards drive the progression loop
+- [player-motivation-maslow](player-motivation-maslow.md) — reward schedules and the undermining effect
+- [progression-systems-definition](progression-systems-definition.md) — rewards drive the progression loop
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

@@ -175,4 +175,4 @@ As covered extensively in the Player Psychology synthesis: flow is the operation
 
 **Sources:** s013 (Salen & Zimmerman) · s004 (Huizinga) · s016 (Koster) · s005 (Schell)
 
-**See also:** [[../10-Library/notes/flow-channel-definition]] · [[../10-Library/notes/fun-engagement-debate]] · [[../10-Library/notes/magic-circle-definition]] · [[../00-Atlas/bridges/Flow & Mental Models]]
+**See also:** [flow-channel-definition](../10-Library/notes/flow-channel-definition.md) · [fun-engagement-debate](../10-Library/notes/fun-engagement-debate.md) · [magic-circle-definition](../10-Library/notes/magic-circle-definition.md) · [Flow & Mental Models](../00-Atlas/bridges/Flow%20%26%20Mental%20Models.md)

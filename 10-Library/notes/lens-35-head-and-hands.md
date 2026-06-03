@@ -22,9 +22,9 @@ Physical skill (reflexes, speed, accuracy) vs. mental skill (strategy, planning,
 
 ## Connections
 
-- [[input-controls-design]] — physical skill lives here
-- [[puzzle-design-principles]] — mental skill games
+- [input-controls-design](input-controls-design.md) — physical skill lives here
+- [puzzle-design-principles](puzzle-design-principles.md) — mental skill games
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

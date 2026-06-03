@@ -22,9 +22,9 @@ The story of a game should emerge primarily through play, not through cutscenes.
 
 ## Connections
 
-- [[story-narrative-approaches]] — narrative approaches comparison
-- [[indirect-control-methods]] — story delivered through indirect control
+- [story-narrative-approaches](story-narrative-approaches.md) — narrative approaches comparison
+- [indirect-control-methods](indirect-control-methods.md) — story delivered through indirect control
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.15
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.15

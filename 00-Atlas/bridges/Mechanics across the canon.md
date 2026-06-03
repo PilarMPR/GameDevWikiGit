@@ -27,15 +27,15 @@ All sources converge: **players perform actions (verbs/procedures) on objects/re
 
 ## Key notes
 
-- [[mechanics-definition]] — the definitional debate itself
-- [[schell-mechanic-taxonomy]] — Schell's 6 categories
-- [[adams-mechanic-families]] — Adams' 5 families
-- [[mechanics-as-verbs]] — Anthropy & Clark
-- [[formal-elements-synthesis]] — the convergent anatomy
-- [[elemental-tetrad-schell]] — Schell's higher-level design tool
-- [[mda-framework-overview]] — the causal system model
+- [mechanics-definition](../../10-Library/notes/mechanics-definition.md) — the definitional debate itself
+- [schell-mechanic-taxonomy](../../10-Library/notes/schell-mechanic-taxonomy.md) — Schell's 6 categories
+- [adams-mechanic-families](../../10-Library/notes/adams-mechanic-families.md) — Adams' 5 families
+- [mechanics-as-verbs](../../10-Library/notes/mechanics-as-verbs.md) — Anthropy & Clark
+- [formal-elements-synthesis](../../10-Library/notes/formal-elements-synthesis.md) — the convergent anatomy
+- [elemental-tetrad-schell](../../10-Library/notes/elemental-tetrad-schell.md) — Schell's higher-level design tool
+- [mda-framework-overview](../../10-Library/notes/mda-framework-overview.md) — the causal system model
 
 ## Discipline maps
 
-- [[../disciplines/Mechanics]]
-- [[../disciplines/Theory]]
+- [Mechanics](../disciplines/Mechanics.md)
+- [Theory](../disciplines/Theory.md)

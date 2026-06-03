@@ -208,4 +208,4 @@ A platformer level is a spatial design; the experience of playing through it is 
 
 **Sources:** s002 (Anthropy & Clark) · s010 (Fernández-Vara) · s005 (Schell) · s016 (Koster)
 
-**See also:** [[../10-Library/notes/mechanics-as-verbs]] · [[../10-Library/notes/game-design-vocabulary-anthropy]] · [[../10-Library/notes/indirect-control-methods]] · [[../00-Atlas/disciplines/Narrative]]
+**See also:** [mechanics-as-verbs](../10-Library/notes/mechanics-as-verbs.md) · [game-design-vocabulary-anthropy](../10-Library/notes/game-design-vocabulary-anthropy.md) · [indirect-control-methods](../10-Library/notes/indirect-control-methods.md) · [Narrative](../00-Atlas/disciplines/Narrative.md)

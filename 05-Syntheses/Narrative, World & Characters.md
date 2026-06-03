@@ -262,4 +262,4 @@ Ludonarrative dissonance breaks engagement by exposing the constructed nature of
 
 **Sources:** s005 (Schell) · s013 (Salen & Zimmerman) · s008 (Fullerton) · s002 (Anthropy & Clark) · s012 (Kremers) · s010 (Fernández-Vara)
 
-**See also:** [[../10-Library/notes/story-narrative-approaches]] · [[../10-Library/notes/indirect-control-methods]] · [[../10-Library/notes/world-building-principles]] · [[../10-Library/notes/character-design-projection]] · [[../00-Atlas/disciplines/Narrative]]
+**See also:** [story-narrative-approaches](../10-Library/notes/story-narrative-approaches.md) · [indirect-control-methods](../10-Library/notes/indirect-control-methods.md) · [world-building-principles](../10-Library/notes/world-building-principles.md) · [character-design-projection](../10-Library/notes/character-design-projection.md) · [Narrative](../00-Atlas/disciplines/Narrative.md)

@@ -20,10 +20,10 @@ Game designer, professor at Carnegie Mellon ETC, founder of Schell Games. Author
 
 ## Connections
 
-- [[lens-01-essential-experience]] — experience-first design is his central principle
-- [[schell-mechanic-taxonomy]] — his 6-category mechanic model
-- [[flow-channel-definition]] — his Lens #18 operationalization
+- [lens-01-essential-experience](lens-01-essential-experience.md) — experience-first design is his central principle
+- [schell-mechanic-taxonomy](schell-mechanic-taxonomy.md) — his 6-category mechanic model
+- [flow-channel-definition](flow-channel-definition.md) — his Lens #18 operationalization
 
 ## Sources authored
 
-- [[../sources/s005-art-of-game-design]]
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md)

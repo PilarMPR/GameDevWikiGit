@@ -22,9 +22,9 @@ Does this game have heart? Is there something in it that only you could make —
 
 ## Connections
 
-- [[design-vision-concept-document]] — authentic vision is the source of the Raven
-- [[lens-11-infinite-inspiration]] — the Raven comes from personal inspiration
+- [design-vision-concept-document](design-vision-concept-document.md) — authentic vision is the source of the Raven
+- [lens-11-infinite-inspiration](lens-11-infinite-inspiration.md) — the Raven comes from personal inspiration
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.32
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.32

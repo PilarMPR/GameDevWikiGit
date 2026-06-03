@@ -27,13 +27,13 @@ Progression systems track player growth over time and reward advancement. They p
 
 ## Connections
 
-- [[game-loops-definition]] — progression is the outer loop
-- [[game-balance-overview]] — power curve calibration is a balance task
-- [[self-determination-theory-games]] — competence need, undermining effect
-- [[flow-channel-definition]] — progression must maintain the flow channel
+- [game-loops-definition](game-loops-definition.md) — progression is the outer loop
+- [game-balance-overview](game-balance-overview.md) — power curve calibration is a balance task
+- [self-determination-theory-games](self-determination-theory-games.md) — competence need, undermining effect
+- [flow-channel-definition](flow-channel-definition.md) — progression must maintain the flow channel
 
 ## Appears in
 
-- [[../sources/s006-fundamentals-of-game-design]] · ch.13–14
-- [[../sources/s001-advanced-game-design]] · ch.7, ch.10
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s006-fundamentals-of-game-design](../sources/s006-fundamentals-of-game-design.md) · ch.13–14
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.7, ch.10
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

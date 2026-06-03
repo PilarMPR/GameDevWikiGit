@@ -22,9 +22,9 @@ Every interaction should be satisfying. Small touches (sounds, animations, parti
 
 ## Connections
 
-- [[game-feel-definition]] — juiciness = the polish component of game feel
-- [[feedback-system-design]] — visual and audio feedback channels
+- [game-feel-definition](game-feel-definition.md) — juiciness = the polish component of game feel
+- [feedback-system-design](feedback-system-design.md) — visual and audio feedback channels
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.13
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.13

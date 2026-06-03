@@ -24,16 +24,16 @@ updated: 2026-06-02
 
 ## Connections
 
-- [[mda-framework-overview]] — Mechanics is the first layer of MDA
-- [[schell-mechanic-taxonomy]] — Schell's 6-type breakdown of mechanic categories
-- [[adams-mechanic-families]] — Adams' 5 mechanic family types
-- [[mechanics-as-verbs]] — Anthropy & Clark's verb/object framing in full
-- [[formal-elements-synthesis]] — Fullerton's formal elements as an alternative mechanic-level framework
-- [[elemental-tetrad-schell]] — Mechanics as one of the four tetrad elements
+- [mda-framework-overview](mda-framework-overview.md) — Mechanics is the first layer of MDA
+- [schell-mechanic-taxonomy](schell-mechanic-taxonomy.md) — Schell's 6-type breakdown of mechanic categories
+- [adams-mechanic-families](adams-mechanic-families.md) — Adams' 5 mechanic family types
+- [mechanics-as-verbs](mechanics-as-verbs.md) — Anthropy & Clark's verb/object framing in full
+- [formal-elements-synthesis](formal-elements-synthesis.md) — Fullerton's formal elements as an alternative mechanic-level framework
+- [elemental-tetrad-schell](elemental-tetrad-schell.md) — Mechanics as one of the four tetrad elements
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.10
-- [[../sources/s011-mda-framework]] · full paper
-- [[../sources/s006-fundamentals-of-game-design]] · ch.14
-- [[../sources/s002-a-game-design-vocabulary]] · ch.2
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.10
+- [s011-mda-framework](../sources/s011-mda-framework.md) · full paper
+- [s006-fundamentals-of-game-design](../sources/s006-fundamentals-of-game-design.md) · ch.14
+- [s002-a-game-design-vocabulary](../sources/s002-a-game-design-vocabulary.md) · ch.2

@@ -27,12 +27,12 @@ Multiplayer games are fundamentally different from single-player: other players 
 
 ## Connections
 
-- [[party-game-design-patterns]] — the party game specialization of these types
-- [[reinforcing-vs-balancing-loops]] — king-of-hill targeting = emergent balancing loop
-- [[formal-elements-synthesis]] — "conflict" is one of Fullerton's formal elements
+- [party-game-design-patterns](party-game-design-patterns.md) — the party game specialization of these types
+- [reinforcing-vs-balancing-loops](reinforcing-vs-balancing-loops.md) — king-of-hill targeting = emergent balancing loop
+- [formal-elements-synthesis](formal-elements-synthesis.md) — "conflict" is one of Fullerton's formal elements
 
 ## Appears in
 
-- [[../sources/s008-game-design-workshop]] · formal elements (conflict)
-- [[../sources/s013-rules-of-play]] · ch.20
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s008-game-design-workshop](../sources/s008-game-design-workshop.md) · formal elements (conflict)
+- [s013-rules-of-play](../sources/s013-rules-of-play.md) · ch.20
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

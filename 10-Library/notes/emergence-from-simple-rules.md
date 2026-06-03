@@ -26,14 +26,14 @@ The convergent insight across Schell, Sellers, and Salen & Zimmerman: **a high r
 
 ## Connections
 
-- [[mechanics-definition]] — what mechanics are
-- [[emergence-definition]] — the systems concept underlying this
-- [[schell-mechanic-taxonomy]] — the taxonomy this insight is embedded in (resultant actions)
+- [mechanics-definition](mechanics-definition.md) — what mechanics are
+- [emergence-definition](emergence-definition.md) — the systems concept underlying this
+- [schell-mechanic-taxonomy](schell-mechanic-taxonomy.md) — the taxonomy this insight is embedded in (resultant actions)
 - [[game-balance-simple-vs-complex]] — Schell's innate vs. emergent complexity types
-- [[formal-elements-synthesis]] — Fullerton's parallel observation about formal element interactions
+- [formal-elements-synthesis](formal-elements-synthesis.md) — Fullerton's parallel observation about formal element interactions
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.10 (Lenses #23–24)
-- [[../sources/s001-advanced-game-design]] · ch.2, intro
-- [[../sources/s013-rules-of-play]] · multiple chapters
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.10 (Lenses #23–24)
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.2, intro
+- [s013-rules-of-play](../sources/s013-rules-of-play.md) · multiple chapters

@@ -22,9 +22,9 @@ A good game starts with a good toy — a core interaction that is satisfying to 
 
 ## Connections
 
-- [[game-feel-definition]] — game feel = the "toy" quality of core interaction
-- [[iterative-design-process]] — "build the toy first" prototyping principle
+- [game-feel-definition](game-feel-definition.md) — game feel = the "toy" quality of core interaction
+- [iterative-design-process](iterative-design-process.md) — "build the toy first" prototyping principle
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.7
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.7

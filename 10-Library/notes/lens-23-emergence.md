@@ -22,9 +22,9 @@ Emergence = unexpected, interesting strategies arising from the rules. More verb
 
 ## Connections
 
-- [[emergence-from-simple-rules]] — the operative/resultant ratio
-- [[emergence-definition]] — the full concept
+- [emergence-from-simple-rules](emergence-from-simple-rules.md) — the operative/resultant ratio
+- [emergence-definition](emergence-definition.md) — the full concept
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.10
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.10

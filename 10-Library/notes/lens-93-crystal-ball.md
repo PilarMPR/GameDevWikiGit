@@ -22,8 +22,8 @@ Design for the world as it will be when the game ships, not as it is today. Tech
 
 ## Connections
 
-- [[lens-14-risk-mitigation]] — future trends are a type of risk to mitigate
+- [lens-14-risk-mitigation](lens-14-risk-mitigation.md) — future trends are a type of risk to mitigate
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.27
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.27

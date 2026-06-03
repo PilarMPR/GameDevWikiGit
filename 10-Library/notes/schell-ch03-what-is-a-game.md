@@ -27,11 +27,11 @@ Schell builds up a working definition through a chain of provisional concepts: *
 
 ## Connections
 
-- [[magic-circle-definition]] — the formal separation game vs. non-game
-- [[meaningful-play-definition]] — Salen & Zimmerman's definition of game
-- [[play-and-culture-huizinga]] — Huizinga's parallel and broader definition of play
-- [[formal-elements-synthesis]] — what games are made of at the formal level
+- [magic-circle-definition](magic-circle-definition.md) — the formal separation game vs. non-game
+- [meaningful-play-definition](meaningful-play-definition.md) — Salen & Zimmerman's definition of game
+- [play-and-culture-huizinga](play-and-culture-huizinga.md) — Huizinga's parallel and broader definition of play
+- [formal-elements-synthesis](formal-elements-synthesis.md) — what games are made of at the formal level
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.3 (Lenses #2–6)
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.3 (Lenses #2–6)

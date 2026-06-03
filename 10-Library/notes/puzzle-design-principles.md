@@ -35,11 +35,11 @@ A puzzle is "a game with a dominant strategy" (Scott Kim, cited in s005, ch.12) 
 
 ## Connections
 
-- [[fun-as-learning-koster]] — puzzles are pure pattern-learning applications
-- [[flow-channel-definition]] — puzzle difficulty must track growing skill
-- [[game-balance-overview]] — puzzle difficulty calibration is a balance task
+- [fun-as-learning-koster](fun-as-learning-koster.md) — puzzles are pure pattern-learning applications
+- [flow-channel-definition](flow-channel-definition.md) — puzzle difficulty must track growing skill
+- [game-balance-overview](game-balance-overview.md) — puzzle difficulty calibration is a balance task
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.12
-- [[../sources/s016-theory-of-fun]] · pattern-mastery
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.12
+- [s016-theory-of-fun](../sources/s016-theory-of-fun.md) · pattern-mastery

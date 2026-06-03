@@ -26,12 +26,12 @@ The core F2P principle: **fun first**. Without a compelling core experience, no 
 
 ## Connections
 
-- [[game-loops-definition]] — loop architecture is the F2P retention engine
-- [[game-feel-definition]] — 3Cs as the core game feel foundation
-- [[player-motivation-maslow]] — SDT: competence, autonomy, relatedness as retention foundation
-- [[mda-framework-overview]] — F2P explicitly builds on MDA
+- [game-loops-definition](game-loops-definition.md) — loop architecture is the F2P retention engine
+- [game-feel-definition](game-feel-definition.md) — 3Cs as the core game feel foundation
+- [player-motivation-maslow](player-motivation-maslow.md) — SDT: competence, autonomy, relatedness as retention foundation
+- [mda-framework-overview](mda-framework-overview.md) — F2P explicitly builds on MDA
 
 ## Appears in
 
-- [[../sources/s017-f2p-design-handbook]] · Part 1
-- [[../sources/s014-the-gamers-brain]] · ch.7
+- [s017-f2p-design-handbook](../sources/s017-f2p-design-handbook.md) · Part 1
+- [s014-the-gamers-brain](../sources/s014-the-gamers-brain.md) · ch.7

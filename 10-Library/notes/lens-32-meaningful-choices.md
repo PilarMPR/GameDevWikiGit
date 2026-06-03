@@ -22,9 +22,9 @@ Choices = Desires = freedom. Choices > Desires = overwhelmed. Choices < Desires 
 
 ## Connections
 
-- [[meaningful-choices-triangularity]] — full treatment of meaningful choice design
-- [[meaningful-play-definition]] — meaningful choices are a prerequisite for meaningful play
+- [meaningful-choices-triangularity](meaningful-choices-triangularity.md) — full treatment of meaningful choice design
+- [meaningful-play-definition](meaningful-play-definition.md) — meaningful choices are a prerequisite for meaningful play
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

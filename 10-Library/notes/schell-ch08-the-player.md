@@ -26,10 +26,10 @@ To make a great experience, know your audience better than they know themselves.
 
 ## Connections
 
-- [[mda-aesthetics-taxonomy]] — LeBlanc's 8 pleasures ≡ MDA aesthetics
-- [[bartle-four-types]] — the full Bartle taxonomy
-- [[player-motivation-maslow]] — motivation foundations
+- [mda-aesthetics-taxonomy](mda-aesthetics-taxonomy.md) — LeBlanc's 8 pleasures ≡ MDA aesthetics
+- [bartle-four-types](bartle-four-types.md) — the full Bartle taxonomy
+- [player-motivation-maslow](player-motivation-maslow.md) — motivation foundations
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.8 (Lenses #16–17)
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.8 (Lenses #16–17)

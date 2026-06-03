@@ -22,9 +22,9 @@ Session length determines audience, social context, strategic depth possible, an
 
 ## Connections
 
-- [[party-game-design-patterns]] — short session requirement for party games (15-20 min)
-- [[interest-curves-schell]] — session length determines what arc structure is possible
+- [party-game-design-patterns](party-game-design-patterns.md) — short session requirement for party games (15-20 min)
+- [interest-curves-schell](interest-curves-schell.md) — session length determines what arc structure is possible
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

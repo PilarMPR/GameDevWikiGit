@@ -22,8 +22,8 @@ Map the relationships between all characters. Relationships that change over tim
 
 ## Connections
 
-- [[story-narrative-approaches]] — character webs as narrative generators
+- [story-narrative-approaches](story-narrative-approaches.md) — character webs as narrative generators
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.18
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.18

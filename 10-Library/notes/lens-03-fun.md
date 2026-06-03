@@ -22,9 +22,9 @@ Fun = pleasure with surprises. Not all parts of a game are equally fun; identify
 
 ## Connections
 
-- [[fun-engagement-debate]] — the three-source debate about what "fun" really is
-- [[fun-as-learning-koster]] — Koster's mechanistic account
+- [fun-engagement-debate](fun-engagement-debate.md) — the three-source debate about what "fun" really is
+- [fun-as-learning-koster](fun-as-learning-koster.md) — Koster's mechanistic account
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.3
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.3

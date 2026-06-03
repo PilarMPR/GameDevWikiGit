@@ -25,14 +25,14 @@ Every feedback loop in a game system is either **reinforcing** (positive feedbac
 
 ## Connections
 
-- [[game-loops-definition]] — the broader loop framework
-- [[mda-feedback-dynamics]] — MDA's treatment of feedback loops
-- [[game-balance-overview]] — managing these loops is the core of balance design
-- [[flow-channel-definition]] — the flow channel is maintained by balancing loops
-- [[multiplayer-conflict-types]] — king-of-hill as emergent balancing loop in multiplayer
+- [game-loops-definition](game-loops-definition.md) — the broader loop framework
+- [mda-feedback-dynamics](mda-feedback-dynamics.md) — MDA's treatment of feedback loops
+- [game-balance-overview](game-balance-overview.md) — managing these loops is the core of balance design
+- [flow-channel-definition](flow-channel-definition.md) — the flow channel is maintained by balancing loops
+- [multiplayer-conflict-types](multiplayer-conflict-types.md) — king-of-hill as emergent balancing loop in multiplayer
 
 ## Appears in
 
-- [[../sources/s001-advanced-game-design]] · ch.2, ch.7
-- [[../sources/s011-mda-framework]] · full paper
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.2, ch.7
+- [s011-mda-framework](../sources/s011-mda-framework.md) · full paper
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

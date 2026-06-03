@@ -22,8 +22,8 @@ Designers are responsible for the experiences they create and their effects on p
 
 ## Connections
 
-- [[monetization-models]] — ethical design responsibility in monetization
+- [monetization-models](monetization-models.md) — ethical design responsibility in monetization
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.32
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.32

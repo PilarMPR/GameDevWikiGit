@@ -27,10 +27,10 @@ The four tetrad elements should all serve a single **theme** — what the game i
 
 ## Connections
 
-- [[elemental-tetrad-schell]] — theme unifies all four tetrad elements
-- [[design-vision-concept-document]] — theme is the deepest form of the design vision
-- [[indirect-control-methods]] — all six methods can reinforce the theme
+- [elemental-tetrad-schell](elemental-tetrad-schell.md) — theme unifies all four tetrad elements
+- [design-vision-concept-document](design-vision-concept-document.md) — theme is the deepest form of the design vision
+- [indirect-control-methods](indirect-control-methods.md) — all six methods can reinforce the theme
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.5 (Lenses #9–10)
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.5 (Lenses #9–10)

@@ -22,8 +22,8 @@ Client wants vs. client needs are not the same. Deliver what the client needs to
 
 ## Connections
 
-- [[schell-ch01-the-designer]] — deep listening to the client
+- [schell-ch01-the-designer](schell-ch01-the-designer.md) — deep listening to the client
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.27
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.27

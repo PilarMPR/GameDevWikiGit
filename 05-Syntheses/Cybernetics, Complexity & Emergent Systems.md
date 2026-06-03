@@ -189,4 +189,4 @@ Why do games uniquely develop complex systems thinking skills?
 
 **Sources:** s013 (Salen & Zimmerman) · s001 (Sellers) · s005 (Schell) · s011 (MDA)
 
-**See also:** [[../10-Library/notes/reinforcing-vs-balancing-loops]] · [[../10-Library/notes/emergence-definition]] · [[../10-Library/notes/game-as-system]] · [[../00-Atlas/bridges/Mechanics across the canon]]
+**See also:** [reinforcing-vs-balancing-loops](../10-Library/notes/reinforcing-vs-balancing-loops.md) · [emergence-definition](../10-Library/notes/emergence-definition.md) · [game-as-system](../10-Library/notes/game-as-system.md) · [Mechanics across the canon](../00-Atlas/bridges/Mechanics%20across%20the%20canon.md)

@@ -22,9 +22,9 @@ Games must be financially sustainable. The business model must be considered alo
 
 ## Connections
 
-- [[monetization-models]] — monetization patterns
-- [[f2p-design-foundation]] — fun first, then monetize
+- [monetization-models](monetization-models.md) — monetization patterns
+- [f2p-design-foundation](f2p-design-foundation.md) — fun first, then monetize
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.29
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.29

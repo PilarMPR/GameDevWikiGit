@@ -23,15 +23,15 @@ Ernest Adams classifies core mechanics into five functional families based on th
 4. **Tactical maneuvering mechanics**: positioning, timing, and movement in conflict situations. Unit positioning, cover, range. Dominant in: strategy, tactics, competitive shooters. Challenge type: spatial reasoning combined with prediction of opponent behavior.
 5. **Social interaction mechanics**: coordination, communication, competition, and trust between players. Voting, trading, role-playing, deception. Dominant in: multiplayer games, party games, social deductions. Challenge type: reading people, coordination, negotiation.
 
-Each family has distinct design tools, balance methods, and player skill profiles. [[game-balance-methods]] differ per family: physics games balance by tuning forces; economy games balance by modeling exchange rates; social games balance by managing information asymmetry.
+Each family has distinct design tools, balance methods, and player skill profiles. [game-balance-methods](game-balance-methods.md) differ per family: physics games balance by tuning forces; economy games balance by modeling exchange rates; social games balance by managing information asymmetry.
 
 ## Connections
 
-- [[mechanics-definition]] — the broader definition debate
-- [[schell-mechanic-taxonomy]] — Schell's complementary spatial/objects/actions taxonomy
-- [[game-balance-overview]] — each family has distinct balance challenges
-- [[progression-systems-definition]] — Progression Mechanics expanded
+- [mechanics-definition](mechanics-definition.md) — the broader definition debate
+- [schell-mechanic-taxonomy](schell-mechanic-taxonomy.md) — Schell's complementary spatial/objects/actions taxonomy
+- [game-balance-overview](game-balance-overview.md) — each family has distinct balance challenges
+- [progression-systems-definition](progression-systems-definition.md) — Progression Mechanics expanded
 
 ## Appears in
 
-- [[../sources/s006-fundamentals-of-game-design]] · ch.13–14
+- [s006-fundamentals-of-game-design](../sources/s006-fundamentals-of-game-design.md) · ch.13–14

@@ -22,9 +22,9 @@ Prototype to mitigate the greatest risks first, not to polish what you already k
 
 ## Connections
 
-- [[iterative-design-process]] — risk mitigation drives what to prototype next
-- [[playtesting-methods]] — playtesting is how risks are tested
+- [iterative-design-process](iterative-design-process.md) — risk mitigation drives what to prototype next
+- [playtesting-methods](playtesting-methods.md) — playtesting is how risks are tested
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.7
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.7

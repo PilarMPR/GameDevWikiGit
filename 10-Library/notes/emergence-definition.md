@@ -26,14 +26,14 @@ Emergence occurs when a system produces behaviors or properties not explicitly p
 
 ## Connections
 
-- [[emergence-from-simple-rules]] — the design principle: maximize resultant/operative ratio
-- [[mda-feedback-dynamics]] — the Dynamics layer is where emergence plays out
-- [[game-loops-definition]] — feedback loops are the engine of emergent Dynamics
-- [[formal-elements-synthesis]] — formal elements are the building blocks that interact to produce emergence
+- [emergence-from-simple-rules](emergence-from-simple-rules.md) — the design principle: maximize resultant/operative ratio
+- [mda-feedback-dynamics](mda-feedback-dynamics.md) — the Dynamics layer is where emergence plays out
+- [game-loops-definition](game-loops-definition.md) — feedback loops are the engine of emergent Dynamics
+- [formal-elements-synthesis](formal-elements-synthesis.md) — formal elements are the building blocks that interact to produce emergence
 
 ## Appears in
 
-- [[../sources/s001-advanced-game-design]] · ch.2, intro
-- [[../sources/s013-rules-of-play]] · multiple chapters
-- [[../sources/s011-mda-framework]] · Dynamics layer
-- [[../sources/s005-art-of-game-design]] · ch.10
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.2, intro
+- [s013-rules-of-play](../sources/s013-rules-of-play.md) · multiple chapters
+- [s011-mda-framework](../sources/s011-mda-framework.md) · Dynamics layer
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.10

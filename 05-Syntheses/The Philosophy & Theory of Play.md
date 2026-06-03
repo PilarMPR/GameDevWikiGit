@@ -218,4 +218,4 @@ Games don't just *depict* the world — they *model* it. A game where economic g
 
 **Sources:** s004 (Huizinga) · s013 (Salen & Zimmerman) · s005 (Schell) · s010 (Fernández-Vara)
 
-**See also:** [[../10-Library/notes/magic-circle-definition]] · [[../10-Library/notes/meaningful-play-definition]] · [[../10-Library/notes/play-and-culture-huizinga]] · [[../00-Atlas/bridges/Magic Circle & Play]]
+**See also:** [magic-circle-definition](../10-Library/notes/magic-circle-definition.md) · [meaningful-play-definition](../10-Library/notes/meaningful-play-definition.md) · [play-and-culture-huizinga](../10-Library/notes/play-and-culture-huizinga.md) · [Magic Circle & Play](../00-Atlas/bridges/Magic%20Circle%20%26%20Play.md)

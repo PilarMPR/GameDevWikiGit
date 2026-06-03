@@ -194,4 +194,4 @@ Hot Potato targets **Steam premium** (one-time purchase), not F2P. However, F2P 
 
 **Sources:** s017 (F2P Handbook) · s014 (Hodent) · s005 (Schell) · s006 (Adams) · s011 (MDA)
 
-**See also:** [[../10-Library/notes/f2p-design-foundation]] · [[../10-Library/notes/monetization-models]] · [[../10-Library/notes/player-motivation-maslow]] · [[../10-Library/notes/self-determination-theory-games]] · [[../00-Atlas/disciplines/Business]]
+**See also:** [f2p-design-foundation](../10-Library/notes/f2p-design-foundation.md) · [monetization-models](../10-Library/notes/monetization-models.md) · [player-motivation-maslow](../10-Library/notes/player-motivation-maslow.md) · [self-determination-theory-games](../10-Library/notes/self-determination-theory-games.md) · [Business](../00-Atlas/disciplines/Business.md)

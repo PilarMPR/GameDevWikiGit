@@ -22,9 +22,9 @@ The deepest games tap into something beyond mechanics — themes that resonate w
 
 ## Connections
 
-- [[schell-ch05-theme]] — theme and resonance
-- [[story-narrative-approaches]] — narrative as a vehicle for resonance
+- [schell-ch05-theme](schell-ch05-theme.md) — theme and resonance
+- [story-narrative-approaches](story-narrative-approaches.md) — narrative as a vehicle for resonance
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.5
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.5

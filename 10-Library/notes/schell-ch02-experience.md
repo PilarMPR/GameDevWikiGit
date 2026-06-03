@@ -26,10 +26,10 @@ The designer's true goal is **not the game but the experience the game produces*
 
 ## Connections
 
-- [[mda-framework-overview]] — aesthetics = the experience layer
-- [[design-vision-concept-document]] — "essential experience" ≡ the design vision
-- [[iterative-design-process]] — interactivity makes outcomes unpredictable; iteration is unavoidable
+- [mda-framework-overview](mda-framework-overview.md) — aesthetics = the experience layer
+- [design-vision-concept-document](design-vision-concept-document.md) — "essential experience" ≡ the design vision
+- [iterative-design-process](iterative-design-process.md) — interactivity makes outcomes unpredictable; iteration is unavoidable
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.2 (Lens #1)
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.2 (Lens #1)

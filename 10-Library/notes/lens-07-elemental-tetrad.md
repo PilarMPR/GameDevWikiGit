@@ -22,9 +22,9 @@ Every game consists of four interdependent elements (Mechanics, Story, Aesthetic
 
 ## Connections
 
-- [[elemental-tetrad-schell]] — full treatment
-- [[schell-ch04-elemental-tetrad]] — chapter notes
+- [elemental-tetrad-schell](elemental-tetrad-schell.md) — full treatment
+- [schell-ch04-elemental-tetrad](schell-ch04-elemental-tetrad.md) — chapter notes
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.4
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.4

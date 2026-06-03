@@ -24,15 +24,15 @@ Balance is a property of the complete game+player system — not a state achieve
 
 ## Connections
 
-- [[transitive-vs-intransitive-systems]] — structural balance through cyclic relationships
-- [[reinforcing-vs-balancing-loops]] — feedback balance is the core mechanism
-- [[meaningful-choices-triangularity]] — balance type 3: meaningful choices
-- [[game-balance-methods]] — the four procedural methods for achieving balance
-- [[flow-channel-definition]] — the flow channel as the experiential target of good balance
-- [[mda-feedback-dynamics]] — Monopoly as a failed balance case study
+- [transitive-vs-intransitive-systems](transitive-vs-intransitive-systems.md) — structural balance through cyclic relationships
+- [reinforcing-vs-balancing-loops](reinforcing-vs-balancing-loops.md) — feedback balance is the core mechanism
+- [meaningful-choices-triangularity](meaningful-choices-triangularity.md) — balance type 3: meaningful choices
+- [game-balance-methods](game-balance-methods.md) — the four procedural methods for achieving balance
+- [flow-channel-definition](flow-channel-definition.md) — the flow channel as the experiential target of good balance
+- [mda-feedback-dynamics](mda-feedback-dynamics.md) — Monopoly as a failed balance case study
 
 ## Appears in
 
-- [[../sources/s001-advanced-game-design]] · ch.9
-- [[../sources/s005-art-of-game-design]] · ch.11
-- [[../sources/s011-mda-framework]] · full paper (Monopoly case)
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.9
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11
+- [s011-mda-framework](../sources/s011-mda-framework.md) · full paper (Monopoly case)

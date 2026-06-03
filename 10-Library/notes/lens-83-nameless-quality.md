@@ -22,8 +22,8 @@ Christopher Alexander's "quality without a name" — a living, whole quality tha
 
 ## Connections
 
-- [[design-vision-concept-document]] — the authentic vision is what creates this quality
+- [design-vision-concept-document](design-vision-concept-document.md) — the authentic vision is what creates this quality
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.18
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.18

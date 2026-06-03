@@ -30,13 +30,13 @@ Game spaces are functional systems that shape player behavior and emotion throug
 
 ## Connections
 
-- [[level-design-principles]] — the broader level design craft
-- [[interest-curves-schell]] — spatial rhythm is the spatial implementation of the interest curve
-- [[tense-and-release]] — spatial design implements tense-and-release at the room level
+- [level-design-principles](level-design-principles.md) — the broader level design craft
+- [interest-curves-schell](interest-curves-schell.md) — spatial rhythm is the spatial implementation of the interest curve
+- [tense-and-release](tense-and-release.md) — spatial design implements tense-and-release at the room level
 - [[indirect-control-tools]] — spatial design is a primary indirect control medium
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.10, ch.16, ch.19
-- [[../sources/s003-hows-and-whys-of-level-design]] · throughout
-- [[../sources/s012-level-design]] · ch.4–6
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.10, ch.16, ch.19
+- [s003-hows-and-whys-of-level-design](../sources/s003-hows-and-whys-of-level-design.md) · throughout
+- [s012-level-design](../sources/s012-level-design.md) · ch.4–6

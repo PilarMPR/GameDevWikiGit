@@ -20,9 +20,9 @@ Game designer, entrepreneur, educator. Author of *Advanced Game Design: A System
 
 ## Connections
 
-- [[game-as-system]] — his central thesis
-- [[sellers-four-principal-loops]] — his four loops model
+- [game-as-system](game-as-system.md) — his central thesis
+- [sellers-four-principal-loops](sellers-four-principal-loops.md) — his four loops model
 
 ## Sources authored
 
-- [[../sources/s001-advanced-game-design]]
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md)

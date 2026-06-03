@@ -22,9 +22,9 @@ Curiosity — the desire to resolve open questions — is a powerful motivator. 
 
 ## Connections
 
-- [[fun-as-learning-koster]] — curiosity is the driver of pattern-seeking
-- [[interest-curves-schell]] — questions are what sustain interest between peaks
+- [fun-as-learning-koster](fun-as-learning-koster.md) — curiosity is the driver of pattern-seeking
+- [interest-curves-schell](interest-curves-schell.md) — questions are what sustain interest between peaks
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.3
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.3

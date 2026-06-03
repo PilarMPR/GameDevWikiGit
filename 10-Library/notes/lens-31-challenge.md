@@ -22,9 +22,9 @@ The challenge must be appropriate and should scale. Keep all skill levels engage
 
 ## Connections
 
-- [[flow-channel-definition]] — challenge matching skill is the definition of the flow channel
-- [[progression-systems-definition]] — progression should scale challenge with player capability
+- [flow-channel-definition](flow-channel-definition.md) — challenge matching skill is the definition of the flow channel
+- [progression-systems-definition](progression-systems-definition.md) — progression should scale challenge with player capability
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

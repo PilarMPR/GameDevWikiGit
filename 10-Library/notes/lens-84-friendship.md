@@ -22,9 +22,9 @@ Games that bring people together as friends satisfy deeper needs than games play
 
 ## Connections
 
-- [[self-determination-theory-games]] — relatedness is the SDT need friendship fulfills
-- [[mda-aesthetics-taxonomy]] — Fellowship is MDA aesthetic #5
+- [self-determination-theory-games](self-determination-theory-games.md) — relatedness is the SDT need friendship fulfills
+- [mda-aesthetics-taxonomy](mda-aesthetics-taxonomy.md) — Fellowship is MDA aesthetic #5
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.19
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.19

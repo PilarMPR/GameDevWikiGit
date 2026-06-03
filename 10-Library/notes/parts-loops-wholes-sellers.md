@@ -25,12 +25,12 @@ Sellers decomposes any system into four aspects: **Parts** (individual entities 
 
 ## Connections
 
-- [[game-as-system]] — the broader premise that games are systems
-- [[emergence-definition]] — wholes produce emergence; parts don't
-- [[reinforcing-vs-balancing-loops]] — the two fundamental loop types
-- [[sellers-four-principal-loops]] — the loops at the game level
-- [[game-balance-overview]] — balance is a property of the whole, not any part
+- [game-as-system](game-as-system.md) — the broader premise that games are systems
+- [emergence-definition](emergence-definition.md) — wholes produce emergence; parts don't
+- [reinforcing-vs-balancing-loops](reinforcing-vs-balancing-loops.md) — the two fundamental loop types
+- [sellers-four-principal-loops](sellers-four-principal-loops.md) — the loops at the game level
+- [game-balance-overview](game-balance-overview.md) — balance is a property of the whole, not any part
 
 ## Appears in
 
-- [[../sources/s001-advanced-game-design]] · ch.2, ch.5, ch.7
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.2, ch.5, ch.7

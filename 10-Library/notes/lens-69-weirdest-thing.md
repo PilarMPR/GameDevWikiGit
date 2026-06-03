@@ -22,8 +22,8 @@ Every game has one weirdest thing that makes it unique. If there is too much wei
 
 ## Connections
 
-- [[lens-09-unification]] — the weirdest thing must serve the theme
+- [lens-09-unification](lens-09-unification.md) — the weirdest thing must serve the theme
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.15
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.15

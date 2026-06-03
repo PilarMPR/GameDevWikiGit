@@ -22,9 +22,9 @@ Every player action must produce clear, immediate, informative feedback. Without
 
 ## Connections
 
-- [[feedback-system-design]] — full treatment of game feedback
-- [[norman-hcd-vocabulary]] — Norman's feedback principle
+- [feedback-system-design](feedback-system-design.md) — full treatment of game feedback
+- [norman-hcd-vocabulary](norman-hcd-vocabulary.md) — Norman's feedback principle
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.13
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.13

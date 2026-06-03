@@ -6,15 +6,15 @@ tags: [moc]
 
 # 🗺️ Level Design — Map of Content
 
-**Start here:** [[level-design-principles]] → [[spatial-design-principles]] → [[interest-curves-schell]] → [[tense-and-release]] → [[indirect-control-methods]]
+**Start here:** [level-design-principles](../../10-Library/notes/level-design-principles.md) → [spatial-design-principles](../../10-Library/notes/spatial-design-principles.md) → [interest-curves-schell](../../10-Library/notes/interest-curves-schell.md) → [tense-and-release](../../10-Library/notes/tense-and-release.md) → [indirect-control-methods](../../10-Library/notes/indirect-control-methods.md)
 
 ## Core concepts
 
-- [[level-design-principles]] — teaching, goals hierarchy, methodology
-- [[spatial-design-principles]] — 5 organizing patterns, sightlines, scale
-- [[interest-curves-schell]] — pacing across time (Lens #61)
-- [[tense-and-release]] — micro-pacing pattern
-- [[indirect-control-methods]] — 6 methods for guiding players
+- [level-design-principles](../../10-Library/notes/level-design-principles.md) — teaching, goals hierarchy, methodology
+- [spatial-design-principles](../../10-Library/notes/spatial-design-principles.md) — 5 organizing patterns, sightlines, scale
+- [interest-curves-schell](../../10-Library/notes/interest-curves-schell.md) — pacing across time (Lens #61)
+- [tense-and-release](../../10-Library/notes/tense-and-release.md) — micro-pacing pattern
+- [indirect-control-methods](../../10-Library/notes/indirect-control-methods.md) — 6 methods for guiding players
 
 ## All level design notes
 
@@ -26,5 +26,5 @@ SORT title ASC
 
 ## Bridges
 
-- [[../bridges/Flow & Mental Models]]
-- [[../bridges/Iteration & Playtesting]]
+- [Flow & Mental Models](../bridges/Flow%20%26%20Mental%20Models.md)
+- [Iteration & Playtesting](../bridges/Iteration%20%26%20Playtesting.md)

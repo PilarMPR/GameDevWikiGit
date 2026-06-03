@@ -26,11 +26,11 @@ An **interest curve** plots audience interest (y-axis) against time (x-axis) for
 
 ## Connections
 
-- [[tense-and-release]] — the micro-level implementation of the interest curve
-- [[flow-channel-definition]] — the interest curve must stay within the flow channel constraint
-- [[level-design-principles]] — interest curves are implemented through level design
-- [[iterative-design-process]] — draw the curve before finalizing any content section
+- [tense-and-release](tense-and-release.md) — the micro-level implementation of the interest curve
+- [flow-channel-definition](flow-channel-definition.md) — the interest curve must stay within the flow channel constraint
+- [level-design-principles](level-design-principles.md) — interest curves are implemented through level design
+- [iterative-design-process](iterative-design-process.md) — draw the curve before finalizing any content section
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.14 (Lens #61)
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.14 (Lens #61)

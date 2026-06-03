@@ -166,4 +166,4 @@ This is the most personal ethical lens — it asks the designer to hold themselv
 
 **Sources:** s013 (Salen & Zimmerman) · s005 (Schell) · s014 (Hodent) · s017 (F2P handbook) · s004 (Huizinga)
 
-**See also:** [[../10-Library/notes/meaningful-play-definition]] · [[../10-Library/notes/magic-circle-definition]] · [[../10-Library/notes/monetization-models]] · [[../00-Atlas/disciplines/Theory]]
+**See also:** [meaningful-play-definition](../10-Library/notes/meaningful-play-definition.md) · [magic-circle-definition](../10-Library/notes/magic-circle-definition.md) · [monetization-models](../10-Library/notes/monetization-models.md) · [Theory](../00-Atlas/disciplines/Theory.md)

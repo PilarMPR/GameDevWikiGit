@@ -27,14 +27,14 @@ The magic circle is the **bounded space, set apart from ordinary life, within wh
 
 ## Connections
 
-- [[meaningful-play-definition]] — the magic circle is the space within which meaningful play occurs
-- [[formal-elements-synthesis]] — "boundaries" formal element = the magic circle in structural terms
+- [meaningful-play-definition](meaningful-play-definition.md) — the magic circle is the space within which meaningful play occurs
+- [formal-elements-synthesis](formal-elements-synthesis.md) — "boundaries" formal element = the magic circle in structural terms
 - [[lusory-attitude]] — the psychological prerequisite for entering the circle
 - [[play-and-culture]] — Huizinga's full theory of play as constitutive of culture
 
 ## Appears in
 
-- [[../sources/s004-homo-ludens]] · throughout
-- [[../sources/s013-rules-of-play]] · ch.9
-- [[../sources/s001-advanced-game-design]] · ch.3
-- [[../sources/s005-art-of-game-design]] · ch.3
+- [s004-homo-ludens](../sources/s004-homo-ludens.md) · throughout
+- [s013-rules-of-play](../sources/s013-rules-of-play.md) · ch.9
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.3
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.3

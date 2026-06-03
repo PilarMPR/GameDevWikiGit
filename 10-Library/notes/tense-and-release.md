@@ -24,10 +24,10 @@ The fundamental unit of pacing in game design: **tension rises** (challenge incr
 
 ## Connections
 
-- [[interest-curves-schell]] — tense-and-release is the frame-by-frame implementation of the interest curve
-- [[flow-channel-definition]] — tense-and-release is how you stay in the flow channel
-- [[level-design-principles]] — implemented through spatial and encounter design
+- [interest-curves-schell](interest-curves-schell.md) — tense-and-release is the frame-by-frame implementation of the interest curve
+- [flow-channel-definition](flow-channel-definition.md) — tense-and-release is how you stay in the flow channel
+- [level-design-principles](level-design-principles.md) — implemented through spatial and encounter design
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.9, ch.14
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.9, ch.14

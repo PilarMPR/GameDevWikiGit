@@ -22,9 +22,9 @@ Multiple simultaneous sub-puzzles prevent dead ends. When stuck on one, players 
 
 ## Connections
 
-- [[puzzle-design-principles]] — Principle 6: parallelism
-- [[interest-curves-schell]] — parallelism prevents interest from collapsing when stuck
+- [puzzle-design-principles](puzzle-design-principles.md) — Principle 6: parallelism
+- [interest-curves-schell](interest-curves-schell.md) — parallelism prevents interest from collapsing when stuck
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.12
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.12

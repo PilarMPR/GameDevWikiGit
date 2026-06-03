@@ -22,9 +22,9 @@ The abstract topology of play: discrete vs. continuous, dimensions, bounded and 
 
 ## Connections
 
-- [[schell-mechanic-taxonomy]] — Space is Mechanic 1 in Schell's taxonomy
-- [[spatial-design-principles]] — functional vs. experienced space distinction
+- [schell-mechanic-taxonomy](schell-mechanic-taxonomy.md) — Space is Mechanic 1 in Schell's taxonomy
+- [spatial-design-principles](spatial-design-principles.md) — functional vs. experienced space distinction
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.10
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.10

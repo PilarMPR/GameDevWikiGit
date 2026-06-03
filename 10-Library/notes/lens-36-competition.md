@@ -22,9 +22,9 @@ Competition taps a primal human drive to establish status and demonstrate master
 
 ## Connections
 
-- [[multiplayer-conflict-types]] — direct conflict is the purest competitive form
-- [[bartle-four-types]] — Killers are motivated primarily by competition
+- [multiplayer-conflict-types](multiplayer-conflict-types.md) — direct conflict is the purest competitive form
+- [bartle-four-types](bartle-four-types.md) — Killers are motivated primarily by competition
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

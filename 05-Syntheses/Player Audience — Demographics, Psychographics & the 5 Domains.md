@@ -213,4 +213,4 @@ Psychographics go beyond demographics to model *psychological motivations, value
 
 **Sources:** s006 (Adams) · s005 (Schell) · s014 (Hodent) · s001 (Sellers)
 
-**See also:** [[../10-Library/notes/bartle-four-types]] · [[../10-Library/notes/player-motivation-maslow]] · [[../10-Library/notes/self-determination-theory-games]] · [[../00-Atlas/disciplines/Player]]
+**See also:** [bartle-four-types](../10-Library/notes/bartle-four-types.md) · [player-motivation-maslow](../10-Library/notes/player-motivation-maslow.md) · [self-determination-theory-games](../10-Library/notes/self-determination-theory-games.md) · [Player](../00-Atlas/disciplines/Player.md)

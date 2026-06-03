@@ -27,9 +27,9 @@ The heart of the design process: **iterate**. "The more times you test and impro
 
 ## Connections
 
-- [[iterative-design-process]] — this chapter's primary content; full treatment
-- [[playtesting-methods]] — playtesting is filter #8 and the output of each iteration loop
+- [iterative-design-process](iterative-design-process.md) — this chapter's primary content; full treatment
+- [playtesting-methods](playtesting-methods.md) — playtesting is filter #8 and the output of each iteration loop
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.7 (Lenses #13–15)
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.7 (Lenses #13–15)

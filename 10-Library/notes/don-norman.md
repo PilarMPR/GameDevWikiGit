@@ -20,9 +20,9 @@ Designer, cognitive scientist, author. Director Emeritus of the Design Lab at UC
 
 ## Connections
 
-- [[norman-hcd-vocabulary]] — his six design principles
-- [[meaningful-play-definition]] — discernability ≡ Norman's Gulf of Evaluation
+- [norman-hcd-vocabulary](norman-hcd-vocabulary.md) — his six design principles
+- [meaningful-play-definition](meaningful-play-definition.md) — discernability ≡ Norman's Gulf of Evaluation
 
 ## Sources authored
 
-- [[../sources/s015-design-of-everyday-things]]
+- [s015-design-of-everyday-things](../sources/s015-design-of-everyday-things.md)

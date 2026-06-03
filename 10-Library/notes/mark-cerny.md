@@ -18,9 +18,9 @@ Game designer and system architect. Known for Marble Madness, Crash Bandicoot (p
 
 ## Connections
 
-- [[iterative-design-process]] — Cerny's Method is a specialization of the iteration process
-- [[lens-14-risk-mitigation]] — his method front-loads the highest risk (is the core fun?)
+- [iterative-design-process](iterative-design-process.md) — Cerny's Method is a specialization of the iteration process
+- [lens-14-risk-mitigation](lens-14-risk-mitigation.md) — his method front-loads the highest risk (is the core fun?)
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.7 (cited)
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.7 (cited)

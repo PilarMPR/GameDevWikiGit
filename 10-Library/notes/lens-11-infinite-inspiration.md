@@ -22,9 +22,9 @@ Look everywhere for inspiration except other games. Others can copy your moves b
 
 ## Connections
 
-- [[schell-ch06-ideation]] — ideation chapter
-- [[design-vision-concept-document]] — authentic inspiration produces genuine visions
+- [schell-ch06-ideation](schell-ch06-ideation.md) — ideation chapter
+- [design-vision-concept-document](design-vision-concept-document.md) — authentic inspiration produces genuine visions
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.6
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.6

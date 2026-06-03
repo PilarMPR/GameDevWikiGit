@@ -22,9 +22,9 @@ Mixed conflict (competing while cooperating) is the most socially rich and harde
 
 ## Connections
 
-- [[multiplayer-conflict-types]] — mixed conflict type
-- [[party-game-design-patterns]] — party games often use this mixed structure
+- [multiplayer-conflict-types](multiplayer-conflict-types.md) — mixed conflict type
+- [party-game-design-patterns](party-game-design-patterns.md) — party games often use this mixed structure
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

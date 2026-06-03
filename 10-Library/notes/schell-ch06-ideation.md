@@ -25,10 +25,10 @@ The "amateurish" loop (think of an idea, try it, keep changing until good) is ex
 
 ## Connections
 
-- [[design-vision-concept-document]] — the problem statement clarifies the design vision
-- [[iterative-design-process]] — ideation feeds into the iteration loop
-- [[schell-ch02-experience]] — Lens #11 works with Lens #1 Essential Experience
+- [design-vision-concept-document](design-vision-concept-document.md) — the problem statement clarifies the design vision
+- [iterative-design-process](iterative-design-process.md) — ideation feeds into the iteration loop
+- [schell-ch02-experience](schell-ch02-experience.md) — Lens #11 works with Lens #1 Essential Experience
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.6 (Lenses #11–12)
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.6 (Lenses #11–12)

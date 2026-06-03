@@ -223,4 +223,4 @@ A more precise distinction:
 
 **Sources:** s013 (Salen & Zimmerman) · s005 (Schell) · s001 (Sellers) · s006 (Adams)
 
-**See also:** [[../10-Library/notes/transitive-vs-intransitive-systems]] · [[../10-Library/notes/game-balance-overview]] · [[../10-Library/notes/meaningful-choices-triangularity]] · [[../00-Atlas/disciplines/Mechanics]]
+**See also:** [transitive-vs-intransitive-systems](../10-Library/notes/transitive-vs-intransitive-systems.md) · [game-balance-overview](../10-Library/notes/game-balance-overview.md) · [meaningful-choices-triangularity](../10-Library/notes/meaningful-choices-triangularity.md) · [Mechanics](../00-Atlas/disciplines/Mechanics.md)

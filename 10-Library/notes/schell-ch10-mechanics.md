@@ -27,11 +27,11 @@ Mechanics are "the interactions and relationships that remain when aesthetics, t
 
 ## Connections
 
-- [[schell-mechanic-taxonomy]] — the six categories in standalone atomic form
-- [[emergence-from-simple-rules]] — the resultant/operative ratio
-- [[transitive-vs-intransitive-systems]] — relates to rules and chance design
-- [[game-balance-overview]] — balance is downstream of mechanic tuning
+- [schell-mechanic-taxonomy](schell-mechanic-taxonomy.md) — the six categories in standalone atomic form
+- [emergence-from-simple-rules](emergence-from-simple-rules.md) — the resultant/operative ratio
+- [transitive-vs-intransitive-systems](transitive-vs-intransitive-systems.md) — relates to rules and chance design
+- [game-balance-overview](game-balance-overview.md) — balance is downstream of mechanic tuning
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.10 (Lenses #21–29)
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.10 (Lenses #21–29)

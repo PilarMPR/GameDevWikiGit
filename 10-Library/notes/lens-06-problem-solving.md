@@ -22,9 +22,9 @@ Games are problem-solving activities approached with a playful attitude. Every g
 
 ## Connections
 
-- [[puzzle-design-principles]] — formal problem-solving design
-- [[meaningful-choices-triangularity]] — interesting problems require non-dominated choices
+- [puzzle-design-principles](puzzle-design-principles.md) — formal problem-solving design
+- [meaningful-choices-triangularity](meaningful-choices-triangularity.md) — interesting problems require non-dominated choices
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.3
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.3

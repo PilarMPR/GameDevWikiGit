@@ -24,11 +24,11 @@ Huizinga's radical claim: **play is older than culture itself**. Cultural instit
 
 ## Connections
 
-- [[magic-circle-definition]] — the bounded space play creates
-- [[meaningful-play-definition]] — what well-designed play produces
-- [[fun-as-learning-koster]] — Koster's neuroscience account of why play is pleasurable
+- [magic-circle-definition](magic-circle-definition.md) — the bounded space play creates
+- [meaningful-play-definition](meaningful-play-definition.md) — what well-designed play produces
+- [fun-as-learning-koster](fun-as-learning-koster.md) — Koster's neuroscience account of why play is pleasurable
 
 ## Appears in
 
-- [[../sources/s004-homo-ludens]] · throughout
-- [[../sources/s013-rules-of-play]] · ch.9 (Caillois, Suits)
+- [s004-homo-ludens](../sources/s004-homo-ludens.md) · throughout
+- [s013-rules-of-play](../sources/s013-rules-of-play.md) · ch.9 (Caillois, Suits)

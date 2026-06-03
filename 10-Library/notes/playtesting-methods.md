@@ -25,12 +25,12 @@ Playtesting is a **learning exercise** ("what is happening and why?"), not a val
 
 ## Connections
 
-- [[iterative-design-process]] — playtesting is one phase of the iteration cycle
-- [[flow-channel-definition]] — playtesting is how you verify players are in the flow channel
-- [[meaningful-play-definition]] — playtesting verifies that play is discernable and integrated
+- [iterative-design-process](iterative-design-process.md) — playtesting is one phase of the iteration cycle
+- [flow-channel-definition](flow-channel-definition.md) — playtesting is how you verify players are in the flow channel
+- [meaningful-play-definition](meaningful-play-definition.md) — playtesting verifies that play is discernable and integrated
 
 ## Appears in
 
-- [[../sources/s008-game-design-workshop]] · ch.1, ch.9
-- [[../sources/s009-games-design-and-play]] · playtesting chapters
-- [[../sources/s001-advanced-game-design]] · ch.5
+- [s008-game-design-workshop](../sources/s008-game-design-workshop.md) · ch.1, ch.9
+- [s009-games-design-and-play](../sources/s009-games-design-and-play.md) · playtesting chapters
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.5

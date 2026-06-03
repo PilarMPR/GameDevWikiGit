@@ -22,9 +22,9 @@ Games can have personality — distinctive quirks and "lovable flaws" that make 
 
 ## Connections
 
-- [[design-vision-concept-document]] — character comes from authentic personal vision
-- [[lens-09-unification]] — character reinforces theme
+- [design-vision-concept-document](design-vision-concept-document.md) — character comes from authentic personal vision
+- [lens-09-unification](lens-09-unification.md) — character reinforces theme
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

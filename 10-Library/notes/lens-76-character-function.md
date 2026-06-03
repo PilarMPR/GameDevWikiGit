@@ -22,9 +22,9 @@ Every character in a game should serve a clear functional purpose (narrative del
 
 ## Connections
 
-- [[character-design-projection]] — NPC functions
-- [[indirect-control-methods]] — characters as indirect control
+- [character-design-projection](character-design-projection.md) — NPC functions
+- [indirect-control-methods](indirect-control-methods.md) — characters as indirect control
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.18
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.18

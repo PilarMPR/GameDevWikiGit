@@ -22,9 +22,9 @@ Cooperation fulfills belonging and relatedness needs that competition cannot. De
 
 ## Connections
 
-- [[multiplayer-conflict-types]] — cooperative conflict type
-- [[self-determination-theory-games]] — relatedness is the SDT need cooperation fulfills
+- [multiplayer-conflict-types](multiplayer-conflict-types.md) — cooperative conflict type
+- [self-determination-theory-games](self-determination-theory-games.md) — relatedness is the SDT need cooperation fulfills
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

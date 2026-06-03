@@ -22,8 +22,8 @@ Playtesting with the right audience at the right stage is the only reliable qual
 
 ## Connections
 
-- [[playtesting-methods]] — full treatment
+- [playtesting-methods](playtesting-methods.md) — full treatment
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.25
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.25

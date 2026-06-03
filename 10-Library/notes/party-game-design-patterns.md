@@ -25,11 +25,11 @@ Party games are embedded in social events and must fit around conversations, foo
 
 ## Connections
 
-- [[multiplayer-conflict-types]] — party games are primarily mixed conflict
-- [[game-balance-overview]] — skill gap management is a balance challenge
-- [[interest-curves-schell]] — short sessions require the full interest arc in 20 minutes
+- [multiplayer-conflict-types](multiplayer-conflict-types.md) — party games are primarily mixed conflict
+- [game-balance-overview](game-balance-overview.md) — skill gap management is a balance challenge
+- [interest-curves-schell](interest-curves-schell.md) — short sessions require the full interest arc in 20 minutes
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
-- [[../sources/s001-advanced-game-design]] · ch.4
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.4

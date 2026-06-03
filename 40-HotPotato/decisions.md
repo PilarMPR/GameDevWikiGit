@@ -1,6 +1,6 @@
 # Design Decisions Log
 
-Append-only, cronológico. Ver [[open-questions]] para las preguntas sin resolver.
+Append-only, cronológico. Ver [open-questions](open-questions.md) para las preguntas sin resolver.
 
 ---
 
@@ -12,7 +12,7 @@ Append-only, cronológico. Ver [[open-questions]] para las preguntas sin resolve
 
 **Rationale:** Esta estructura crea dinámicas sociales más ricas que un objeto físico: el horror de convertirte en Patata, la satisfacción de pasar el rol, y la motivación constante de los runners para huir Y trollear simultáneamente.
 
-**Basis:** (s011) [[mda-feedback-dynamics]] — tag mechanic creates a balancing loop; (s005) [[lens-38-competition-vs-cooperation]] — mixed competition/cooperation structure; [[party-game-design-patterns]] — social punchline mechanic.
+**Basis:** (s011) [mda-feedback-dynamics](../10-Library/notes/mda-feedback-dynamics.md) — tag mechanic creates a balancing loop; (s005) [lens-38-competition-vs-cooperation](../10-Library/notes/lens-38-competition-vs-cooperation.md) — mixed competition/cooperation structure; [party-game-design-patterns](../10-Library/notes/party-game-design-patterns.md) — social punchline mechanic.
 
 ---
 
@@ -28,7 +28,7 @@ Append-only, cronológico. Ver [[open-questions]] para las preguntas sin resolve
 - Ganar solo por sobrevivir (demasiado pasivo; incentiva esconderse)
 - Ganar por ser pillado menos veces (penaliza en vez de incentivar acción)
 
-**Basis:** (s005) [[meaningful-choices-triangularity]] — FAP creates safe/risky choice triangularity; (s005, ch.11) [[lens-32-meaningful-choices]] — without FAP, runners have no interesting decisions; [[multiplayer-conflict-types]] — active scoring converts indirect conflict to mixed conflict.
+**Basis:** (s005) [meaningful-choices-triangularity](../10-Library/notes/meaningful-choices-triangularity.md) — FAP creates safe/risky choice triangularity; (s005, ch.11) [lens-32-meaningful-choices](../10-Library/notes/lens-32-meaningful-choices.md) — without FAP, runners have no interesting decisions; [multiplayer-conflict-types](../10-Library/notes/multiplayer-conflict-types.md) — active scoring converts indirect conflict to mixed conflict.
 
 ---
 

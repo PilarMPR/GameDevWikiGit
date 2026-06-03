@@ -25,11 +25,11 @@ Anna Anthropy and Naomi Clark argue that a game's mechanics are best understood 
 
 ## Connections
 
-- [[mechanics-definition]] — the broader mechanics definition debate
-- [[formal-elements-synthesis]] — Fullerton's complementary noun-based formal elements
-- [[game-design-vocabulary-anthropy]] — Anthropy & Clark's broader vocabulary framework
+- [mechanics-definition](mechanics-definition.md) — the broader mechanics definition debate
+- [formal-elements-synthesis](formal-elements-synthesis.md) — Fullerton's complementary noun-based formal elements
+- [game-design-vocabulary-anthropy](game-design-vocabulary-anthropy.md) — Anthropy & Clark's broader vocabulary framework
 - [[mechanics-as-communication]] — games as expressive medium through verbs
 
 ## Appears in
 
-- [[../sources/s002-a-game-design-vocabulary]] · ch.2
+- [s002-a-game-design-vocabulary](../sources/s002-a-game-design-vocabulary.md) · ch.2

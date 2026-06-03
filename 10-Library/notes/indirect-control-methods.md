@@ -28,11 +28,11 @@ Combining all six simultaneously produces irresistible guidance that feels entir
 
 ## Connections
 
-- [[spatial-design-principles]] — visual design and constraints in space
-- [[level-design-principles]] — indirect control is how levels teach and guide
-- [[interest-curves-schell]] — indirect control helps maintain the interest curve
+- [spatial-design-principles](spatial-design-principles.md) — visual design and constraints in space
+- [level-design-principles](level-design-principles.md) — indirect control is how levels teach and guide
+- [interest-curves-schell](interest-curves-schell.md) — indirect control helps maintain the interest curve
 - [[story-narrative-games]] — indirect control makes narrative and gameplay agree
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.16 (Lens #71: Freedom)
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.16 (Lens #71: Freedom)

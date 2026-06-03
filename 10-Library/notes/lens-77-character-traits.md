@@ -22,8 +22,8 @@ Character traits must be consistent — the same trait expressed in different co
 
 ## Connections
 
-- [[character-design-projection]] — character believability
+- [character-design-projection](character-design-projection.md) — character believability
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.18
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.18

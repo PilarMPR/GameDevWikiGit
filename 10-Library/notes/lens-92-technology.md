@@ -22,8 +22,8 @@ Technology is an element of the tetrad, not a separate concern. The right techno
 
 ## Connections
 
-- [[elemental-tetrad-schell]] — Technology is one of the four tetrad elements
+- [elemental-tetrad-schell](elemental-tetrad-schell.md) — Technology is one of the four tetrad elements
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.26
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.26

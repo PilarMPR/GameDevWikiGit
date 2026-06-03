@@ -255,4 +255,4 @@ This reverses the "feature list" approach. Adding features to Mechanics doesn't 
 
 **Sources:** s001 (Sellers) · s011 (MDA) · s013 (Salen & Zimmerman) · s005 (Schell) · s006 (Adams) · s008 (Fullerton) · s017 (F2P handbook)
 
-**See also:** [[../10-Library/notes/game-loops-definition]] · [[../10-Library/notes/sellers-four-principal-loops]] · [[../10-Library/notes/reinforcing-vs-balancing-loops]] · [[../10-Library/notes/mda-framework-overview]] · [[../10-Library/notes/emergence-definition]] · [[../00-Atlas/disciplines/Mechanics]]
+**See also:** [game-loops-definition](../10-Library/notes/game-loops-definition.md) · [sellers-four-principal-loops](../10-Library/notes/sellers-four-principal-loops.md) · [reinforcing-vs-balancing-loops](../10-Library/notes/reinforcing-vs-balancing-loops.md) · [mda-framework-overview](../10-Library/notes/mda-framework-overview.md) · [emergence-definition](../10-Library/notes/emergence-definition.md) · [Mechanics](../00-Atlas/disciplines/Mechanics.md)

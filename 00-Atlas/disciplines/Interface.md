@@ -6,13 +6,13 @@ tags: [moc]
 
 # 📱 Interface — Map of Content
 
-**Start here:** [[norman-hcd-vocabulary]] → [[feedback-system-design]] → [[ui-design-hud]]
+**Start here:** [norman-hcd-vocabulary](../../10-Library/notes/norman-hcd-vocabulary.md) → [feedback-system-design](../../10-Library/notes/feedback-system-design.md) → [ui-design-hud](../../10-Library/notes/ui-design-hud.md)
 
 ## Core concepts
 
-- [[norman-hcd-vocabulary]] — affordances, signifiers, feedback, conceptual models, gulfs
-- [[feedback-system-design]] — five channels (visual, audio, haptic, diegetic, narrative)
-- [[ui-design-hud]] — HUD hierarchy, diegetic vs. non-diegetic
+- [norman-hcd-vocabulary](../../10-Library/notes/norman-hcd-vocabulary.md) — affordances, signifiers, feedback, conceptual models, gulfs
+- [feedback-system-design](../../10-Library/notes/feedback-system-design.md) — five channels (visual, audio, haptic, diegetic, narrative)
+- [ui-design-hud](../../10-Library/notes/ui-design-hud.md) — HUD hierarchy, diegetic vs. non-diegetic
 
 ## All interface notes
 

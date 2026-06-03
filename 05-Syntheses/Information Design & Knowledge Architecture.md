@@ -222,4 +222,4 @@ Games built around *information asymmetry* as their primary mechanic:
 
 **Sources:** s013 (Salen & Zimmerman) · s005 (Schell) · s015 (Norman) · s014 (Hodent)
 
-**See also:** [[../10-Library/notes/emergence-definition]] · [[../10-Library/notes/meaningful-play-definition]] · [[../10-Library/notes/multiplayer-conflict-types]] · [[../00-Atlas/disciplines/Mechanics]]
+**See also:** [emergence-definition](../10-Library/notes/emergence-definition.md) · [meaningful-play-definition](../10-Library/notes/meaningful-play-definition.md) · [multiplayer-conflict-types](../10-Library/notes/multiplayer-conflict-types.md) · [Mechanics](../00-Atlas/disciplines/Mechanics.md)

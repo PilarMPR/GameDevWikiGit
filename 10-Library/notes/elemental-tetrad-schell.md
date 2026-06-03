@@ -29,10 +29,10 @@ Every game is composed of four elements that must reinforce each other: **Mechan
 
 ## Connections
 
-- [[mda-framework-overview]] — MDA's Mechanics ≈ Schell's Mechanics; note the Aesthetics difference
-- [[formal-elements-synthesis]] — the tetrad is a higher-level view; Fullerton's list is a decomposition
-- [[mechanics-definition]] — Mechanics layer in detail
+- [mda-framework-overview](mda-framework-overview.md) — MDA's Mechanics ≈ Schell's Mechanics; note the Aesthetics difference
+- [formal-elements-synthesis](formal-elements-synthesis.md) — the tetrad is a higher-level view; Fullerton's list is a decomposition
+- [mechanics-definition](mechanics-definition.md) — Mechanics layer in detail
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.4 (Lens #4 implied)
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.4 (Lens #4 implied)

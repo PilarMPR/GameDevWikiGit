@@ -21,9 +21,9 @@ Game designer, entrepreneur, author. Known for Ultima Online, Star Wars Galaxies
 
 ## Connections
 
-- [[fun-as-learning-koster]] — his central thesis
-- [[flow-channel-definition]] — his "learnable middle" ≡ flow channel
+- [fun-as-learning-koster](fun-as-learning-koster.md) — his central thesis
+- [flow-channel-definition](flow-channel-definition.md) — his "learnable middle" ≡ flow channel
 
 ## Sources authored
 
-- [[../sources/s016-theory-of-fun]]
+- [s016-theory-of-fun](../sources/s016-theory-of-fun.md)

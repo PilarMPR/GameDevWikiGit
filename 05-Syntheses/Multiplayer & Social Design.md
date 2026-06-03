@@ -279,4 +279,4 @@ The same game can feel fundamentally different online vs. in a room together:
 
 **Sources:** s001 (Sellers) · s013 (Salen & Zimmerman) · s005 (Schell) · s008 (Fullerton) · s006 (Adams) · s017 (F2P handbook)
 
-**See also:** [[../10-Library/notes/multiplayer-conflict-types]] · [[../10-Library/notes/party-game-design-patterns]] · [[../10-Library/notes/reinforcing-vs-balancing-loops]] · [[../10-Library/notes/transitive-vs-intransitive-systems]] · [[../00-Atlas/disciplines/Mechanics]]
+**See also:** [multiplayer-conflict-types](../10-Library/notes/multiplayer-conflict-types.md) · [party-game-design-patterns](../10-Library/notes/party-game-design-patterns.md) · [reinforcing-vs-balancing-loops](../10-Library/notes/reinforcing-vs-balancing-loops.md) · [transitive-vs-intransitive-systems](../10-Library/notes/transitive-vs-intransitive-systems.md) · [Mechanics](../00-Atlas/disciplines/Mechanics.md)

@@ -238,4 +238,4 @@ Beyond mechanical accessibility, inclusive design includes who is *represented* 
 
 **Sources:** s014 (Hodent) · s015 (Norman) · s005 (Schell) · s006 (Adams)
 
-**See also:** [[../10-Library/notes/norman-hcd-vocabulary]] · [[../10-Library/notes/player-psychology-perception]] · [[../10-Library/notes/ui-design-hud]] · [[../00-Atlas/disciplines/Interface]]
+**See also:** [norman-hcd-vocabulary](../10-Library/notes/norman-hcd-vocabulary.md) · [[../10-Library/notes/player-psychology-perception]] · [ui-design-hud](../10-Library/notes/ui-design-hud.md) · [Interface](../00-Atlas/disciplines/Interface.md)

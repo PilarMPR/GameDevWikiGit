@@ -22,9 +22,9 @@ Surprise is fundamental to fun. The brain is hardwired to value unpredictable po
 
 ## Connections
 
-- [[fun-engagement-debate]] — surprise is one mechanism of the "fun" signal
-- [[emergence-definition]] — emergent gameplay is what creates ongoing surprise
+- [fun-engagement-debate](fun-engagement-debate.md) — surprise is one mechanism of the "fun" signal
+- [emergence-definition](emergence-definition.md) — emergent gameplay is what creates ongoing surprise
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.3
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.3

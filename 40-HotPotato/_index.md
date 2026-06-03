@@ -15,27 +15,27 @@ Un jugador es la Patata (el chaser). El resto son runners que ganan FAP (Fuck Ar
 
 ## GDD (diseño actual)
 
-- [[gdd/gdd-overview]] — logline, UPS, target audience, plataformas, género, art/audio style, pillars
-- [[gdd/gdd-mechanics]] — mecánica de Patata, FAP system (tabla completa), tagging, items
-- [[gdd/gdd-movement]] — run, jump, slide, parkour, wave dash, push/interact
-- [[gdd/gdd-systems]] — core loop, match timer, lobby, potato assignment, leaderboard, anti-camp
-- [[gdd/gdd-gamemodes]] — FFA, Infected, TDM/Ranked/Custom
+- [gdd-overview](gdd/gdd-overview.md) — logline, UPS, target audience, plataformas, género, art/audio style, pillars
+- [gdd-mechanics](gdd/gdd-mechanics.md) — mecánica de Patata, FAP system (tabla completa), tagging, items
+- [gdd-movement](gdd/gdd-movement.md) — run, jump, slide, parkour, wave dash, push/interact
+- [gdd-systems](gdd/gdd-systems.md) — core loop, match timer, lobby, potato assignment, leaderboard, anti-camp
+- [gdd-gamemodes](gdd/gdd-gamemodes.md) — FFA, Infected, TDM/Ranked/Custom
 
 ## Producción y finanzas
 
-- [[production]] — sprint activo, backlog, milestones y log de producción
-- [[finance]] — presupuesto, gastos e ingresos del proyecto
+- [production](production.md) — sprint activo, backlog, milestones y log de producción
+- [finance](finance.md) — presupuesto, gastos e ingresos del proyecto
 
 ## Documentos de trabajo
 
-- [[decisions]] — log de decisiones de diseño (append-only; cada entrada lleva **Basis:** con fuentes)
-- [[open-questions]] — preguntas abiertas por tier de urgencia
-- [[research]] — referentes, análisis de competidores
-- [[hot-potato-design]] — síntesis de teoría aplicada a HP (de wiki/syntheses/)
+- [decisions](decisions.md) — log de decisiones de diseño (append-only; cada entrada lleva **Basis:** con fuentes)
+- [open-questions](open-questions.md) — preguntas abiertas por tier de urgencia
+- [research](research.md) — referentes, análisis de competidores
+- [hot-potato-design](hot-potato-design.md) — síntesis de teoría aplicada a HP (de wiki/syntheses/)
 
 ## Scratchpad y prompts
 
-- [[scratchpad/brainstorming]] — ideas en bruto
+- [brainstorming](scratchpad/brainstorming.md) — ideas en bruto
 - [[prompts/]] — prompt library de Claude para HP
 
 ---

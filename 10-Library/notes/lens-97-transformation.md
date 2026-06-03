@@ -22,9 +22,9 @@ The most powerful games change the people who play them — in skills, perspecti
 
 ## Connections
 
-- [[fun-as-learning-koster]] — learning = transformation
-- [[lens-10-resonance]] — resonant themes produce transformation
+- [fun-as-learning-koster](fun-as-learning-koster.md) — learning = transformation
+- [lens-10-resonance](lens-10-resonance.md) — resonant themes produce transformation
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.32
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.32

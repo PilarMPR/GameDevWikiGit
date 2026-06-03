@@ -19,5 +19,5 @@ Legendary game designer. Creator of Civilization, Pirates!, Railroad Tycoon, Alp
 
 ## Connections
 
-- [[meaningful-choices-triangularity]] — "interesting decisions" = meaningful choices
-- [[emergence-from-simple-rules]] — Civilization as emergence exemplar
+- [meaningful-choices-triangularity](meaningful-choices-triangularity.md) — "interesting decisions" = meaningful choices
+- [emergence-from-simple-rules](emergence-from-simple-rules.md) — Civilization as emergence exemplar

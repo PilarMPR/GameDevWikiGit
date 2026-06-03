@@ -26,12 +26,12 @@ The strongest methodological consensus across all design sources: you cannot des
 
 ## Key notes
 
-- [[iterative-design-process]] — the full synthesis
-- [[playtesting-methods]] — 6 types, facilitation, data
-- [[design-vision-concept-document]] — design values as the anchor
-- [[lens-14-risk-mitigation]] — prototype the riskiest things first
-- [[lens-15-the-toy]] — build the toy before the game
+- [iterative-design-process](../../10-Library/notes/iterative-design-process.md) — the full synthesis
+- [playtesting-methods](../../10-Library/notes/playtesting-methods.md) — 6 types, facilitation, data
+- [design-vision-concept-document](../../10-Library/notes/design-vision-concept-document.md) — design values as the anchor
+- [lens-14-risk-mitigation](../../10-Library/notes/lens-14-risk-mitigation.md) — prototype the riskiest things first
+- [lens-15-the-toy](../../10-Library/notes/lens-15-the-toy.md) — build the toy before the game
 
 ## Discipline maps
 
-- [[../disciplines/Production]]
+- [Production](../disciplines/Production.md)

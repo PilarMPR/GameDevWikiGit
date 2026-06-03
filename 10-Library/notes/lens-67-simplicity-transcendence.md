@@ -22,8 +22,8 @@ Good game worlds are simpler than reality in interesting ways AND more wonderful
 
 ## Connections
 
-- [[magic-circle-definition]] — the game world as a separate, simplified space
+- [magic-circle-definition](magic-circle-definition.md) — the game world as a separate, simplified space
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.15
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.15

@@ -22,8 +22,8 @@ The protagonist should change meaningfully over the course of the story. Transfo
 
 ## Connections
 
-- [[lens-68-heros-journey]] — transformation is the conclusion of the hero's journey
+- [lens-68-heros-journey](lens-68-heros-journey.md) — transformation is the conclusion of the hero's journey
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.18
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.18

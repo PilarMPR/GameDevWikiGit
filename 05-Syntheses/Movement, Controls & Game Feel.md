@@ -338,4 +338,4 @@ When tuning feel parameters, don't adjust in small increments. **Double or halve
 
 **Sources:** s007 (Swink) · s017 (F2P handbook) · s006 (Adams) · s005 (Schell) · s015 (Norman) · s014 (Hodent) · s001 (Sellers)
 
-**See also:** [[../10-Library/notes/game-feel-definition]] · [[../10-Library/notes/input-controls-design]] · [[../10-Library/notes/camera-design-models]] · [[../10-Library/notes/feedback-system-design]] · [[../10-Library/notes/norman-hcd-vocabulary]] · [[../00-Atlas/disciplines/Feel & Controls]]
+**See also:** [game-feel-definition](../10-Library/notes/game-feel-definition.md) · [input-controls-design](../10-Library/notes/input-controls-design.md) · [camera-design-models](../10-Library/notes/camera-design-models.md) · [feedback-system-design](../10-Library/notes/feedback-system-design.md) · [norman-hcd-vocabulary](../10-Library/notes/norman-hcd-vocabulary.md) · [Feel & Controls](../00-Atlas/disciplines/Feel%20%26%20Controls.md)

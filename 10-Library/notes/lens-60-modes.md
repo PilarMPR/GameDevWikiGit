@@ -22,9 +22,9 @@ When a player is in a mode, they need to know which mode they're in at all times
 
 ## Connections
 
-- [[ui-design-hud]] — mode visibility in HUD design
-- [[norman-hcd-vocabulary]] — conceptual model clarity
+- [ui-design-hud](ui-design-hud.md) — mode visibility in HUD design
+- [norman-hcd-vocabulary](norman-hcd-vocabulary.md) — conceptual model clarity
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.13
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.13

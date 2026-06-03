@@ -24,10 +24,10 @@ Unlike film, music, or literature, games are **artifacts rather than media**: th
 
 ## Connections
 
-- [[mda-framework-overview]] — the framework that makes this distinction actionable
-- [[mda-reading-direction]] — designers reason M→D→A but cannot directly control A
-- [[emergence-definition]] — emergence is what makes games artifacts
+- [mda-framework-overview](mda-framework-overview.md) — the framework that makes this distinction actionable
+- [mda-reading-direction](mda-reading-direction.md) — designers reason M→D→A but cannot directly control A
+- [emergence-definition](emergence-definition.md) — emergence is what makes games artifacts
 
 ## Appears in
 
-- [[../sources/s011-mda-framework]] · full paper
+- [s011-mda-framework](../sources/s011-mda-framework.md) · full paper

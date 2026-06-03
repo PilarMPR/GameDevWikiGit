@@ -22,9 +22,9 @@ Objects are nouns; attributes and states are adjectives. Track the complete stat
 
 ## Connections
 
-- [[schell-mechanic-taxonomy]] — Objects/Attributes/States is Mechanic 2
-- [[emergence-definition]] — state visibility determines what strategies emerge
+- [schell-mechanic-taxonomy](schell-mechanic-taxonomy.md) — Objects/Attributes/States is Mechanic 2
+- [emergence-definition](emergence-definition.md) — state visibility determines what strategies emerge
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.10
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.10

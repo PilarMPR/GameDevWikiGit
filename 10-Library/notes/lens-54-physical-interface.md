@@ -22,9 +22,9 @@ The physical input device shapes the game's feel fundamentally. Choose and desig
 
 ## Connections
 
-- [[input-controls-design]] — input mapping
-- [[game-feel-definition]] — physical interface is the player's tactile contact
+- [input-controls-design](input-controls-design.md) — input mapping
+- [game-feel-definition](game-feel-definition.md) — physical interface is the player's tactile contact
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.13
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.13

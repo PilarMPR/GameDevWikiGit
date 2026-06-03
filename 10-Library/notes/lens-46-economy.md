@@ -22,9 +22,9 @@ The game's resource economy determines fairness, progression pacing, and strateg
 
 ## Connections
 
-- [[adams-mechanic-families]] — internal economy mechanics
-- [[game-balance-overview]] — economy balance is central to game balance
+- [adams-mechanic-families](adams-mechanic-families.md) — internal economy mechanics
+- [game-balance-overview](game-balance-overview.md) — economy balance is central to game balance
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

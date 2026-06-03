@@ -30,12 +30,12 @@ Modern monetization is inseparable from game design — the model chosen shapes 
 
 ## Connections
 
-- [[f2p-design-foundation]] — fun-first principle, then monetize
-- [[player-motivation-maslow]] — undermining effect and intrinsic motivation
-- [[self-determination-theory-games]] — monetization that satisfies autonomy vs. coerces
+- [f2p-design-foundation](f2p-design-foundation.md) — fun-first principle, then monetize
+- [player-motivation-maslow](player-motivation-maslow.md) — undermining effect and intrinsic motivation
+- [self-determination-theory-games](self-determination-theory-games.md) — monetization that satisfies autonomy vs. coerces
 
 ## Appears in
 
-- [[../sources/s017-f2p-design-handbook]] · Part 1
-- [[../sources/s014-the-gamers-brain]] · ch.7
-- [[../sources/s006-fundamentals-of-game-design]] · ch.6
+- [s017-f2p-design-handbook](../sources/s017-f2p-design-handbook.md) · Part 1
+- [s014-the-gamers-brain](../sources/s014-the-gamers-brain.md) · ch.7
+- [s006-fundamentals-of-game-design](../sources/s006-fundamentals-of-game-design.md) · ch.6

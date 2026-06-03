@@ -22,9 +22,9 @@ Players judge themselves through games. Design so they feel good about themselve
 
 ## Connections
 
-- [[self-determination-theory-games]] — competence is the primary need being fulfilled
-- [[flow-channel-definition]] — being in flow = feeling appropriately challenged
+- [self-determination-theory-games](self-determination-theory-games.md) — competence is the primary need being fulfilled
+- [flow-channel-definition](flow-channel-definition.md) — being in flow = feeling appropriately challenged
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.9
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.9

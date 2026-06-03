@@ -22,9 +22,9 @@ Think about the experience and the game simultaneously — like a doctor seeing 
 
 ## Connections
 
-- [[elemental-tetrad-schell]] — the structural side
-- [[schell-ch02-experience]] — the experience side (Lens #1)
+- [elemental-tetrad-schell](elemental-tetrad-schell.md) — the structural side
+- [schell-ch02-experience](schell-ch02-experience.md) — the experience side (Lens #1)
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.4
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.4

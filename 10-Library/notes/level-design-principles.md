@@ -26,13 +26,13 @@ Level design is the craft of creating spaces, encounters, and sequences through 
 
 ## Connections
 
-- [[spatial-design-principles]] — the architectural organization of game space
-- [[interest-curves-schell]] — pacing arc across a level
-- [[tense-and-release]] — encounter rhythm within a level
-- [[norman-hcd-vocabulary]] — affordances and constraints as level design tools
+- [spatial-design-principles](spatial-design-principles.md) — the architectural organization of game space
+- [interest-curves-schell](interest-curves-schell.md) — pacing arc across a level
+- [tense-and-release](tense-and-release.md) — encounter rhythm within a level
+- [norman-hcd-vocabulary](norman-hcd-vocabulary.md) — affordances and constraints as level design tools
 
 ## Appears in
 
-- [[../sources/s012-level-design]] · ch.1–5
-- [[../sources/s003-hows-and-whys-of-level-design]] · throughout
-- [[../sources/s005-art-of-game-design]] · ch.16, ch.19
+- [s012-level-design](../sources/s012-level-design.md) · ch.1–5
+- [s003-hows-and-whys-of-level-design](../sources/s003-hows-and-whys-of-level-design.md) · throughout
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.16, ch.19

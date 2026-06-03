@@ -24,11 +24,11 @@ Michael Sellers proposes that every game contains four nested conceptual loops t
 
 ## Connections
 
-- [[game-loops-definition]] — the basic loop concept
-- [[reinforcing-vs-balancing-loops]] — the polarity of each loop type
-- [[iterative-design-process]] — the designer's loop in full
-- [[flow-channel-definition]] — the mental model loop feeds the flow channel
+- [game-loops-definition](game-loops-definition.md) — the basic loop concept
+- [reinforcing-vs-balancing-loops](reinforcing-vs-balancing-loops.md) — the polarity of each loop type
+- [iterative-design-process](iterative-design-process.md) — the designer's loop in full
+- [flow-channel-definition](flow-channel-definition.md) — the mental model loop feeds the flow channel
 
 ## Appears in
 
-- [[../sources/s001-advanced-game-design]] · ch.7
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.7

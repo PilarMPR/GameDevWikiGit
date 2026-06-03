@@ -25,11 +25,11 @@ Anthropy & Clark argue that better language for game design yields better games 
 
 ## Connections
 
-- [[mechanics-as-verbs]] — the full verb/object framework
-- [[mechanics-definition]] — one of four perspectives on what mechanics are
-- [[story-narrative-approaches]] — games as expressive medium → what narratives mean
-- [[fun-as-learning-koster]] — both argue games can carry meaning beyond challenge
+- [mechanics-as-verbs](mechanics-as-verbs.md) — the full verb/object framework
+- [mechanics-definition](mechanics-definition.md) — one of four perspectives on what mechanics are
+- [story-narrative-approaches](story-narrative-approaches.md) — games as expressive medium → what narratives mean
+- [fun-as-learning-koster](fun-as-learning-koster.md) — both argue games can carry meaning beyond challenge
 
 ## Appears in
 
-- [[../sources/s002-a-game-design-vocabulary]] · throughout
+- [s002-a-game-design-vocabulary](../sources/s002-a-game-design-vocabulary.md) · throughout

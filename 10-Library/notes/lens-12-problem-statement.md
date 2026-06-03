@@ -22,9 +22,9 @@ Good design begins with a clear problem statement naming both goal and constrain
 
 ## Connections
 
-- [[design-vision-concept-document]] — problem statement as part of the concept doc
-- [[iterative-design-process]] — the problem statement guides iteration
+- [design-vision-concept-document](design-vision-concept-document.md) — problem statement as part of the concept doc
+- [iterative-design-process](iterative-design-process.md) — the problem statement guides iteration
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.6
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.6

@@ -22,8 +22,8 @@ Design documentation exists to capture decisions and communicate the current sta
 
 ## Connections
 
-- [[design-vision-concept-document]] — the concept doc as the primary design document
+- [design-vision-concept-document](design-vision-concept-document.md) — the concept doc as the primary design document
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.24
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.24

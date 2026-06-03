@@ -25,11 +25,11 @@ Every game has one big driving vision — the core idea that makes it worth play
 
 ## Connections
 
-- [[elemental-tetrad-schell]] — tetrad elements must all serve the vision
-- [[iterative-design-process]] — the concept document anchors the iteration process
-- [[playtesting-methods]] — design values from s009 are the operational form of design vision
+- [elemental-tetrad-schell](elemental-tetrad-schell.md) — tetrad elements must all serve the vision
+- [iterative-design-process](iterative-design-process.md) — the concept document anchors the iteration process
+- [playtesting-methods](playtesting-methods.md) — design values from s009 are the operational form of design vision
 
 ## Appears in
 
-- [[../sources/s001-advanced-game-design]] · ch.6
-- [[../sources/s005-art-of-game-design]] · ch.5
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.6
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.5

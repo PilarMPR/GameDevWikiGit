@@ -25,10 +25,10 @@ In games, the player doesn't empathize with the player character — they **proj
 
 ## Connections
 
-- [[story-narrative-approaches]] — characters as the vessels for the story
-- [[indirect-control-methods]] — NPCs as one of the six indirect control methods
+- [story-narrative-approaches](story-narrative-approaches.md) — characters as the vessels for the story
+- [indirect-control-methods](indirect-control-methods.md) — NPCs as one of the six indirect control methods
 - [[player-psychology-perception]] — empathy mechanism and emotional response
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.9, ch.18
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.9, ch.18

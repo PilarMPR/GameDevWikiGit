@@ -31,11 +31,11 @@ Hodent (s014) extends these with cognitive science: perception constraints, memo
 ## Connections
 
 - [[feedback-systems]] — Norman's feedback principle in full game implementation
-- [[meaningful-play-definition]] — discernability ≡ closing the Gulf of Evaluation
+- [meaningful-play-definition](meaningful-play-definition.md) — discernability ≡ closing the Gulf of Evaluation
 - [[player-psychology-perception]] — the cognitive substrate affordances operate on
-- [[level-design-principles]] — levels use affordances and constraints as indirect control
+- [level-design-principles](level-design-principles.md) — levels use affordances and constraints as indirect control
 
 ## Appears in
 
-- [[../sources/s015-design-of-everyday-things]] · throughout
-- [[../sources/s014-the-gamers-brain]] · ch.3–5
+- [s015-design-of-everyday-things](../sources/s015-design-of-everyday-things.md) · throughout
+- [s014-the-gamers-brain](../sources/s014-the-gamers-brain.md) · ch.3–5

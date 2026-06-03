@@ -24,14 +24,14 @@ Salen & Zimmerman's central design goal: **meaningful play** emerges when the re
 
 ## Connections
 
-- [[magic-circle-definition]] — the bounded space within which meaningful play occurs
-- [[formal-elements-synthesis]] — formal elements are the structural prerequisites for meaningful play
-- [[mda-framework-overview]] — aesthetics are the player-side result; meaningful play is the design target
-- [[game-loops-definition]] — integration requires loops that compound player actions over time
-- [[norman-hcd-vocabulary]] — discernability = Norman's feedback and visibility principles
+- [magic-circle-definition](magic-circle-definition.md) — the bounded space within which meaningful play occurs
+- [formal-elements-synthesis](formal-elements-synthesis.md) — formal elements are the structural prerequisites for meaningful play
+- [mda-framework-overview](mda-framework-overview.md) — aesthetics are the player-side result; meaningful play is the design target
+- [game-loops-definition](game-loops-definition.md) — integration requires loops that compound player actions over time
+- [norman-hcd-vocabulary](norman-hcd-vocabulary.md) — discernability = Norman's feedback and visibility principles
 
 ## Appears in
 
-- [[../sources/s013-rules-of-play]] · throughout
-- [[../sources/s015-design-of-everyday-things]] · (feedback/visibility)
-- [[../sources/s011-mda-framework]] · full paper
+- [s013-rules-of-play](../sources/s013-rules-of-play.md) · throughout
+- [s015-design-of-everyday-things](../sources/s015-design-of-everyday-things.md) · (feedback/visibility)
+- [s011-mda-framework](../sources/s011-mda-framework.md) · full paper

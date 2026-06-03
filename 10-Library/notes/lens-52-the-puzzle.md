@@ -22,9 +22,9 @@ A good puzzle fits naturally into the world and its solution feels earned — lo
 
 ## Connections
 
-- [[puzzle-design-principles]] — full treatment
-- [[story-narrative-approaches]] — integrated puzzles serve narrative
+- [puzzle-design-principles](puzzle-design-principles.md) — full treatment
+- [story-narrative-approaches](story-narrative-approaches.md) — integrated puzzles serve narrative
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.12
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.12

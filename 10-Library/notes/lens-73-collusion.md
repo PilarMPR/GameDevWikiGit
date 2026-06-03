@@ -22,9 +22,9 @@ NPCs and the environment should secretly cooperate to create the best possible e
 
 ## Connections
 
-- [[indirect-control-methods]] — characters as one of the six methods
-- [[character-design-projection]] — NPC function
+- [indirect-control-methods](indirect-control-methods.md) — characters as one of the six methods
+- [character-design-projection](character-design-projection.md) — NPC function
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.16
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.16

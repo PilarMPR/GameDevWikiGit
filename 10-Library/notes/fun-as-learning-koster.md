@@ -27,11 +27,11 @@ Raph Koster's central thesis: **fun is just another word for learning.** The bra
 
 ## Connections
 
-- [[flow-channel-definition]] — Koster's learnable middle ≡ Csikszentmihalyi's flow channel
-- [[mda-aesthetics-taxonomy]] — Koster's learning-fun corresponds primarily to the Challenge aesthetic
+- [flow-channel-definition](flow-channel-definition.md) — Koster's learnable middle ≡ Csikszentmihalyi's flow channel
+- [mda-aesthetics-taxonomy](mda-aesthetics-taxonomy.md) — Koster's learning-fun corresponds primarily to the Challenge aesthetic
 - [[player-psychology-perception]] — the brain as pattern-matcher is the cognitive substrate
-- [[puzzle-design-principles]] — puzzles are pure pattern-learning applications
+- [puzzle-design-principles](puzzle-design-principles.md) — puzzles are pure pattern-learning applications
 
 ## Appears in
 
-- [[../sources/s016-theory-of-fun]] · throughout
+- [s016-theory-of-fun](../sources/s016-theory-of-fun.md) · throughout

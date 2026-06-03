@@ -24,13 +24,13 @@ Within MDA's Dynamics layer, feedback loops are the dominant mechanism. **Positi
 
 ## Connections
 
-- [[mda-framework-overview]] — the three-layer model this sits within
-- [[mda-reading-direction]] — designers must reason through Dynamics to predict Aesthetics
-- [[game-loops-definition]] — reinforcing/balancing loops are the core mechanism
-- [[game-balance-overview]] — balance is largely managing these feedback structures
-- [[transitive-vs-intransitive-systems]] — intransitive systems are negative feedback at the strategic level
+- [mda-framework-overview](mda-framework-overview.md) — the three-layer model this sits within
+- [mda-reading-direction](mda-reading-direction.md) — designers must reason through Dynamics to predict Aesthetics
+- [game-loops-definition](game-loops-definition.md) — reinforcing/balancing loops are the core mechanism
+- [game-balance-overview](game-balance-overview.md) — balance is largely managing these feedback structures
+- [transitive-vs-intransitive-systems](transitive-vs-intransitive-systems.md) — intransitive systems are negative feedback at the strategic level
 
 ## Appears in
 
-- [[../sources/s011-mda-framework]] · full paper
-- [[../sources/s001-advanced-game-design]] · ch.7
+- [s011-mda-framework](../sources/s011-mda-framework.md) · full paper
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.7

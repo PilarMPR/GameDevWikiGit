@@ -241,4 +241,4 @@ Schell's most important skill for designers: **deep listening**. Five kinds:
 
 **Sources:** s008 (Fullerton) · s005 (Schell) · s009 (Macklin & Sharp) · s001 (Sellers) · s006 (Adams)
 
-**See also:** [[../10-Library/notes/iterative-design-process]] · [[../10-Library/notes/playtesting-methods]] · [[../10-Library/notes/design-vision-concept-document]] · [[../00-Atlas/disciplines/Production]]
+**See also:** [iterative-design-process](../10-Library/notes/iterative-design-process.md) · [playtesting-methods](../10-Library/notes/playtesting-methods.md) · [design-vision-concept-document](../10-Library/notes/design-vision-concept-document.md) · [Production](../00-Atlas/disciplines/Production.md)

@@ -22,9 +22,9 @@ Map the experience's interest level over time: hook → rising action → climax
 
 ## Connections
 
-- [[interest-curves-schell]] — full treatment
-- [[tense-and-release]] — the micro-level implementation
+- [interest-curves-schell](interest-curves-schell.md) — full treatment
+- [tense-and-release](tense-and-release.md) — the micro-level implementation
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.14
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.14

@@ -26,13 +26,13 @@ Three layered frameworks for understanding why players play: **Maslow's hierarch
 
 ## Connections
 
-- [[self-determination-theory-games]] — SDT in depth
-- [[flow-channel-definition]] — flow is the motivational sweet spot (competence + challenge = skill)
-- [[bartle-four-types]] — player types map to different motivational profiles
-- [[fun-as-learning-koster]] — Koster's mechanistic account of intrinsic motivation
+- [self-determination-theory-games](self-determination-theory-games.md) — SDT in depth
+- [flow-channel-definition](flow-channel-definition.md) — flow is the motivational sweet spot (competence + challenge = skill)
+- [bartle-four-types](bartle-four-types.md) — player types map to different motivational profiles
+- [fun-as-learning-koster](fun-as-learning-koster.md) — Koster's mechanistic account of intrinsic motivation
 
 ## Appears in
 
-- [[../sources/s014-the-gamers-brain]] · ch.7
-- [[../sources/s005-art-of-game-design]] · ch.9
-- [[../sources/s016-theory-of-fun]] · throughout
+- [s014-the-gamers-brain](../sources/s014-the-gamers-brain.md) · ch.7
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.9
+- [s016-theory-of-fun](../sources/s016-theory-of-fun.md) · throughout

@@ -22,9 +22,9 @@ Games that generate interesting stories from their mechanics alone are story mac
 
 ## Connections
 
-- [[story-narrative-approaches]] — "story machine" is one of three approaches
-- [[emergence-definition]] — stories emerge from systemic interactions
+- [story-narrative-approaches](story-narrative-approaches.md) — "story machine" is one of three approaches
+- [emergence-definition](emergence-definition.md) — stories emerge from systemic interactions
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.15
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.15

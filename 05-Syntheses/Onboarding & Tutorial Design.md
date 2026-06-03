@@ -202,4 +202,4 @@ Onboarding must account for diverse player profiles:
 
 **Sources:** s005 (Schell) · s012 (Kremers) · s006 (Adams) · s014 (Hodent) · s008 (Fullerton) · s017 (F2P handbook)
 
-**See also:** [[../10-Library/notes/level-design-principles]] · [[../10-Library/notes/player-psychology-perception]] · [[../10-Library/notes/flow-channel-definition]] · [[../10-Library/notes/norman-hcd-vocabulary]] · [[../00-Atlas/disciplines/Production]]
+**See also:** [level-design-principles](../10-Library/notes/level-design-principles.md) · [[../10-Library/notes/player-psychology-perception]] · [flow-channel-definition](../10-Library/notes/flow-channel-definition.md) · [norman-hcd-vocabulary](../10-Library/notes/norman-hcd-vocabulary.md) · [Production](../00-Atlas/disciplines/Production.md)

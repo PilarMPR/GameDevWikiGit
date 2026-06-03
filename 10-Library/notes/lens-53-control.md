@@ -22,9 +22,9 @@ Players must feel in control. When the interface doesn't do what they expect, pl
 
 ## Connections
 
-- [[input-controls-design]] — control implementation
-- [[norman-hcd-vocabulary]] — mapping and feedback
+- [input-controls-design](input-controls-design.md) — control implementation
+- [norman-hcd-vocabulary](norman-hcd-vocabulary.md) — mapping and feedback
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.13
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.13

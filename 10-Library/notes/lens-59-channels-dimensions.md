@@ -22,9 +22,9 @@ Different feedback channels (visual, audio, haptic) have different properties an
 
 ## Connections
 
-- [[feedback-system-design]] — the five feedback channels
-- [[ui-design-hud]] — HUD channel design
+- [feedback-system-design](feedback-system-design.md) — the five feedback channels
+- [ui-design-hud](ui-design-hud.md) — HUD channel design
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.13
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.13

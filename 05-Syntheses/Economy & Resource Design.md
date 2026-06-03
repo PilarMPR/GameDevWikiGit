@@ -230,4 +230,4 @@ The current no-spend model is simpler and more legible — appropriate for a par
 
 **Sources:** s001 (Sellers) · s005 (Schell) · s006 (Adams) · s017 (F2P handbook)
 
-**See also:** [[../10-Library/notes/game-balance-overview]] · [[../10-Library/notes/reinforcing-vs-balancing-loops]] · [[../10-Library/notes/progression-systems-definition]] · [[../10-Library/notes/adams-mechanic-families]] · [[../00-Atlas/disciplines/Mechanics]]
+**See also:** [game-balance-overview](../10-Library/notes/game-balance-overview.md) · [reinforcing-vs-balancing-loops](../10-Library/notes/reinforcing-vs-balancing-loops.md) · [progression-systems-definition](../10-Library/notes/progression-systems-definition.md) · [adams-mechanic-families](../10-Library/notes/adams-mechanic-families.md) · [Mechanics](../00-Atlas/disciplines/Mechanics.md)

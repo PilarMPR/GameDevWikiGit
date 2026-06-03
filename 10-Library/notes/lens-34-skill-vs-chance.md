@@ -22,9 +22,9 @@ More chance = relaxed, casual, less measure of skill. More skill = competitive, 
 
 ## Connections
 
-- [[game-balance-overview]] — skill vs. chance is Schell's Balance Type 4
-- [[lens-29-chance]] — randomness mechanics
+- [game-balance-overview](game-balance-overview.md) — skill vs. chance is Schell's Balance Type 4
+- [lens-29-chance](lens-29-chance.md) — randomness mechanics
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

@@ -20,9 +20,9 @@ Game designers and academics. Co-authors of *Rules of Play: Game Design Fundamen
 
 ## Connections
 
-- [[meaningful-play-definition]] — their central design concept
-- [[magic-circle-definition]] — their formalization of Huizinga's concept
+- [meaningful-play-definition](meaningful-play-definition.md) — their central design concept
+- [magic-circle-definition](magic-circle-definition.md) — their formalization of Huizinga's concept
 
 ## Sources authored
 
-- [[../sources/s013-rules-of-play]]
+- [s013-rules-of-play](../sources/s013-rules-of-play.md)

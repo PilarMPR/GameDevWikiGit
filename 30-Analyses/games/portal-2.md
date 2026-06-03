@@ -152,9 +152,9 @@ Design principle: **every puzzle should be solvable in exactly one way, and that
 
 ## Related analyses
 
-- [[celeste]] — difficulty calibration and accessibility design
-- [[smash-bros]] — party dynamics and social design
-- [[hades]] — roguelite narrative and progression design
+- [celeste](celeste.md) — difficulty calibration and accessibility design
+- [smash-bros](smash-bros.md) — party dynamics and social design
+- [hades](hades.md) — roguelite narrative and progression design
 
 ## Sources
 

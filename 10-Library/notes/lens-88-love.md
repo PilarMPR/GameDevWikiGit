@@ -22,9 +22,9 @@ The ultimate engagement metric: does the player love the game? Do they talk abou
 
 ## Connections
 
-- [[fun-engagement-debate]] — love is the highest form of sustained engagement
-- [[lens-99-the-raven]] — love comes from authentic heart in the design
+- [fun-engagement-debate](fun-engagement-debate.md) — love is the highest form of sustained engagement
+- [lens-99-the-raven](lens-99-the-raven.md) — love comes from authentic heart in the design
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.19
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.19

@@ -19,10 +19,10 @@ Play theorists. Huizinga (*Homo Ludens*, 1938): play is older than culture itsel
 
 ## Connections
 
-- [[magic-circle-definition]] — Huizinga's origin concept
-- [[play-and-culture-huizinga]] — full treatment of Huizinga + Caillois
+- [magic-circle-definition](magic-circle-definition.md) — Huizinga's origin concept
+- [play-and-culture-huizinga](play-and-culture-huizinga.md) — full treatment of Huizinga + Caillois
 
 ## Appears in
 
-- [[../sources/s004-homo-ludens]]
-- [[../sources/s013-rules-of-play]] (Caillois cited)
+- [s004-homo-ludens](../sources/s004-homo-ludens.md)
+- [s013-rules-of-play](../sources/s013-rules-of-play.md) (Caillois cited)

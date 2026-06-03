@@ -309,4 +309,4 @@ Conversely, indirect control *carries* narrative: moving through a darkening cor
 
 **Sources:** s005 (Schell) · s012 (Kremers) · s003 (Hourences) · s006 (Adams) · s014 (Hodent) · s015 (Norman)
 
-**See also:** [[../10-Library/notes/level-design-principles]] · [[../10-Library/notes/spatial-design-principles]] · [[../10-Library/notes/interest-curves-schell]] · [[../10-Library/notes/tense-and-release]] · [[../10-Library/notes/indirect-control-methods]] · [[../00-Atlas/disciplines/Level Design]]
+**See also:** [level-design-principles](../10-Library/notes/level-design-principles.md) · [spatial-design-principles](../10-Library/notes/spatial-design-principles.md) · [interest-curves-schell](../10-Library/notes/interest-curves-schell.md) · [tense-and-release](../10-Library/notes/tense-and-release.md) · [indirect-control-methods](../10-Library/notes/indirect-control-methods.md) · [Level Design](../00-Atlas/disciplines/Level%20Design.md)

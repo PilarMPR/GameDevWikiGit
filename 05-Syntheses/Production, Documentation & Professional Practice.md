@@ -273,4 +273,4 @@ The pitch must be:
 
 **Sources:** s006 (Adams) · s005 (Schell) · s008 (Fullerton) · s001 (Sellers)
 
-**See also:** [[../10-Library/notes/iterative-design-process]] · [[../10-Library/notes/design-vision-concept-document]] · [[../10-Library/notes/playtesting-methods]] · [[../40-HotPotato/decisions]] · [[../00-Atlas/disciplines/Production]]
+**See also:** [iterative-design-process](../10-Library/notes/iterative-design-process.md) · [design-vision-concept-document](../10-Library/notes/design-vision-concept-document.md) · [playtesting-methods](../10-Library/notes/playtesting-methods.md) · [decisions](../40-HotPotato/decisions.md) · [Production](../00-Atlas/disciplines/Production.md)

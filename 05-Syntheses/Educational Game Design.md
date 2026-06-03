@@ -240,4 +240,4 @@ Educational games are explicitly designed for transformation. The design questio
 
 **Sources:** s016 (Koster) · s014 (Hodent) · s009 (Macklin & Sharp) · s005 (Schell) · s006 (Adams)
 
-**See also:** [[../10-Library/notes/fun-as-learning-koster]] · [[../10-Library/notes/player-motivation-maslow]] · [[../30-Analyses/genres/educational-games]] · [[../00-Atlas/disciplines/Production]]
+**See also:** [fun-as-learning-koster](../10-Library/notes/fun-as-learning-koster.md) · [player-motivation-maslow](../10-Library/notes/player-motivation-maslow.md) · [educational-games](../30-Analyses/genres/educational-games.md) · [Production](../00-Atlas/disciplines/Production.md)

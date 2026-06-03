@@ -22,9 +22,9 @@ Objects and actions in a game have value only within the game's magic circle. Th
 
 ## Connections
 
-- [[magic-circle-definition]] — endogenous value is created by the magic circle
-- [[self-determination-theory-games]] — competence produces the feeling that achievements matter
+- [magic-circle-definition](magic-circle-definition.md) — endogenous value is created by the magic circle
+- [self-determination-theory-games](self-determination-theory-games.md) — competence produces the feeling that achievements matter
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.3
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.3

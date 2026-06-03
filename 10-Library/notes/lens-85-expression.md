@@ -22,9 +22,9 @@ Players want to express who they are through games — their playstyle, their ch
 
 ## Connections
 
-- [[mda-aesthetics-taxonomy]] — Expression is aesthetic #7
-- [[self-determination-theory-games]] — autonomy includes self-expression
+- [mda-aesthetics-taxonomy](mda-aesthetics-taxonomy.md) — Expression is aesthetic #7
+- [self-determination-theory-games](self-determination-theory-games.md) — autonomy includes self-expression
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.19
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.19

@@ -22,9 +22,9 @@ Symmetric games are fair by definition; asymmetric games must be deliberately ba
 
 ## Connections
 
-- [[transitive-vs-intransitive-systems]] — asymmetric systems and balance
-- [[game-balance-overview]] — fairness is Schell's Balance Type 1
+- [transitive-vs-intransitive-systems](transitive-vs-intransitive-systems.md) — asymmetric systems and balance
+- [game-balance-overview](game-balance-overview.md) — fairness is Schell's Balance Type 1
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

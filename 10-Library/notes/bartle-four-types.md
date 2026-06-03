@@ -33,12 +33,12 @@ Richard Bartle's taxonomy from MUD research identifies four archetypes based on 
 
 ## Connections
 
-- [[mda-aesthetics-taxonomy]] — 8 aesthetics as a more granular player motivation taxonomy
+- [mda-aesthetics-taxonomy](mda-aesthetics-taxonomy.md) — 8 aesthetics as a more granular player motivation taxonomy
 - [[player-lifecycle-shift]] — how type emphasis changes as players master the game
-- [[self-determination-theory-games]] — SDT maps onto these types (Killers = competence; Socializers = relatedness)
+- [self-determination-theory-games](self-determination-theory-games.md) — SDT maps onto these types (Killers = competence; Socializers = relatedness)
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.8
-- [[../sources/s001-advanced-game-design]] · ch.4
-- [[../sources/s017-f2p-design-handbook]] · Part 1
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.8
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.4
+- [s017-f2p-design-handbook](../sources/s017-f2p-design-handbook.md) · Part 1

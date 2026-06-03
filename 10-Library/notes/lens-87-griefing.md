@@ -22,9 +22,9 @@ Some players will deliberately harm others' enjoyment. Design systems that eithe
 
 ## Connections
 
-- [[multiplayer-conflict-types]] — the social dynamics of competitive play
-- [[party-game-design-patterns]] — design for appropriate social blame
+- [multiplayer-conflict-types](multiplayer-conflict-types.md) — the social dynamics of competitive play
+- [party-game-design-patterns](party-game-design-patterns.md) — design for appropriate social blame
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.19
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.19

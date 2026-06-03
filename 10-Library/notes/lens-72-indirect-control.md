@@ -22,8 +22,8 @@ Six methods for guiding players without removing their sense of agency: constrai
 
 ## Connections
 
-- [[indirect-control-methods]] — full treatment of the six methods
+- [indirect-control-methods](indirect-control-methods.md) — full treatment of the six methods
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.16
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.16

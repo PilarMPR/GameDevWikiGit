@@ -29,14 +29,14 @@ The player's mental model is the player-side of the engagement equation:
 
 ## Key notes
 
-- [[flow-channel-definition]] — full treatment with all four sources
-- [[fun-as-learning-koster]] — Koster's mechanistic account
-- [[fun-engagement-debate]] — the three-source reconciliation
-- [[schell-ch09-player-mind]] — Schell ch.9 full treatment
-- [[norman-hcd-vocabulary]] — Norman's mental model concept
-- [[tense-and-release]] — macro structure for staying in the channel
+- [flow-channel-definition](../../10-Library/notes/flow-channel-definition.md) — full treatment with all four sources
+- [fun-as-learning-koster](../../10-Library/notes/fun-as-learning-koster.md) — Koster's mechanistic account
+- [fun-engagement-debate](../../10-Library/notes/fun-engagement-debate.md) — the three-source reconciliation
+- [schell-ch09-player-mind](../../10-Library/notes/schell-ch09-player-mind.md) — Schell ch.9 full treatment
+- [norman-hcd-vocabulary](../../10-Library/notes/norman-hcd-vocabulary.md) — Norman's mental model concept
+- [tense-and-release](../../10-Library/notes/tense-and-release.md) — macro structure for staying in the channel
 
 ## Discipline maps
 
-- [[../disciplines/Player]]
-- [[../disciplines/Theory]]
+- [Player](../disciplines/Player.md)
+- [Theory](../disciplines/Theory.md)

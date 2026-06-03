@@ -22,9 +22,9 @@ Why are you making this game? What does it mean to you personally? Have you foun
 
 ## Connections
 
-- [[lens-99-the-raven]] — the Raven and Secret Purpose are two faces of the same question
-- [[design-vision-concept-document]] — the vision at its most personal
+- [lens-99-the-raven](lens-99-the-raven.md) — the Raven and Secret Purpose are two faces of the same question
+- [design-vision-concept-document](design-vision-concept-document.md) — the vision at its most personal
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.32
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.32

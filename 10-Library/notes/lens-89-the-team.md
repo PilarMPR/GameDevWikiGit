@@ -22,8 +22,8 @@ Game teams are systems too. Team alignment, shared vision, and clear communicati
 
 ## Connections
 
-- [[design-vision-concept-document]] — shared vision is the team's anchor
+- [design-vision-concept-document](design-vision-concept-document.md) — shared vision is the team's anchor
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.23
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.23

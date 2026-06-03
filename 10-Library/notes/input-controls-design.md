@@ -27,10 +27,10 @@ Input design is the player's tactile contact with the game. Before simulated spa
 
 ## Connections
 
-- [[game-feel-definition]] — input/response is the real-time control building block
-- [[feedback-system-design]] — feedback is the response the player perceives after input
-- [[camera-design-models]] — camera + controls = the 2nd and 3rd C of the 3Cs
+- [game-feel-definition](game-feel-definition.md) — input/response is the real-time control building block
+- [feedback-system-design](feedback-system-design.md) — feedback is the response the player perceives after input
+- [camera-design-models](camera-design-models.md) — camera + controls = the 2nd and 3rd C of the 3Cs
 
 ## Appears in
 
-- [[../sources/s007-game-feel]] · throughout (input as first building block)
+- [s007-game-feel](../sources/s007-game-feel.md) · throughout (input as first building block)

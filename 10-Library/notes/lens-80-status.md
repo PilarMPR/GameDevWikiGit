@@ -22,9 +22,9 @@ Status is a primary human social motivator. Characters who clearly have high or 
 
 ## Connections
 
-- [[bartle-four-types]] — Killers and Achievers are primarily motivated by status
-- [[player-motivation-maslow]] — esteem needs = status
+- [bartle-four-types](bartle-four-types.md) — Killers and Achievers are primarily motivated by status
+- [player-motivation-maslow](player-motivation-maslow.md) — esteem needs = status
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.18
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.18

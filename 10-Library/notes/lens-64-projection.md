@@ -22,8 +22,8 @@ Players project themselves into the game world. The more the world invites imagi
 
 ## Connections
 
-- [[character-design-projection]] — player projection into characters
+- [character-design-projection](character-design-projection.md) — player projection into characters
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.14
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.14

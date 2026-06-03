@@ -22,9 +22,9 @@ Probability × outcome = expected value. Good risk/reward decisions require comp
 
 ## Connections
 
-- [[meaningful-choices-triangularity]] — triangularity requires balanced expected values
-- [[game-balance-methods]] — mathematical balance method
+- [meaningful-choices-triangularity](meaningful-choices-triangularity.md) — triangularity requires balanced expected values
+- [game-balance-methods](game-balance-methods.md) — mathematical balance method
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.10
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.10

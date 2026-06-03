@@ -153,8 +153,8 @@ Secondary principle: **every player is active in every moment**. Jackbox achieve
 
 ## Related analyses
 
-- [[smash-bros]] — what the brawler component contributes to party dynamics
-- [[among-us]] — another social-first game with minimal mechanics
+- [smash-bros](smash-bros.md) — what the brawler component contributes to party dynamics
+- [among-us](among-us.md) — another social-first game with minimal mechanics
 
 ## Sources
 

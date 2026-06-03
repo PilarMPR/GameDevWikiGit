@@ -18,5 +18,5 @@ UX researcher and founder of XEODesign. Known for the "Four Keys to Fun" framewo
 
 ## Connections
 
-- [[mda-aesthetics-taxonomy]] — Four Keys are complementary to MDA's 8 aesthetics
-- [[bartle-four-types]] — both are player motivational taxonomies
+- [mda-aesthetics-taxonomy](mda-aesthetics-taxonomy.md) — Four Keys are complementary to MDA's 8 aesthetics
+- [bartle-four-types](bartle-four-types.md) — both are player motivational taxonomies

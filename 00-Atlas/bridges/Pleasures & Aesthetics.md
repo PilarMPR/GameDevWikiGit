@@ -34,12 +34,12 @@ Bartle's four types (s005, ch.8; s001) map onto subsets of these aesthetics:
 
 ## Key notes
 
-- [[mda-aesthetics-taxonomy]] — the MDA list with full definitions
-- [[lens-17-pleasure]] — Schell's Lens #17
-- [[bartle-four-types]] — how player types map to pleasure profiles
-- [[fun-engagement-debate]] — the three-source debate about what "fun" means
+- [mda-aesthetics-taxonomy](../../10-Library/notes/mda-aesthetics-taxonomy.md) — the MDA list with full definitions
+- [lens-17-pleasure](../../10-Library/notes/lens-17-pleasure.md) — Schell's Lens #17
+- [bartle-four-types](../../10-Library/notes/bartle-four-types.md) — how player types map to pleasure profiles
+- [fun-engagement-debate](../../10-Library/notes/fun-engagement-debate.md) — the three-source debate about what "fun" means
 
 ## Discipline maps
 
-- [[../disciplines/Player]]
-- [[../disciplines/Theory]]
+- [Player](../disciplines/Player.md)
+- [Theory](../disciplines/Theory.md)

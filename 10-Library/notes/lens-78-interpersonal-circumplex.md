@@ -22,8 +22,8 @@ Characters should cover different positions on the dominant/friendly axes. An al
 
 ## Connections
 
-- [[character-design-projection]] — character interaction design
+- [character-design-projection](character-design-projection.md) — character interaction design
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.18
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.18

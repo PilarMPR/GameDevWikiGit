@@ -22,9 +22,9 @@ Measure elegance by how many purposes each element serves. Pac-Man's points serv
 
 ## Connections
 
-- [[emergence-from-simple-rules]] — elegance is the design principle behind the ratio
-- [[meaningful-choices-triangularity]] — elegant choices serve multiple strategic purposes
+- [emergence-from-simple-rules](emergence-from-simple-rules.md) — elegance is the design principle behind the ratio
+- [meaningful-choices-triangularity](meaningful-choices-triangularity.md) — elegant choices serve multiple strategic purposes
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

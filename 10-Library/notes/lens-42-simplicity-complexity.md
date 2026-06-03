@@ -22,9 +22,9 @@ Innate complexity (complex rules) vs. emergent complexity (simple rules producin
 
 ## Connections
 
-- [[emergence-from-simple-rules]] — the key principle
-- [[game-balance-overview]] — simplicity/complexity is Balance Type 11
+- [emergence-from-simple-rules](emergence-from-simple-rules.md) — the key principle
+- [game-balance-overview](game-balance-overview.md) — simplicity/complexity is Balance Type 11
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

@@ -22,10 +22,10 @@ Stop thinking about the game; think about the player's experience. Every design 
 
 ## Connections
 
-- [[schell-ch02-experience]] — full treatment of this lens
-- [[design-vision-concept-document]] — the essential experience = the design vision
-- [[mda-aesthetics-taxonomy]] — aesthetics are the vocabulary of intended experiences
+- [schell-ch02-experience](schell-ch02-experience.md) — full treatment of this lens
+- [design-vision-concept-document](design-vision-concept-document.md) — the essential experience = the design vision
+- [mda-aesthetics-taxonomy](mda-aesthetics-taxonomy.md) — aesthetics are the vocabulary of intended experiences
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.2
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.2

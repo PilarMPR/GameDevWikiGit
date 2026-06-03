@@ -278,4 +278,4 @@ This level of specification is what separates a design that can be handed to an 
 
 **Sources:** s008 (Fullerton) · s013 (Salen & Zimmerman) · s001 (Sellers) · s005 (Schell)
 
-**See also:** [[../10-Library/notes/formal-elements-synthesis]] · [[../10-Library/notes/game-as-system]] · [[../10-Library/notes/meaningful-play-definition]] · [[../00-Atlas/disciplines/Theory]]
+**See also:** [formal-elements-synthesis](../10-Library/notes/formal-elements-synthesis.md) · [game-as-system](../10-Library/notes/game-as-system.md) · [meaningful-play-definition](../10-Library/notes/meaningful-play-definition.md) · [Theory](../00-Atlas/disciplines/Theory.md)

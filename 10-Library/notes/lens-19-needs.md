@@ -22,9 +22,9 @@ Games fulfill human psychological needs. Know which need your game promises to f
 
 ## Connections
 
-- [[player-motivation-maslow]] — Maslow's hierarchy applied to games
-- [[self-determination-theory-games]] — the three innate needs SDT identifies
+- [player-motivation-maslow](player-motivation-maslow.md) — Maslow's hierarchy applied to games
+- [self-determination-theory-games](self-determination-theory-games.md) — the three innate needs SDT identifies
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.9
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.9

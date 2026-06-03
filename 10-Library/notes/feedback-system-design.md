@@ -30,13 +30,13 @@ Feedback is how a game communicates to the player what their actions caused, wha
 
 ## Connections
 
-- [[game-feel-definition]] — feedback/polish is the third building block of game feel
-- [[meaningful-play-definition]] — discernability requires feedback
-- [[norman-hcd-vocabulary]] — Norman's feedback principle
-- [[mda-feedback-dynamics]] — feedback loops at the Dynamics level
+- [game-feel-definition](game-feel-definition.md) — feedback/polish is the third building block of game feel
+- [meaningful-play-definition](meaningful-play-definition.md) — discernability requires feedback
+- [norman-hcd-vocabulary](norman-hcd-vocabulary.md) — Norman's feedback principle
+- [mda-feedback-dynamics](mda-feedback-dynamics.md) — feedback loops at the Dynamics level
 
 ## Appears in
 
-- [[../sources/s007-game-feel]] · throughout
-- [[../sources/s015-design-of-everyday-things]] · feedback principle
-- [[../sources/s014-the-gamers-brain]] · ch.4–6
+- [s007-game-feel](../sources/s007-game-feel.md) · throughout
+- [s015-design-of-everyday-things](../sources/s015-design-of-everyday-things.md) · feedback principle
+- [s014-the-gamers-brain](../sources/s014-the-gamers-brain.md) · ch.4–6

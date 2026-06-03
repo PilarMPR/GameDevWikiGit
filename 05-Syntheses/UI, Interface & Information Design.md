@@ -270,4 +270,4 @@ The through-line: **the interface is not the game, but a failure in the interfac
 
 **Sources:** s005 (Schell) · s014 (Hodent) · s015 (Norman) · s006 (Adams) · s012 (Kremers)
 
-**See also:** [[../10-Library/notes/ui-design-hud]] · [[../10-Library/notes/norman-hcd-vocabulary]] · [[../10-Library/notes/feedback-system-design]] · [[../00-Atlas/disciplines/Interface]]
+**See also:** [ui-design-hud](../10-Library/notes/ui-design-hud.md) · [norman-hcd-vocabulary](../10-Library/notes/norman-hcd-vocabulary.md) · [feedback-system-design](../10-Library/notes/feedback-system-design.md) · [Interface](../00-Atlas/disciplines/Interface.md)

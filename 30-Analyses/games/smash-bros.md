@@ -152,8 +152,8 @@ Hot Potato is essentially "what if the Smash Ball was always there, always conte
 
 ## Related analyses
 
-- [[jackbox]] — party loop architecture without brawler elements
-- [[celeste]] — difficulty design and accessibility as a design value
+- [jackbox](jackbox.md) — party loop architecture without brawler elements
+- [celeste](celeste.md) — difficulty design and accessibility as a design value
 
 ## Sources
 

@@ -230,4 +230,4 @@ Different genres strongly correlate with different audience profiles (s006, ch.3
 
 **Sources:** s006 (Adams) · s005 (Schell) · s009 (Macklin & Sharp) · s013 (Salen & Zimmerman)
 
-**See also:** [[../10-Library/notes/game-feel-definition]] · [[../10-Library/notes/party-game-design-patterns]] · [[../10-Library/notes/multiplayer-conflict-types]] · [[../30-Analyses/genres/party-brawler]] · [[../00-Atlas/disciplines/Mechanics]]
+**See also:** [game-feel-definition](../10-Library/notes/game-feel-definition.md) · [party-game-design-patterns](../10-Library/notes/party-game-design-patterns.md) · [multiplayer-conflict-types](../10-Library/notes/multiplayer-conflict-types.md) · [party-brawler](../30-Analyses/genres/party-brawler.md) · [Mechanics](../00-Atlas/disciplines/Mechanics.md)

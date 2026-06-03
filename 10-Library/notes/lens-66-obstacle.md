@@ -22,9 +22,9 @@ Good stories need good obstacles — ones that are interesting in their own righ
 
 ## Connections
 
-- [[story-narrative-approaches]] — obstacles are what make narratives compelling
-- [[interest-curves-schell]] — obstacles create the tension in the interest curve
+- [story-narrative-approaches](story-narrative-approaches.md) — obstacles are what make narratives compelling
+- [interest-curves-schell](interest-curves-schell.md) — obstacles create the tension in the interest curve
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.15
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.15

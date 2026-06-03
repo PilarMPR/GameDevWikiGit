@@ -25,16 +25,16 @@ The foundational premise of Michael Sellers' work: **games are systems, and game
 
 ## Connections
 
-- [[parts-loops-wholes-sellers]] — the four aspects of any system
-- [[mda-framework-overview]] — the causal system model
-- [[emergence-definition]] — what systems produce that parts cannot
-- [[reinforcing-vs-balancing-loops]] — the two fundamental loop types
-- [[formal-elements-synthesis]] — formal elements are the "parts" of the game system
-- [[meaningful-play-definition]] — meaningful play is the system's output to the player
+- [parts-loops-wholes-sellers](parts-loops-wholes-sellers.md) — the four aspects of any system
+- [mda-framework-overview](mda-framework-overview.md) — the causal system model
+- [emergence-definition](emergence-definition.md) — what systems produce that parts cannot
+- [reinforcing-vs-balancing-loops](reinforcing-vs-balancing-loops.md) — the two fundamental loop types
+- [formal-elements-synthesis](formal-elements-synthesis.md) — formal elements are the "parts" of the game system
+- [meaningful-play-definition](meaningful-play-definition.md) — meaningful play is the system's output to the player
 
 ## Appears in
 
-- [[../sources/s001-advanced-game-design]] · ch.1–2
-- [[../sources/s013-rules-of-play]] · throughout
-- [[../sources/s011-mda-framework]] · full paper
-- [[../sources/s008-game-design-workshop]] · system dynamics sections
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.1–2
+- [s013-rules-of-play](../sources/s013-rules-of-play.md) · throughout
+- [s011-mda-framework](../sources/s011-mda-framework.md) · full paper
+- [s008-game-design-workshop](../sources/s008-game-design-workshop.md) · system dynamics sections

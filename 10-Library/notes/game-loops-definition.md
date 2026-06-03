@@ -26,14 +26,14 @@ A game loop is a **causal chain that cycles back to its own starting point**, cr
 
 ## Connections
 
-- [[sellers-four-principal-loops]] — the full nested model with the designer's loop
-- [[reinforcing-vs-balancing-loops]] — the fundamental loop polarity
+- [sellers-four-principal-loops](sellers-four-principal-loops.md) — the full nested model with the designer's loop
+- [reinforcing-vs-balancing-loops](reinforcing-vs-balancing-loops.md) — the fundamental loop polarity
 - [[game-loop-timescales]] — how loops operate at different cognitive registers
-- [[mda-feedback-dynamics]] — the MDA treatment of feedback loop dynamics
-- [[progression-systems-definition]] — outer loops as the progression frame
+- [mda-feedback-dynamics](mda-feedback-dynamics.md) — the MDA treatment of feedback loop dynamics
+- [progression-systems-definition](progression-systems-definition.md) — outer loops as the progression frame
 
 ## Appears in
 
-- [[../sources/s001-advanced-game-design]] · ch.4, ch.7
-- [[../sources/s011-mda-framework]] · full paper (Dynamics layer)
-- [[../sources/s017-f2p-design-handbook]] · Part 1
+- [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.4, ch.7
+- [s011-mda-framework](../sources/s011-mda-framework.md) · full paper (Dynamics layer)
+- [s017-f2p-design-handbook](../sources/s017-f2p-design-handbook.md) · Part 1

@@ -22,9 +22,9 @@ Beautiful game worlds invite exploration and emotional investment. Beauty should
 
 ## Connections
 
-- [[world-building-principles]] — world beauty as a design dimension
-- [[lens-43-elegance]] — beauty and elegance are related
+- [world-building-principles](world-building-principles.md) — world beauty as a design dimension
+- [lens-43-elegance](lens-43-elegance.md) — beauty and elegance are related
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.14
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.14

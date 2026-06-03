@@ -25,12 +25,12 @@ Ryan & Deci's Self-Determination Theory (SDT) identifies three innate psychologi
 
 ## Connections
 
-- [[flow-channel-definition]] — the flow channel is primarily a competence-delivery mechanism
-- [[player-motivation-maslow]] — Maslow's hierarchy as the broader motivation context
-- [[progression-systems-definition]] — progression delivers competence; risk of undermining through treadmill
-- [[bartle-four-types]] — player types map to different SDT need emphases
+- [flow-channel-definition](flow-channel-definition.md) — the flow channel is primarily a competence-delivery mechanism
+- [player-motivation-maslow](player-motivation-maslow.md) — Maslow's hierarchy as the broader motivation context
+- [progression-systems-definition](progression-systems-definition.md) — progression delivers competence; risk of undermining through treadmill
+- [bartle-four-types](bartle-four-types.md) — player types map to different SDT need emphases
 
 ## Appears in
 
-- [[../sources/s014-the-gamers-brain]] · ch.7
-- [[../sources/s005-art-of-game-design]] · ch.9 (Maslow, motivation context)
+- [s014-the-gamers-brain](../sources/s014-the-gamers-brain.md) · ch.7
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.9 (Maslow, motivation context)

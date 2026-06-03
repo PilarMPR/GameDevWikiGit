@@ -20,9 +20,9 @@ Game designer, academic, author. Author of *Fundamentals of Game Design* (s006).
 
 ## Connections
 
-- [[adams-mechanic-families]] — his 5-family taxonomy
-- [[progression-systems-definition]] — Adams' Progression Mechanics
+- [adams-mechanic-families](adams-mechanic-families.md) — his 5-family taxonomy
+- [progression-systems-definition](progression-systems-definition.md) — Adams' Progression Mechanics
 
 ## Sources authored
 
-- [[../sources/s006-fundamentals-of-game-design]]
+- [s006-fundamentals-of-game-design](../sources/s006-fundamentals-of-game-design.md)

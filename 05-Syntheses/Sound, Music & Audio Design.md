@@ -208,4 +208,4 @@ Given what the canon says about music's role and party game tone:
 
 **Sources:** s007 (Swink) · s005 (Schell) · s014 (Hodent) · s003 (Hourences) · s012 (Kremers)
 
-**See also:** [[../10-Library/notes/feedback-system-design]] · [[../10-Library/notes/indirect-control-methods]] · [[../10-Library/notes/game-feel-definition]] · [[../00-Atlas/disciplines/Feel & Controls]]
+**See also:** [feedback-system-design](../10-Library/notes/feedback-system-design.md) · [indirect-control-methods](../10-Library/notes/indirect-control-methods.md) · [game-feel-definition](../10-Library/notes/game-feel-definition.md) · [Feel & Controls](../00-Atlas/disciplines/Feel%20%26%20Controls.md)

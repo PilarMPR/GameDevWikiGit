@@ -188,4 +188,4 @@ Characters who guide movement feel like invitation, not instruction. The player 
 
 **Sources:** s005 (Schell) · s014 (Hodent) · s013 (Salen & Zimmerman) · s012 (Kremers) · s006 (Adams)
 
-**See also:** [[../10-Library/notes/character-design-projection]] · [[../10-Library/notes/indirect-control-methods]] · [[../10-Library/notes/story-narrative-approaches]] · [[../00-Atlas/disciplines/Narrative]]
+**See also:** [character-design-projection](../10-Library/notes/character-design-projection.md) · [indirect-control-methods](../10-Library/notes/indirect-control-methods.md) · [story-narrative-approaches](../10-Library/notes/story-narrative-approaches.md) · [Narrative](../00-Atlas/disciplines/Narrative.md)

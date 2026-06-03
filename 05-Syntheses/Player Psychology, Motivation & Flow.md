@@ -327,4 +327,4 @@ Players focus on information that confirms their mental model and ignore disconf
 
 **Sources:** s014 (Hodent) · s005 (Schell) · s016 (Koster) · s001 (Sellers) · s015 (Norman) · s011 (MDA) · s009 (Macklin & Sharp)
 
-**See also:** [[../10-Library/notes/flow-channel-definition]] · [[../10-Library/notes/fun-engagement-debate]] · [[../10-Library/notes/player-motivation-maslow]] · [[../10-Library/notes/self-determination-theory-games]] · [[../10-Library/notes/bartle-four-types]] · [[../00-Atlas/disciplines/Player]]
+**See also:** [flow-channel-definition](../10-Library/notes/flow-channel-definition.md) · [fun-engagement-debate](../10-Library/notes/fun-engagement-debate.md) · [player-motivation-maslow](../10-Library/notes/player-motivation-maslow.md) · [self-determination-theory-games](../10-Library/notes/self-determination-theory-games.md) · [bartle-four-types](../10-Library/notes/bartle-four-types.md) · [Player](../00-Atlas/disciplines/Player.md)

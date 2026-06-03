@@ -138,9 +138,9 @@ No player type is blocked from the core experience; additional depth is always a
 
 ## Related analyses
 
-- [[smash-bros]] — party brawler accessibility through character asymmetry
-- [[portal-2]] — puzzle teaching through level design
-- [[hades]] — roguelite difficulty and progression design
+- [smash-bros](smash-bros.md) — party brawler accessibility through character asymmetry
+- [portal-2](portal-2.md) — puzzle teaching through level design
+- [hades](hades.md) — roguelite difficulty and progression design
 
 ## Sources
 

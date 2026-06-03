@@ -275,4 +275,4 @@ For games that ship and continue receiving players, balance is an **operational 
 
 **Sources:** s005 (Schell) · s001 (Sellers) · s011 (MDA) · s006 (Adams) · s014 (Hodent)
 
-**See also:** [[../10-Library/notes/game-balance-overview]] · [[../10-Library/notes/transitive-vs-intransitive-systems]] · [[../10-Library/notes/meaningful-choices-triangularity]] · [[../10-Library/notes/game-balance-methods]] · [[../10-Library/notes/reinforcing-vs-balancing-loops]] · [[../00-Atlas/disciplines/Mechanics]]
+**See also:** [game-balance-overview](../10-Library/notes/game-balance-overview.md) · [transitive-vs-intransitive-systems](../10-Library/notes/transitive-vs-intransitive-systems.md) · [meaningful-choices-triangularity](../10-Library/notes/meaningful-choices-triangularity.md) · [game-balance-methods](../10-Library/notes/game-balance-methods.md) · [reinforcing-vs-balancing-loops](../10-Library/notes/reinforcing-vs-balancing-loops.md) · [Mechanics](../00-Atlas/disciplines/Mechanics.md)

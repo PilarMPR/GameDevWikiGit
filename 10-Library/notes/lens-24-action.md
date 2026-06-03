@@ -22,9 +22,9 @@ Operative actions (what the designer creates) vs. resultant actions (what emerge
 
 ## Connections
 
-- [[mechanics-as-verbs]] — Anthropy & Clark's verb framing
-- [[emergence-from-simple-rules]] — the ratio concept
+- [mechanics-as-verbs](mechanics-as-verbs.md) — Anthropy & Clark's verb framing
+- [emergence-from-simple-rules](emergence-from-simple-rules.md) — the ratio concept
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.10
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.10

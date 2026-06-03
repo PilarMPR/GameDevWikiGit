@@ -37,17 +37,17 @@ The irreducible structural anatomy every game shares. Multiple authoritative sou
 
 ## Connections
 
-- [[elemental-tetrad-schell]] — Schell's higher-level design alignment model
-- [[mechanics-definition]] — the debate about what "mechanics" means across sources
-- [[meaningful-play-definition]] — formal elements are the structural prerequisites for meaningful play
-- [[magic-circle-definition]] — "boundaries" formal element = the magic circle in structural terms
-- [[mda-framework-overview]] — Mechanics layer = formal elements in MDA
-- [[game-as-system]] — formal elements are the "parts" of the game system
+- [elemental-tetrad-schell](elemental-tetrad-schell.md) — Schell's higher-level design alignment model
+- [mechanics-definition](mechanics-definition.md) — the debate about what "mechanics" means across sources
+- [meaningful-play-definition](meaningful-play-definition.md) — formal elements are the structural prerequisites for meaningful play
+- [magic-circle-definition](magic-circle-definition.md) — "boundaries" formal element = the magic circle in structural terms
+- [mda-framework-overview](mda-framework-overview.md) — Mechanics layer = formal elements in MDA
+- [game-as-system](game-as-system.md) — formal elements are the "parts" of the game system
 
 ## Appears in
 
-- [[../sources/s008-game-design-workshop]] · ch.3
-- [[../sources/s009-games-design-and-play]] · ch.1
-- [[../sources/s005-art-of-game-design]] · ch.4, ch.10
-- [[../sources/s002-a-game-design-vocabulary]] · ch.2
-- [[../sources/s013-rules-of-play]] · ch.23
+- [s008-game-design-workshop](../sources/s008-game-design-workshop.md) · ch.3
+- [s009-games-design-and-play](../sources/s009-games-design-and-play.md) · ch.1
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.4, ch.10
+- [s002-a-game-design-vocabulary](../sources/s002-a-game-design-vocabulary.md) · ch.2
+- [s013-rules-of-play](../sources/s013-rules-of-play.md) · ch.23

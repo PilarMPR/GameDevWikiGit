@@ -22,8 +22,8 @@ A holistic balance check across all 12 balance dimensions. Identify which elemen
 
 ## Connections
 
-- [[game-balance-overview]] — the comprehensive treatment
+- [game-balance-overview](game-balance-overview.md) — the comprehensive treatment
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

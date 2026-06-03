@@ -270,4 +270,4 @@ Study 3–5 games in your target genre or player audience:
 
 **Sources:** s010 (Fernández-Vara) · s013 (Salen & Zimmerman) · s005 (Schell) · s002 (Anthropy & Clark)
 
-**See also:** [[../10-Library/notes/meaningful-play-definition]] · [[../10-Library/notes/game-as-system]] · [[../10-Library/notes/game-analysis-framework]] · [[../30-Analyses/games/]] · [[../00-Atlas/disciplines/Theory]]
+**See also:** [meaningful-play-definition](../10-Library/notes/meaningful-play-definition.md) · [game-as-system](../10-Library/notes/game-as-system.md) · [game-analysis-framework](../10-Library/notes/game-analysis-framework.md) · [[../30-Analyses/games/]] · [Theory](../00-Atlas/disciplines/Theory.md)

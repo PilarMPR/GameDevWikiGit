@@ -27,12 +27,12 @@ Schell organizes the Mechanics layer into six conceptual categories: Space, Obje
 
 ## Connections
 
-- [[mechanics-definition]] — the broader debate about what "mechanics" means
-- [[emergence-from-simple-rules]] — resultant actions are emergent behavior from operative actions
-- [[adams-mechanic-families]] — Adams' complementary 5-family taxonomy
+- [mechanics-definition](mechanics-definition.md) — the broader debate about what "mechanics" means
+- [emergence-from-simple-rules](emergence-from-simple-rules.md) — resultant actions are emergent behavior from operative actions
+- [adams-mechanic-families](adams-mechanic-families.md) — Adams' complementary 5-family taxonomy
 - [[game-balance-skill-vs-chance]] — Schell's Lens #34 on balancing skill and chance
-- [[lens-21-functional-space]] — the dedicated lens note for Space
+- [lens-21-functional-space](lens-21-functional-space.md) — the dedicated lens note for Space
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.10 (Lenses #21–29)
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.10 (Lenses #21–29)

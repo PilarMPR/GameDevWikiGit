@@ -22,9 +22,9 @@ The flow channel is the narrow band where challenge matches skill. Maintain it t
 
 ## Connections
 
-- [[flow-channel-definition]] — full treatment of the flow channel
-- [[tense-and-release]] — the macro structure for climbing the channel
+- [flow-channel-definition](flow-channel-definition.md) — full treatment of the flow channel
+- [tense-and-release](tense-and-release.md) — the macro structure for climbing the channel
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.9
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.9

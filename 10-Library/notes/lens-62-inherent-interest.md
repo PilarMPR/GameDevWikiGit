@@ -22,8 +22,8 @@ Some things are inherently interesting (dangerous things, powerful characters, i
 
 ## Connections
 
-- [[interest-curves-schell]] — inherent interest is what sustains the curve
+- [interest-curves-schell](interest-curves-schell.md) — inherent interest is what sustains the curve
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.14
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.14

@@ -22,8 +22,8 @@ The most compelling protagonists contain an inner contradiction — a flaw or co
 
 ## Connections
 
-- [[lens-81-character-transformation]] — transformation resolves the inner contradiction
+- [lens-81-character-transformation](lens-81-character-transformation.md) — transformation resolves the inner contradiction
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.18
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.18

@@ -109,14 +109,14 @@ The Library of Alexandria for game design. Every idea in the canon, one note at 
 
 Cross-source topic compendiums. Everything the canon says on a practical topic, in one place.
 
-- [[../05-Syntheses/Movement, Controls & Game Feel]] — feel, 3Cs, camera, input, polish
-- [[../05-Syntheses/Game Loops & Systems]] — loops, mechanics, emergence, MDA, feedback
-- [[../05-Syntheses/Player Psychology, Motivation & Flow]] — flow, fun theory, motivation, player types
-- [[../05-Syntheses/Game Balance]] — methods, transitive/intransitive, 12 balance types
-- [[../05-Syntheses/Level Design, Pacing & Indirect Control]] — spaces, interest curves, indirect control
-- [[../05-Syntheses/Narrative, World & Characters]] — story/game tension, world-building, characters
-- [[../05-Syntheses/Iteration, Playtesting & Production]] — process, prototyping, playtesting
-- [[../05-Syntheses/Monetization, Retention & F2P]] — revenue models, retention, ethics
+- [Movement, Controls & Game Feel](../05-Syntheses/Movement%2C%20Controls%20%26%20Game%20Feel.md) — feel, 3Cs, camera, input, polish
+- [Game Loops & Systems](../05-Syntheses/Game%20Loops%20%26%20Systems.md) — loops, mechanics, emergence, MDA, feedback
+- [Player Psychology, Motivation & Flow](../05-Syntheses/Player%20Psychology%2C%20Motivation%20%26%20Flow.md) — flow, fun theory, motivation, player types
+- [Game Balance](../05-Syntheses/Game%20Balance.md) — methods, transitive/intransitive, 12 balance types
+- [Level Design, Pacing & Indirect Control](../05-Syntheses/Level%20Design%2C%20Pacing%20%26%20Indirect%20Control.md) — spaces, interest curves, indirect control
+- [Narrative, World & Characters](../05-Syntheses/Narrative%2C%20World%20%26%20Characters.md) — story/game tension, world-building, characters
+- [Iteration, Playtesting & Production](../05-Syntheses/Iteration%2C%20Playtesting%20%26%20Production.md) — process, prototyping, playtesting
+- [Monetization, Retention & F2P](../05-Syntheses/Monetization%2C%20Retention%20%26%20F2P.md) — revenue models, retention, ethics
 
 ---
 
@@ -124,33 +124,33 @@ Cross-source topic compendiums. Everything the canon says on a practical topic, 
 
 | Discipline | MOC | Start here |
 |---|---|---|
-| 🧩 Mechanics | [[disciplines/Mechanics]] | [[mechanics-definition]] → [[mda-framework-overview]] |
-| 🎮 Feel & Controls | [[disciplines/Feel & Controls]] | [[game-feel-definition]] → [[feedback-system-design]] |
-| 🧠 Player | [[disciplines/Player]] | [[flow-channel-definition]] → [[player-motivation-maslow]] |
-| 📖 Narrative | [[disciplines/Narrative]] | [[story-narrative-approaches]] → [[indirect-control-methods]] |
-| 🗺️ Level Design | [[disciplines/Level Design]] | [[level-design-principles]] → [[spatial-design-principles]] |
-| 🔄 Production | [[disciplines/Production]] | [[iterative-design-process]] → [[playtesting-methods]] |
-| 💻 Programming | [[disciplines/Programming]] | (to be built) |
-| 🎨 Art & Tech | [[disciplines/Art & Tech]] | (to be built) |
-| 🔬 Theory | [[disciplines/Theory]] | [[game-as-system]] → [[mda-framework-overview]] |
-| 📱 Interface | [[disciplines/Interface]] | [[norman-hcd-vocabulary]] → [[ui-design-hud]] |
-| 💰 Business | [[disciplines/Business]] | [[f2p-design-foundation]] → [[monetization-models]] |
+| 🧩 Mechanics | [Mechanics](disciplines/Mechanics.md) | [mechanics-definition](../10-Library/notes/mechanics-definition.md) → [mda-framework-overview](../10-Library/notes/mda-framework-overview.md) |
+| 🎮 Feel & Controls | [Feel & Controls](disciplines/Feel%20%26%20Controls.md) | [game-feel-definition](../10-Library/notes/game-feel-definition.md) → [feedback-system-design](../10-Library/notes/feedback-system-design.md) |
+| 🧠 Player | [Player](disciplines/Player.md) | [flow-channel-definition](../10-Library/notes/flow-channel-definition.md) → [player-motivation-maslow](../10-Library/notes/player-motivation-maslow.md) |
+| 📖 Narrative | [Narrative](disciplines/Narrative.md) | [story-narrative-approaches](../10-Library/notes/story-narrative-approaches.md) → [indirect-control-methods](../10-Library/notes/indirect-control-methods.md) |
+| 🗺️ Level Design | [Level Design](disciplines/Level%20Design.md) | [level-design-principles](../10-Library/notes/level-design-principles.md) → [spatial-design-principles](../10-Library/notes/spatial-design-principles.md) |
+| 🔄 Production | [Production](disciplines/Production.md) | [iterative-design-process](../10-Library/notes/iterative-design-process.md) → [playtesting-methods](../10-Library/notes/playtesting-methods.md) |
+| 💻 Programming | [Programming](disciplines/Programming.md) | (to be built) |
+| 🎨 Art & Tech | [Art & Tech](disciplines/Art%20%26%20Tech.md) | (to be built) |
+| 🔬 Theory | [Theory](disciplines/Theory.md) | [game-as-system](../10-Library/notes/game-as-system.md) → [mda-framework-overview](../10-Library/notes/mda-framework-overview.md) |
+| 📱 Interface | [Interface](disciplines/Interface.md) | [norman-hcd-vocabulary](../10-Library/notes/norman-hcd-vocabulary.md) → [ui-design-hud](../10-Library/notes/ui-design-hud.md) |
+| 💰 Business | [Business](disciplines/Business.md) | [f2p-design-foundation](../10-Library/notes/f2p-design-foundation.md) → [monetization-models](../10-Library/notes/monetization-models.md) |
 
 ---
 
 ## Cross-Discipline Bridges
 
-- [[bridges/Mechanics across the canon]] — Schell tetrad ↔ MDA mechanics ↔ Adams types ↔ Fullerton formal elements
-- [[bridges/Pleasures & Aesthetics]] — LeBlanc 8 pleasures ≡ Schell 8 pleasures
-- [[bridges/Iteration & Playtesting]] — Fullerton ↔ Adams ↔ Schell ch.7
-- [[bridges/Flow & Mental Models]] — Csikszentmihalyi ↔ Koster ↔ Sellers
-- [[bridges/Magic Circle & Play]] — Huizinga ↔ Salen & Zimmerman ↔ Sellers
+- [Mechanics across the canon](bridges/Mechanics%20across%20the%20canon.md) — Schell tetrad ↔ MDA mechanics ↔ Adams types ↔ Fullerton formal elements
+- [Pleasures & Aesthetics](bridges/Pleasures%20%26%20Aesthetics.md) — LeBlanc 8 pleasures ≡ Schell 8 pleasures
+- [Iteration & Playtesting](bridges/Iteration%20%26%20Playtesting.md) — Fullerton ↔ Adams ↔ Schell ch.7
+- [Flow & Mental Models](bridges/Flow%20%26%20Mental%20Models.md) — Csikszentmihalyi ↔ Koster ↔ Sellers
+- [Magic Circle & Play](bridges/Magic%20Circle%20%26%20Play.md) — Huizinga ↔ Salen & Zimmerman ↔ Sellers
 
 ---
 
 ## Project Space
 
-- [[../40-HotPotato/_index]] — Hot Potato design workspace
+- [_index](../40-HotPotato/_index.md) — Hot Potato design workspace
 - [[../30-Analyses/games/]] — game teardowns
 - [[../30-Analyses/genres/]] — genre analyses
 
@@ -159,7 +159,7 @@ Cross-source topic compendiums. Everything the canon says on a practical topic, 
 ## Library
 
 - [[../10-Library/sources/]] — 17 source cards (s001–s017)
-- [[../20-Reference/Schell Lenses by Chapter]] — all 100 Schell lenses
+- [Schell Lenses by Chapter](../20-Reference/Schell%20Lenses%20by%20Chapter.md) — all 100 Schell lenses
 - [[../50-Feed/]] — online intake
 
 ---

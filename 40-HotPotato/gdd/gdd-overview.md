@@ -120,12 +120,12 @@ Invite code → vote mapa/modo → playground lobby (tutorial, 30s AFK timer)
 
 ## Navegación del GDD
 
-- [[gdd-mechanics]] — FAP system completo, tagging, 13 ítems, escala Patata
-- [[gdd-movement]] — run, jump, slide, parkour, wave dash, push/interact
-- [[gdd-systems]] — core loop, match timer, lobby, potato assignment, leaderboard
-- [[gdd-gamemodes]] — FFA, Infected, TDM/Ranked/Custom
-- [[decisions]] — decisiones tomadas con rationale
-- [[open-questions]] — 18 preguntas abiertas por urgencia
+- [gdd-mechanics](gdd-mechanics.md) — FAP system completo, tagging, 13 ítems, escala Patata
+- [gdd-movement](gdd-movement.md) — run, jump, slide, parkour, wave dash, push/interact
+- [gdd-systems](gdd-systems.md) — core loop, match timer, lobby, potato assignment, leaderboard
+- [gdd-gamemodes](gdd-gamemodes.md) — FFA, Infected, TDM/Ranked/Custom
+- [decisions](../decisions.md) — decisiones tomadas con rationale
+- [open-questions](../open-questions.md) — 18 preguntas abiertas por urgencia
 
 ## Links al wiki
 

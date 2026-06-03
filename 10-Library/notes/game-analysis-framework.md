@@ -23,10 +23,10 @@ Fernández-Vara provides a structured method for analyzing games as cultural tex
 
 ## Connections
 
-- [[formal-elements-synthesis]] — formal elements as the third analysis area
-- [[meaningful-play-definition]] — procedural rhetoric extends meaningful play to meaning-making
-- [[story-narrative-approaches]] — embedded vs. emergent narrative as analysis categories
+- [formal-elements-synthesis](formal-elements-synthesis.md) — formal elements as the third analysis area
+- [meaningful-play-definition](meaningful-play-definition.md) — procedural rhetoric extends meaningful play to meaning-making
+- [story-narrative-approaches](story-narrative-approaches.md) — embedded vs. emergent narrative as analysis categories
 
 ## Appears in
 
-- [[../sources/s010-introduction-to-game-analysis]] · ch.1–5
+- [s010-introduction-to-game-analysis](../sources/s010-introduction-to-game-analysis.md) · ch.1–5

@@ -211,4 +211,4 @@ Without an art bible, individual artist decisions diverge over time. The game de
 
 **Sources:** s005 (Schell) · s003 (Hourences) · s007 (Swink) · s014 (Hodent)
 
-**See also:** [[../10-Library/notes/indirect-control-methods]] · [[../10-Library/notes/feedback-system-design]] · [[../10-Library/notes/spatial-design-principles]] · [[../00-Atlas/disciplines/Art & Tech]]
+**See also:** [indirect-control-methods](../10-Library/notes/indirect-control-methods.md) · [feedback-system-design](../10-Library/notes/feedback-system-design.md) · [spatial-design-principles](../10-Library/notes/spatial-design-principles.md) · [Art & Tech](../00-Atlas/disciplines/Art%20%26%20Tech.md)

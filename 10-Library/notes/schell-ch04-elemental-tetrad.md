@@ -26,10 +26,10 @@ Every game is made of four elements: **Mechanics** (procedures, rules, and goals
 
 ## Connections
 
-- [[elemental-tetrad-schell]] — dedicated atomic note on the tetrad concept
-- [[mda-framework-overview]] — MDA's Mechanics ≈ Schell's Mechanics; different Aesthetics meaning
-- [[design-vision-concept-document]] — theme unifies all four tetrad elements
+- [elemental-tetrad-schell](elemental-tetrad-schell.md) — dedicated atomic note on the tetrad concept
+- [mda-framework-overview](mda-framework-overview.md) — MDA's Mechanics ≈ Schell's Mechanics; different Aesthetics meaning
+- [design-vision-concept-document](design-vision-concept-document.md) — theme unifies all four tetrad elements
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.4 (Lenses #7–8)
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.4 (Lenses #7–8)

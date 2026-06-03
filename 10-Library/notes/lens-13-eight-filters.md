@@ -22,9 +22,9 @@ A finished design must pass eight filters: artistic impulse, demographics, exper
 
 ## Connections
 
-- [[iterative-design-process]] — the filters are the evaluation framework for each loop
-- [[playtesting-methods]] — playtesting is filter #8
+- [iterative-design-process](iterative-design-process.md) — the filters are the evaluation framework for each loop
+- [playtesting-methods](playtesting-methods.md) — playtesting is filter #8
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.7
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.7

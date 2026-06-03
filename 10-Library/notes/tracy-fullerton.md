@@ -20,9 +20,9 @@ Game designer, academic, director of USC Games, founder of USC Game Innovation L
 
 ## Connections
 
-- [[iterative-design-process]] — her playcentric method
-- [[formal-elements-synthesis]] — Fullerton's 8 formal elements are central to her work
+- [iterative-design-process](iterative-design-process.md) — her playcentric method
+- [formal-elements-synthesis](formal-elements-synthesis.md) — Fullerton's 8 formal elements are central to her work
 
 ## Sources authored
 
-- [[../sources/s008-game-design-workshop]]
+- [s008-game-design-workshop](../sources/s008-game-design-workshop.md)

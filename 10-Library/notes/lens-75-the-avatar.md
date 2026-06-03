@@ -22,8 +22,8 @@ The avatar should invite player identification — a balance of "me" (enough bla
 
 ## Connections
 
-- [[character-design-projection]] — full treatment of player projection
+- [character-design-projection](character-design-projection.md) — full treatment of player projection
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.18
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.18

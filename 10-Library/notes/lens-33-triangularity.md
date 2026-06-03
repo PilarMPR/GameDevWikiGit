@@ -22,9 +22,9 @@ The most compelling choice: safe low-reward vs. risky high-reward. When calibrat
 
 ## Connections
 
-- [[meaningful-choices-triangularity]] — full treatment
-- [[lens-28-expected-value]] — expected values must be comparable for triangularity to work
+- [meaningful-choices-triangularity](meaningful-choices-triangularity.md) — full treatment
+- [lens-28-expected-value](lens-28-expected-value.md) — expected values must be comparable for triangularity to work
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.11
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11

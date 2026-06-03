@@ -151,9 +151,9 @@ This means: in 50+ hours of play, you rarely hear the same dialogue twice. The g
 
 ## Related analyses
 
-- [[celeste]] — difficulty and accessibility design
-- [[smash-bros]] — character variety without power tiers
-- [[portal-2]] — narrative through environment
+- [celeste](celeste.md) — difficulty and accessibility design
+- [smash-bros](smash-bros.md) — character variety without power tiers
+- [portal-2](portal-2.md) — narrative through environment
 
 ## Sources
 

@@ -22,9 +22,9 @@ Does the game require the right skills for the audience? Does practice meaningfu
 
 ## Connections
 
-- [[flow-channel-definition]] — skill = the player-side of the challenge=skill equation
-- [[self-determination-theory-games]] — competence through skill development
+- [flow-channel-definition](flow-channel-definition.md) — skill = the player-side of the challenge=skill equation
+- [self-determination-theory-games](self-determination-theory-games.md) — competence through skill development
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.10
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.10

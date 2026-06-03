@@ -22,9 +22,9 @@ Rules define the game's possibility space. Good rules are complete (cover all ca
 
 ## Connections
 
-- [[formal-elements-synthesis]] — rules are one of Fullerton's 8 formal elements
-- [[emergence-from-simple-rules]] — rules are what interaction produces emergence from
+- [formal-elements-synthesis](formal-elements-synthesis.md) — rules are one of Fullerton's 8 formal elements
+- [emergence-from-simple-rules](emergence-from-simple-rules.md) — rules are what interaction produces emergence from
 
 ## Appears in
 
-- [[../sources/s005-art-of-game-design]] · ch.10
+- [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.10
