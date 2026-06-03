@@ -1,0 +1,20 @@
+# Game Analyses
+
+## Available analyses
+
+- [smash-bros](smash-bros.md) — Super Smash Bros. Ultimate (2018) — party brawler mechanics, dual-aesthetic design, % system, stage as mechanic
+- [jackbox](jackbox.md) — Jackbox Party Pack (2014–) — social loop architecture, player-generated content, phone input model
+- [celeste](celeste.md) — Celeste (2018) — flow channel + accessibility, anxiety as mechanic, assist mode ⬜
+- [portal-2](portal-2.md) — Portal 2 (2011) — puzzle teaching through levels, narrative as environment ⬜
+- [hades](hades.md) — Hades (2020) — roguelite meta-progression, narrative through repetition ⬜
+- [among-us](among-us.md) — Among Us (2018) — social deduction, emergence from simple rules ⬜
+
+## Template
+
+Each analysis follows the same structure:
+2. Formal Elements (Fullerton s008)
+3. MDA Analysis (s011)
+4. Core loop diagram
+5. Design highlights (each linked to a wiki concept page)
+6. What it does well (extractable principles)
+8. Related analyses
