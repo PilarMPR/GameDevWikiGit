@@ -71,6 +71,10 @@ Salen & Zimmerman reference Conway's *Game of Life* as the purest example of com
 
 **Design lesson:** simple, consistent local rules produce complex global behavior. This is the engineering target for systemic game design.
 
+**Spelunky's symmetry rule** (Derek Yu, s023) is the sharpest practical case study of this principle: every entity in Spelunky — player, enemy, merchant, boulder, trap — obeys the same physics and interaction rules with no special cases. Arrow traps can kill enemies; boulders can kill shopkeepers; the player can be killed by their own bombs. No entity has immunity from the simulation. The result: players generate stories the designer never scripted, purely from consistent rule application. Yu's conclusion: emergent complexity does not require complex rules — it requires *consistently applied* rules with no exceptions. Every exception is a missed emergent interaction.
+
+**Thief's Act-React System** (Smith & Stellmach, s025) applies the same principle to an immersive sim: objects know their physical properties and relationships (wooden objects burn, water extinguishes flames, heavy objects crush lighter ones). Players exploit the environment systematically because the rules are consistent. Randy Smith: *"player expression and freedom"* emerge from simulation consistency, not scripted options.
+
 ---
 
 ## 4. Feedback Loop Design in Depth
@@ -172,6 +176,8 @@ Why do games uniquely develop complex systems thinking skills?
 | DDA is applied cybernetics; operates best over session timescales with transparent rules | s013, s005 |
 | Games uniquely develop complex systems thinking through safe, repeatable, immediate-feedback interaction | s001 |
 | Simulation is always abstracted; the right abstraction retains interesting system behavior | s001, s013 |
+| Consistently applied rules with no exceptions are the engine of emergent player agency — every exception is a missed interaction | s023, s025 |
+| The symmetry rule (all entities obey the same physics): Spelunky generates emergent narrative from 4 simple interaction rules applied uniformly | s023 |
 
 ---
 
@@ -187,6 +193,6 @@ Why do games uniquely develop complex systems thinking skills?
 
 **Complex system design goal:** Hot Potato should be at the **edge of chaos** — sessions that are unpredictable, where the leader can be overtaken, where the last 30 seconds create genuine uncertainty. Runaway winner states (one player dominates the whole match) should be impossible.
 
-**Sources:** s013 (Salen & Zimmerman) · s001 (Sellers) · s005 (Schell) · s011 (MDA)
+**Sources:** s013 (Salen & Zimmerman) · s001 (Sellers) · s005 (Schell) · s011 (MDA) · s023 (Derek Yu, Spelunky) · s025 (Smith & Stellmach, Thief)
 
 **See also:** [reinforcing-vs-balancing-loops](../10-Library/notes/reinforcing-vs-balancing-loops.md) · [emergence-definition](../10-Library/notes/emergence-definition.md) · [game-as-system](../10-Library/notes/game-as-system.md) · [Mechanics across the canon](../00-Atlas/bridges/Mechanics%20across%20the%20canon.md)

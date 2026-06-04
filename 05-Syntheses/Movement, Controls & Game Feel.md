@@ -206,7 +206,11 @@ Beyond position, camera *behavior* is the second dimension of camera design:
 
 ## 5. Polish Layer — Juice
 
-**"Juice"** (Schell's Lens #58, s005) is the layer of audio/visual feedback that makes interactions feel *satisfying*. It's the difference between "functionally correct" and "great."
+**"Juice"** (Schell's Lens #58, s005; Jonasson & Purho, s018) is the layer of audio/visual feedback that makes interactions feel *satisfying*. It's the difference between "functionally correct" and "great."
+
+**Jonasson & Purho** (s018) operationalize juice with the most precise definition in the canon: *"showing a maximum output for each minimal input."* Their live Breakout demo proved that the same game — identical rules, identical challenge — transforms from dead to alive purely through feedback density. Key findings: (1) feedback layers compound (the whole is greater than the sum of parts); (2) Perlin noise-based screen shake feels directional and weighted, while random jitter feels cheap; (3) pitch harmonics on successive hits create a musical reward loop; (4) juice applied before the core loop is final is wasted. The counter-argument (Folmer Kelly): over-juicing breaks immersion when visual language contradicts the game's tone — juice must serve the intended aesthetic register, not just maximize output.
+
+See also: [game-feel-juice](../10-Library/notes/game-feel-juice.md) — atomic note on juice as a maximalist operationalization of Swink's polish building block.
 
 ### Screen shake
 
@@ -311,6 +315,8 @@ When tuning feel parameters, don't adjust in small increments. **Double or halve
 |---|---|
 | Input latency below ~240ms is required for real-time feel | s007 |
 | Feedback must be immediate, proportional, and multi-channel | s007, s015, s014 |
+| Juice = maximum output for minimum input; feedback density transforms feel without changing rules | s018 |
+| Over-juicing breaks immersion when visual language contradicts game tone | s018 |
 | Players extend their self-model into the avatar | s007, s014 |
 | 3Cs must be solved before layering other systems | s017 |
 | Tune base physics before adding polish | s007 |

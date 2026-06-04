@@ -513,3 +513,27 @@ mismo vault de Obsidian para mantener los links con la teoría).
   - `board-overview.canvas` y `board-sprint.canvas` — canvas actualizados con paths nuevos
 
 CLAUDE.md y index.md actualizados con nueva ubicación HotPotato/.
+
+## [2026-06-04] integration | s018–s025 cross-references added to synthesis pages
+Verified index.md and log.md already contained entries for s018–s025 and game-feel-juice. Added
+cross-references to four synthesis pages that were missing them: `Movement, Controls & Game Feel`
+(+s018 juice definition, counter-argument, atomic note link); `Production, Documentation &
+Professional Practice` (+s021 Upton two-questions framework, pillars-vs-hooks distinction, +s025
+Thief production failure patterns); `Iteration, Playtesting & Production` (+s020/s023/s024
+prototype-as-design-document convergence, spiky difficulty); `Cybernetics, Complexity & Emergent
+Systems` (+s023 Spelunky symmetry rule as emergence mechanism, +s025 Act-React System parallel).
+
+## [2026-06-04] ingest | s018-s025 Game Design Talks (8 sources)
+Filed 8 non-PDF sources (talks and blog posts) as s018-s025 in `10-Library/sources/`:
+  - s018 — Juice It or Lose It (Jonasson & Purho, GDC Europe 2012): juice taxonomy; maximum output for minimum input; feedback density as game feel; counter-argument (Kelly)
+  - s019 — The Door Problem (Liz England, blog 2014): designer's cross-cutting coordinative role; one object touches every discipline; successful design is invisible
+  - s020 — Designing Celeste (Thorson & Berry, GDC 2018): one-mechanic-per-room; tiered difficulty; Assist Mode philosophy; instant respawn as flow tool; prototype-as-design-document
+  - s021 — 30 Things I Hate About Your Game Pitch (Brian Upton, GDC 2017): the two foundation questions; design pillars vs. pitch hooks; 30 failure mode catalog
+  - s022 — Into the Breach Design Postmortem (Matthew Davis, GDC 2019): perfect information; tension without RNG; Power Grid health inversion; multi-priority decisions as source of interesting turns
+  - s023 — Spelunky and the DNA of a Roguelike (Derek Yu, synthesized GDC 2011/2021): symmetry rule as emergence engine; structured randomness algorithm; spiky difficulty; permadeath as world-building; "designers value novelty, players love what they already love"
+  - s024 — Shovel Knight: Designing by Accident (Yacht Club Games, synthesized 2014-2015): NES-as-filter constraint philosophy; respected vs. broken constraints; "designing by accident" from honest constraint-following
+  - s025 — Thief: The Dark Project Postmortem (Smith & Stellmach, GDC 2016): stealth inversion of FPS conventions; AI crisis + three-week rewrite = awareness-state model; Dark Object System (ECS precursor); Light Gem as elegant diegetic feedback; scenario vs. puzzle design
+New note created: `10-Library/notes/game-feel-juice.md` (juice as maximalist polish operationalization).
+Updated synthesis pages: `05-Syntheses/Game Balance.md` (+s020, +s022 citations), `05-Syntheses/Accessibility & Inclusive Design.md` (+s020 citations, Assist Mode section deepened).
+Updated notes: `10-Library/notes/game-balance-overview.md` (+s020, +s022), `10-Library/notes/game-feel-definition.md` (+s018, juice cross-link).
+Updated index.md: sources ingested count 17 → 25; all 8 source entries + game-feel-juice note added.

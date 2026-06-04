@@ -259,6 +259,11 @@ For games that ship and continue receiving players, balance is an **operational 
 | Balance failures are Dynamics problems, not Mechanics problems | s011 |
 | Double and halve to find design space quickly | s005 |
 | Live game balance never ends | s001, s017 |
+| Tiered difficulty (main path / collectibles / B-sides) lets a single challenge level be tuned without excluding players who want more or less | s020 |
+| Instant respawn + near-zero death friction is a flow-maintenance mechanism — lowers the cost of failure, not the difficulty ceiling | s020 |
+| Perfect information can generate tension without RNG: when the player knows exactly what will happen, the puzzle is preventing it from within constrained actions | s022 |
+| Multi-priority decisions (buildings + mechs + objectives) create interesting turns because no single priority always dominates | s022 |
+| Tension through transparency: when failure is attributable (visible causes, no RNG), players accept difficulty as fair | s022 |
 
 ---
 
@@ -273,6 +278,6 @@ For games that ship and continue receiving players, balance is an **operational 
 | Mixed competition/cooperation | Richest balance structure for party play (Types 6–7) |
 | Triangularity in FAP actions | High-risk trolling earns more FAP; safe play earns less — classic triangle |
 
-**Sources:** s005 (Schell) · s001 (Sellers) · s011 (MDA) · s006 (Adams) · s014 (Hodent)
+**Sources:** s005 (Schell) · s001 (Sellers) · s011 (MDA) · s006 (Adams) · s014 (Hodent) · s020 (Thorson & Berry, Celeste) · s022 (Davis, Into the Breach)
 
 **See also:** [game-balance-overview](../10-Library/notes/game-balance-overview.md) · [transitive-vs-intransitive-systems](../10-Library/notes/transitive-vs-intransitive-systems.md) · [meaningful-choices-triangularity](../10-Library/notes/meaningful-choices-triangularity.md) · [game-balance-methods](../10-Library/notes/game-balance-methods.md) · [reinforcing-vs-balancing-loops](../10-Library/notes/reinforcing-vs-balancing-loops.md) · [Mechanics](../00-Atlas/disciplines/Mechanics.md)

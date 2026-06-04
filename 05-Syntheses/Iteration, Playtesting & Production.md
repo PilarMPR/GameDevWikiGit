@@ -225,6 +225,9 @@ Schell's most important skill for designers: **deep listening**. Five kinds:
 | Shared vision is the single practice most correlated with game success | s001 |
 | Minimum change is almost always the right fix | s009 |
 | Cut more than you add when playtesting reveals problems | s008, s009 |
+| The prototype IS the design document: Celeste (PICO-8 jam → full game), Spelunky (freeware GameMaker → HD), Shovel Knight (name-first → constraint-led design) all show that feel-first development outperforms spec-first | s020, s023, s024 |
+| A naming/identity constraint can serve as the first design artifact — Shovel Knight's name preceded and shaped the full design | s024 |
+| Spiky difficulty: difficulty that serves design identity rather than existing purely as challenge is a distinct design value worth prototyping for | s023 |
 
 ---
 
@@ -239,6 +242,6 @@ Schell's most important skill for designers: **deep listening**. Five kinds:
 | Test with non-gamers early | Hot Potato's target audience includes casual players; don't only test with game-literate people |
 | Decisions log cites sources | Designer's loop discipline: every decision has a traceable basis; reversals are informed, not reactive |
 
-**Sources:** s008 (Fullerton) · s005 (Schell) · s009 (Macklin & Sharp) · s001 (Sellers) · s006 (Adams)
+**Sources:** s008 (Fullerton) · s005 (Schell) · s009 (Macklin & Sharp) · s001 (Sellers) · s006 (Adams) · s020 (Thorson & Berry) · s023 (Derek Yu) · s024 (Yacht Club Games)
 
 **See also:** [iterative-design-process](../10-Library/notes/iterative-design-process.md) · [playtesting-methods](../10-Library/notes/playtesting-methods.md) · [design-vision-concept-document](../10-Library/notes/design-vision-concept-document.md) · [Production](../00-Atlas/disciplines/Production.md)

@@ -3,7 +3,7 @@ id: game-feel-definition
 title: Game Feel — Real-Time Control in Simulated Space
 type: atomic
 disciplines: [feel-and-controls]
-sources: [s007, s017]
+sources: [s007, s017, s018]
 hp: true
 tags: [concept]
 status: evergreen
@@ -28,6 +28,7 @@ updated: 2026-06-02
 
 ## Connections
 
+- [game-feel-juice](game-feel-juice.md) — juice (s018) is the maximalist operationalization of the polish building block: density of feedback as a design goal in itself
 - [[feedback-systems]] — polish layer and feedback are the third building block
 - [[game-feel-3cs]] — the product-level 3Cs model
 - [[player-psychology-perception]] — proprioception and kinesthetic self-extension
@@ -37,3 +38,4 @@ updated: 2026-06-02
 
 - [s007-game-feel](../sources/s007-game-feel.md) · throughout
 - [s017-f2p-design-handbook](../sources/s017-f2p-design-handbook.md) · Part 1 (3Cs)
+- [s018-juice-it-or-lose-it](../sources/s018-juice-it-or-lose-it.md) · juice as polish maximalism

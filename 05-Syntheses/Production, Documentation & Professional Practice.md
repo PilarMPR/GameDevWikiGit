@@ -229,6 +229,10 @@ The pitch must be:
 
 **The vertical slice as the ultimate pitch:** instead of explaining what the game will be, show what it already is. A polished vertical slice communicates design quality that no document can match.
 
+**Upton** (s021) provides the most actionable pitch framework in the canon: every element of a pitch must answer exactly two questions — *"Is this game worth making?"* and *"Can this team make it?"* Everything that doesn't serve one of those questions actively hurts the pitch. His catalog of 30 failure modes all trace to the same root: forgetting that publishers are evaluating a **business investment and a team bet**, not aesthetics in isolation. The most common disqualifying errors: extensive backstory before the concept is explained; design pillars (internal compass for the team) presented as pitch hooks (audience-facing reasons to care); vague resource estimates; no assembled team; and unrealistic projections citing Minecraft or Among Us as baseline.
+
+**Key distinction** (s021): design pillars define what the game *is* for the people making it; hooks attract players and publishers. A pitch deck filled with design pillars fails because the audience has no shared design context to make sense of them.
+
 ---
 
 ## 6. Finishing — The Hardest Part
@@ -257,7 +261,11 @@ The pitch must be:
 | Pre-production ends when the core mechanic is proven fun (Cerny's rule) | s005 |
 | Finishing requires scope management and explicit feature locks | s001, s006 |
 | The pitch must be clear, compelling, and memorable in under 30 seconds | s005 |
+| Every pitch element must answer "is this worth making?" or "can this team make it?" | s021 |
+| Design pillars (internal) and pitch hooks (external) are different things for different audiences | s021 |
 | Teams are systems; communication breakdowns are loop failures | s001 |
+| A game that isn't fun until 3 months from ship is not an anomaly — Thief: TDP survived this | s025 |
+| Staffing up before technology matures and creating content before design is stable are production failure patterns | s025 |
 
 ---
 
@@ -271,6 +279,6 @@ The pitch must be:
 | Feature lock at beta: no new mechanics after alpha | Scope management for a small team; finish > expand |
 | Pre-production success criterion: is playing the prototype better than explaining it? | Fullerton's playcentric test; if you need to explain, it's not ready |
 
-**Sources:** s006 (Adams) · s005 (Schell) · s008 (Fullerton) · s001 (Sellers)
+**Sources:** s006 (Adams) · s005 (Schell) · s008 (Fullerton) · s001 (Sellers) · s021 (Upton) · s025 (Smith & Stellmach, Thief postmortem)
 
 **See also:** [iterative-design-process](../10-Library/notes/iterative-design-process.md) · [design-vision-concept-document](../10-Library/notes/design-vision-concept-document.md) · [playtesting-methods](../10-Library/notes/playtesting-methods.md) · [decisions](../40-HotPotato/decisions.md) · [Production](../00-Atlas/disciplines/Production.md)

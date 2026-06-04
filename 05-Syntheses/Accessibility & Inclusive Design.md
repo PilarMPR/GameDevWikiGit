@@ -165,9 +165,9 @@ Separate volume controls for music, sound effects, and dialogue/voice. Many play
 
 **Granular difficulty controls** (increasing adoption): separate sliders for enemy aggressiveness, player damage, timer speed, checkpoint spacing. Each player calibrates to their specific challenge tolerance.
 
-**Assist modes** (*Celeste* model): options to enable invincibility, slow time, or skip individual sections — framed as "for everyone to experience the full game," not as "for people who can't play."
+**Assist modes** (*Celeste* model, s020): options to enable invincibility, slow time, or skip individual sections — framed as "for everyone to experience the full game," not as "for people who can't play."
 
-**The Celeste approach** is increasingly the industry standard for accessibility: don't hide the options, don't frame them as "cheating," frame them as tools that allow everyone to experience the game the designer made.
+**The Celeste approach** is increasingly the industry standard for accessibility: don't hide the options, don't frame them as "cheating," frame them as tools that allow everyone to experience the game the designer made. Thorson: "Assist Mode breaks the game. I spent many hours fine-tuning the difficulty of Celeste, so it's easy for me to feel precious about my designs. But ultimately, we want to empower the player and give them a good experience, and sometimes that means letting go." (s020)
 
 ### When NOT to Have Difficulty Options
 
@@ -218,7 +218,10 @@ Beyond mechanical accessibility, inclusive design includes who is *represented* 
 | Color alone is never sufficient for critical information (8% of males colorblind) | s014 |
 | Full control remapping is the baseline motor accessibility requirement | s015 |
 | The curb-cut effect: accessibility features improve experience for all players | s014, s015 |
-| Difficulty accessibility: Celeste's assist-mode model is the industry standard | practice |
+| Difficulty accessibility: Celeste's assist-mode model is the industry standard | s020 |
+| Assist Mode "breaks the game" deliberately — framed as player empowerment, not design compromise | s020 |
+| Tiered difficulty (main path / strawberries / B-sides / C-sides) allows the core challenge to be tuned without compromise while still accommodating players above and below it | s020 |
+| Instant respawn with near-zero death friction lowers the cost of failure without lowering the challenge ceiling — structural accessibility | s020 |
 | Cognitive accessibility: limit simultaneous demands; never advance without player confirmation | s014 |
 | Party games specifically require wide skill/ability range accessibility | s005 |
 
@@ -236,6 +239,6 @@ Beyond mechanical accessibility, inclusive design includes who is *represented* 
 | **Difficulty** | Match time duration option; item density setting; number of players affecting chaos level |
 | **Representation** | Diverse character roster; physical/universal humor; key market localization |
 
-**Sources:** s014 (Hodent) · s015 (Norman) · s005 (Schell) · s006 (Adams)
+**Sources:** s014 (Hodent) · s015 (Norman) · s005 (Schell) · s006 (Adams) · s020 (Thorson & Berry, Celeste)
 
 **See also:** [norman-hcd-vocabulary](../10-Library/notes/norman-hcd-vocabulary.md) · [[../10-Library/notes/player-psychology-perception]] · [ui-design-hud](../10-Library/notes/ui-design-hud.md) · [Interface](../00-Atlas/disciplines/Interface.md)

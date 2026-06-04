@@ -3,7 +3,7 @@ id: game-balance-overview
 title: Game Balance — What It Is and Why It Matters
 type: atomic
 disciplines: [mechanics]
-sources: [s001, s005, s011]
+sources: [s001, s005, s011, s020, s022]
 hp: true
 tags: [concept]
 status: evergreen
@@ -21,6 +21,8 @@ Balance is a property of the complete game+player system — not a state achieve
 - **Schell (s005, ch.11):** "Adjusting game elements until they generate exactly the experience you want." Analogy: cooking — not just identifying ingredients (mechanic design) but calibrating proportions and combinations. Identifies 12 distinct types of balance (fairness, challenge vs. success, meaningful choices, skill vs. chance, head vs. hands, competition vs. cooperation, short vs. long, rewards, punishments, freedom vs. control, simple vs. complex, detail vs. imagination).
 - **MDA framing (s011):** Balance is experienced at the Dynamics layer. The Monopoly flaw is a mechanics-level positive feedback loop that produces wrong Dynamics → wrong Aesthetics. Balance failures are usually Dynamics problems, not Mechanics problems.
 - **Balance is never "done"**: every player finds new imbalances; in live games, balance is a weekly operational task.
+- **Celeste (s020):** instant respawn with near-zero death friction lowers the *cost* of failure without lowering the *ceiling* of challenge — a structural approach to maintaining flow. Tiered difficulty (main path / B-sides / C-sides) lets the core challenge be tuned for a specific level without excluding players above or below it.
+- **Into the Breach (s022):** perfect information (all enemy actions shown before the player moves) generates tension without RNG — the challenge is puzzle-solving from complete knowledge, not hedging against uncertainty. Multi-priority decisions (buildings + mechs + objectives) prevent any single priority from dominating, creating genuine decision variance across turns.
 
 ## Connections
 
@@ -36,3 +38,5 @@ Balance is a property of the complete game+player system — not a state achieve
 - [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.9
 - [s005-art-of-game-design](../sources/s005-art-of-game-design.md) · ch.11
 - [s011-mda-framework](../sources/s011-mda-framework.md) · full paper (Monopoly case)
+- [s020-designing-celeste](../sources/s020-designing-celeste.md) · tiered difficulty, instant respawn as flow tool
+- [s022-into-the-breach-postmortem](../sources/s022-into-the-breach-postmortem.md) · perfect information, multi-priority decisions

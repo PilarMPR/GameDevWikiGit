@@ -3,7 +3,7 @@
 The content catalog for this wiki. Read this first to locate pages, then drill in.
 Updated on every ingest. `[[links]]` to pages not yet created are TODOs.
 
-**Topic:** Game development · **Sources ingested:** 17
+**Topic:** Game development · **Sources ingested:** 25
 
 ---
 
@@ -29,6 +29,14 @@ Updated on every ingest. `[[links]]` to pages not yet created are TODOs.
 - [[wiki/sources/s015-design-of-everyday-things]] — *The Design of Everyday Things*, Norman (2013). Usability / HCD foundations.
 - [[wiki/sources/s016-theory-of-fun]] — *A Theory of Fun*, Koster (2013). Fun = learning patterns.
 - [[wiki/sources/s017-f2p-design-handbook]] — *Ultimate F2P Handbook (Pt 1/4)*, "Genesis" (Medium). Core F2P design.
+- [[10-Library/sources/s018-juice-it-or-lose-it]] — *Juice It or Lose It*, Jonasson & Purho (GDC Europe 2012). Maximum output for minimum input; juice taxonomy; game feel as feedback density.
+- [[10-Library/sources/s019-the-door-problem]] — *The Door Problem*, Liz England (blog 2014). Designer's cross-cutting role; one object, every discipline; successful design is invisible.
+- [[10-Library/sources/s020-designing-celeste]] — *Level Design Workshop: Designing Celeste*, Thorson & Berry (GDC 2018). One-mechanic-per-room; tiered difficulty; Assist Mode; instant respawn as flow tool.
+- [[10-Library/sources/s021-30-things-i-hate-about-your-pitch]] — *30 Things I Hate About Your Game Pitch*, Brian Upton (GDC 2017). The two foundation questions; design pillars vs. pitch hooks; 30 failure modes.
+- [[10-Library/sources/s022-into-the-breach-postmortem]] — *Into the Breach Design Postmortem*, Matthew Davis (GDC 2019). Perfect information; tension without RNG; Power Grid health inversion; multi-priority decisions.
+- [[10-Library/sources/s023-spelunky-dna-roguelike]] — *Spelunky and the DNA of a Roguelike*, Derek Yu (synthesized GDC 2011/2021). Symmetry rule as emergence engine; structured randomness; spiky difficulty; permadeath as world-building.
+- [[10-Library/sources/s024-shovel-knight-designing-by-accident]] — *Shovel Knight: Designing by Accident*, Yacht Club Games (synthesized 2014-2015). NES-constraint philosophy; constraint-as-filter; designing by accident; accidental design coherence.
+- [[10-Library/sources/s025-thief-dark-project-postmortem]] — *Classic Game Postmortem: Thief: The Dark Project*, Smith & Stellmach (GDC 2016). Stealth inversion; AI crisis and three-week rewrite; Dark Object System (ECS precursor); Light Gem; scenario vs. puzzle design.
 
 ## Entities
 - [[wiki/entities/michael-sellers]] — game designer/educator; author of s001 (Advanced Game Design; systems approach)
@@ -58,6 +66,7 @@ The wiki is organized as a **concept-first compendium** — each page synthesize
 
 ### Feel & Controls
 - [[wiki/concepts/feel-and-controls/game-feel]] — Swink's three building blocks (real-time control, simulated space, polish); 6 measurable components; 3Cs.
+- [[10-Library/notes/game-feel-juice]] — Juice (s018): maximum output for minimum input; juice taxonomy (motion/impact/destruction/systemic/personality/audio-visual); the counter-argument.
 - [[wiki/concepts/feel-and-controls/camera-design]] — static vs. dynamic; first-person, third-person, top-down, side-scrolling, isometric; camera and game feel.
 - [[wiki/concepts/feel-and-controls/input-and-controls]] — 240ms boundary, input-to-response mapping, analog vs. digital, identity extension, accessibility.
 - [[wiki/concepts/feel-and-controls/feedback-systems]] — 5 feedback channels (visual/audio/haptic/diegetic/narrative), tells, calibration, Norman's gulf of evaluation.
