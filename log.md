@@ -523,6 +523,9 @@ Thief production failure patterns); `Iteration, Playtesting & Production` (+s020
 prototype-as-design-document convergence, spiky difficulty); `Cybernetics, Complexity & Emergent
 Systems` (+s023 Spelunky symmetry rule as emergence mechanism, +s025 Act-React System parallel).
 
+## [2026-06-04] ingest | s026 Game Programming Algorithms and Techniques
+First programming textbook in the wiki — Madhav (2014), 14 chapters, platform-agnostic survey of game loop, 2D/3D graphics, linear algebra, input, sound, physics/collision, cameras, A* + FSM AI, UI, scripting/data formats, and networking. Establishes the technical substrate for design decisions already documented in s001–s025: delta time as the frame-rate-independence guarantee for game feel; dead zones + binding systems as the pre-conditions for input accessibility; spring camera constant as the single biggest driver of third-person "weight"; A* on nav meshes as the level-design constraint for AI navigation; client prediction vs. lockstep as the architectural commitment that determines multiplayer feel. Cross-references added to `05-Syntheses/Cybernetics, Complexity & Emergent Systems` (game loop as feedback system) and `10-Library/notes/game-loops-definition` (delta time, multithreading, object model). This source fills a significant gap: the wiki previously had no account of how design intent becomes a running simulation.
+
 ## [2026-06-04] ingest | s018-s025 Game Design Talks (8 sources)
 Filed 8 non-PDF sources (talks and blog posts) as s018-s025 in `10-Library/sources/`:
   - s018 — Juice It or Lose It (Jonasson & Purho, GDC Europe 2012): juice taxonomy; maximum output for minimum input; feedback density as game feel; counter-argument (Kelly)

@@ -19,19 +19,25 @@ Movimiento base: snappy, responsive, sensation real de movimiento. Toda la acele
 - Se puede push/catch mientras se corre
 
 ### Características clave
-- **Curva de aceleración**: de idle → full sprint gradualmente
+- ~~**Curva de aceleración**: de idle → full sprint gradualmente~~
+	- Curva aceleración lineal. no haya gradientes
 - **Curva de deceleración**: al soltar input, frenado suave (inertia)
 - **Turn sharpness**: cambios de dirección limitados; sin pivot 180° instantáneo. A más velocidad → más snap de dirección (efecto "quiebro")
-- **Slope response**: bajada = más velocidad; subida = menos velocidad
+- **Slope response**: 
+	- bajada = más velocidad; 
+	- subida ~~= menos velocidad~~
+		- parada a todos
 - **Input buffering**: pre-input de jump/slide/roll aceptado durante el run
 
 ### Game feel (VFX/SFX)
-| Elemento | Tipo | Descripción |
-|----------|------|-------------|
-| Dust particles al correr | VFX | Polvo pequeño por paso al tocar suelo |
-| Speed acceleration | Camera FOV | Al llegar a velocidad X, FOV se amplía ligeramente |
-| Stepping sounds | SFX | Pasos; más graves y pesados al sprintar |
-| Strong brake | VFX/SFX | Partículas de polvo en dirección del freno + sonido de zapato frenando |
+| Elemento                 | Tipo       | Descripción                                                            |
+| ------------------------ | ---------- | ---------------------------------------------------------------------- |
+| Dust particles al correr | VFX        | Polvo pequeño por paso al tocar suelo                                  |
+| Speed acceleration       | Camera FOV | Al llegar a velocidad X, FOV se amplía ligeramente                     |
+| Stepping sounds          | SFX        | Pasos; más graves y pesados al sprintar                                |
+| Strong brake             | VFX/SFX    | Partículas de polvo en dirección del freno + sonido de zapato frenando |
+| Camera shake             | Camera     | When tagged                                                            |
+| Camera arm               | camera arm | también un mini altura gain                                            |
 
 ### Variables
 

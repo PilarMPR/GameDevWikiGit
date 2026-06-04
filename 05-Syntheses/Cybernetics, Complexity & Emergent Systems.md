@@ -178,6 +178,8 @@ Why do games uniquely develop complex systems thinking skills?
 | Simulation is always abstracted; the right abstraction retains interesting system behavior | s001, s013 |
 | Consistently applied rules with no exceptions are the engine of emergent player agency — every exception is a missed interaction | s023, s025 |
 | The symmetry rule (all entities obey the same physics): Spelunky generates emergent narrative from 4 simple interaction rules applied uniformly | s023 |
+| The game loop itself is a cybernetic feedback system: input → update → render → (player perceives) → new input. Delta time is the control variable that makes the loop hardware-independent. Multithreaded loops (render thread one frame behind update thread) are a second-order feedback optimization for throughput. | s026, ch.1 |
+| Physics integration methods (Euler / semi-implicit Euler / Velocity Verlet) are numerical approximations of continuous feedback dynamics. Semi-implicit Euler is the industry default because it conserves energy better than forward Euler while remaining cheap. | s026, ch.7 |
 
 ---
 
@@ -193,6 +195,6 @@ Why do games uniquely develop complex systems thinking skills?
 
 **Complex system design goal:** Hot Potato should be at the **edge of chaos** — sessions that are unpredictable, where the leader can be overtaken, where the last 30 seconds create genuine uncertainty. Runaway winner states (one player dominates the whole match) should be impossible.
 
-**Sources:** s013 (Salen & Zimmerman) · s001 (Sellers) · s005 (Schell) · s011 (MDA) · s023 (Derek Yu, Spelunky) · s025 (Smith & Stellmach, Thief)
+**Sources:** s013 (Salen & Zimmerman) · s001 (Sellers) · s005 (Schell) · s011 (MDA) · s023 (Derek Yu, Spelunky) · s025 (Smith & Stellmach, Thief) · s026 (Madhav, Game Programming Algorithms and Techniques)
 
 **See also:** [reinforcing-vs-balancing-loops](../10-Library/notes/reinforcing-vs-balancing-loops.md) · [emergence-definition](../10-Library/notes/emergence-definition.md) · [game-as-system](../10-Library/notes/game-as-system.md) · [Mechanics across the canon](../00-Atlas/bridges/Mechanics%20across%20the%20canon.md)

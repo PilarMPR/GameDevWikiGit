@@ -3,7 +3,7 @@ id: game-loops-definition
 title: Game Loops — Definition and Structure
 type: atomic
 disciplines: [mechanics, theory]
-sources: [s001, s011, s017]
+sources: [s001, s011, s017, s026]
 hp: true
 tags: [concept]
 status: evergreen
@@ -23,6 +23,7 @@ A game loop is a **causal chain that cycles back to its own starting point**, cr
 - **Core loop anatomy:** Player intent → Player action → Game state change → Game feedback → new Player intent.
 - **Three kinds of loops** (s001, ch.7): **Core loops** (what the player does most of the time), **Outer loops** (longer-period loops providing large-scale structure and retention), and nested loops of different timescales.
 - Every loop is either **reinforcing** (positive feedback — output amplifies condition) or **balancing** (negative feedback — output reduces gap). Sustaining engagement requires balancing reinforcing against balancing loops.
+- **Implementation layer (s026, ch.1):** the game loop is a literal software loop — `while(running) { processInput(); update(dt); render(); }`. **Delta time (dt)** is elapsed seconds since the last frame; all movement and physics must be scaled by dt or the game runs at different speeds on different hardware. Real-time vs. game-time scaling (dt × scalar) is the technical basis for slow motion, bullet time, and replay systems. Multithreaded loops overlap the render thread and the update thread for throughput; the render thread runs one frame behind. **Game object model** patterns: update-only (logic), draw-only (static geometry), update+draw (typical entity) — a precursor to ECS architecture.
 
 ## Connections
 
@@ -37,3 +38,4 @@ A game loop is a **causal chain that cycles back to its own starting point**, cr
 - [s001-advanced-game-design](../sources/s001-advanced-game-design.md) · ch.4, ch.7
 - [s011-mda-framework](../sources/s011-mda-framework.md) · full paper (Dynamics layer)
 - [s017-f2p-design-handbook](../sources/s017-f2p-design-handbook.md) · Part 1
+- [s026-game-programming-algorithms-and-techniques](../sources/s026-game-programming-algorithms-and-techniques.md) · ch.1 (game loop implementation, delta time, real time vs. game time, frame limiting, multithreaded loop architecture, game object model)

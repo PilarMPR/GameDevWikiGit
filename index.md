@@ -3,7 +3,7 @@
 The content catalog for this wiki. Read this first to locate pages, then drill in.
 Updated on every ingest. `[[links]]` to pages not yet created are TODOs.
 
-**Topic:** Game development · **Sources ingested:** 25
+**Topic:** Game development · **Sources ingested:** 26
 
 ---
 
@@ -37,6 +37,7 @@ Updated on every ingest. `[[links]]` to pages not yet created are TODOs.
 - [[10-Library/sources/s023-spelunky-dna-roguelike]] — *Spelunky and the DNA of a Roguelike*, Derek Yu (synthesized GDC 2011/2021). Symmetry rule as emergence engine; structured randomness; spiky difficulty; permadeath as world-building.
 - [[10-Library/sources/s024-shovel-knight-designing-by-accident]] — *Shovel Knight: Designing by Accident*, Yacht Club Games (synthesized 2014-2015). NES-constraint philosophy; constraint-as-filter; designing by accident; accidental design coherence.
 - [[10-Library/sources/s025-thief-dark-project-postmortem]] — *Classic Game Postmortem: Thief: The Dark Project*, Smith & Stellmach (GDC 2016). Stealth inversion; AI crisis and three-week rewrite; Dark Object System (ECS precursor); Light Gem; scenario vs. puzzle design.
+- [[10-Library/sources/s026-game-programming-algorithms-and-techniques]] — *Game Programming Algorithms and Techniques*, Madhav (2014). The wiki's first programming textbook. Game loop + delta time, 2D/3D graphics, input, sound, physics/collision, cameras, A* pathfinding, FSM AI, networking (client prediction/lockstep), UI. Bridges design intent to technical implementation.
 
 ## Entities
 - [[wiki/entities/michael-sellers]] — game designer/educator; author of s001 (Advanced Game Design; systems approach)
